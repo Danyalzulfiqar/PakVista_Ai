@@ -1,0 +1,117 @@
+{
+  "savedDestinations": [
+    {
+      "id": 1,
+      "title": "Shangrila Resort",
+      "location": "Skardu, Pakistan",
+      "description": "A luxury resort nestled in the mountains of Skardu, offering breathtaking views and world-class amenities.",
+      "bestTime": "May to September",
+      "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+      "category": "Resort",
+      "isFavorite": true
+    },
+    {
+      "id": 2,
+      "title": "Hunza Valley",
+      "location": "Gilgit-Baltistan, Pakistan",
+      "description": "Known as the 'Shangri-La' of Pakistan, this valley offers stunning mountain views and rich cultural heritage.",
+      "bestTime": "April to October",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/d5/1c/94/passu-valley-hunza-valley.jpg?w=800&h=-1&s=1",
+      "category": "Valley",
+      "isFavorite": true
+    },
+    {
+      "id": 3,
+      "title": "Badshahi Mosque",
+      "location": "Lahore, Pakistan",
+      "description": "One of the world's largest mosques, showcasing magnificent Mughal architecture and historical significance.",
+      "bestTime": "October to March",
+      "image": "https://images.unsplash.com/photo-1584551246679-0daf3d275d0f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+      "category": "Historical",
+      "isFavorite": false
+    },
+    {
+      "id": 4,
+      "title": "Fairy Meadows",
+      "location": "Gilgit-Baltistan, Pakistan",
+      "description": "A beautiful alpine meadow offering spectacular views of Nanga Parbat, the world's ninth-highest mountain.",
+      "bestTime": "June to September",
+      "image": "https://seepakistantours.com/wp-content/uploads/2022/11/Fairy-Meadows-2-480x300.jpg",
+      "category": "Nature",
+      "isFavorite": true
+    },
+    {
+      "id": 5,
+      "title": "Mohatta Palace",
+      "location": "Karachi, Pakistan",
+      "description": "A stunning example of Indo-Saracenic architecture, now serving as a museum showcasing Pakistan's cultural heritage.",
+      "bestTime": "November to February",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbnRkC1Cy-r6_yJWElZkdS1SSixEvvQ7ieKQ&s",
+      "category": "Historical",
+      "isFavorite": false
+    }
+  ],
+  "recentlyViewed": [
+    {
+      "id": 1,
+      "title": "Shangrila Resort",
+      "location": "Skardu, Pakistan",
+      "bestTime": "May to September",
+      "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+      "viewedAt": "2 hours ago"
+    },
+    {
+      "id": 2,
+      "title": "Hunza Valley",
+      "location": "Gilgit-Baltistan, Pakistan",
+      "bestTime": "April to October",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/d5/1c/94/passu-valley-hunza-valley.jpg?w=800&h=-1&s=1",
+      "viewedAt": "5 hours ago"
+    },
+    {
+      "id": 3,
+      "title": "Badshahi Mosque",
+      "location": "Lahore, Pakistan",
+      "bestTime": "October to March",
+      "image": "https://images.unsplash.com/photo-1584551246679-0daf3d275d0f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+      "viewedAt": "1 day ago"
+    },
+    {
+      "id": 4,
+      "title": "Fairy Meadows",
+      "location": "Gilgit-Baltistan, Pakistan",
+      "bestTime": "June to September",
+      "image": "https://seepakistantours.com/wp-content/uploads/2022/11/Fairy-Meadows-2-480x300.jpg",
+      "viewedAt": "2 days ago"
+    }
+  ],
+  "favorites": [
+    {
+      "id": 1,
+      "title": "Shangrila Resort",
+      "location": "Skardu, Pakistan",
+      "description": "A luxury resort nestled in the mountains of Skardu, offering breathtaking views and world-class amenities.",
+      "bestTime": "May to September",
+      "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+      "category": "Resort"
+    },
+    {
+      "id": 2,
+      "title": "Hunza Valley",
+      "location": "Gilgit-Baltistan, Pakistan",
+      "description": "Known as the 'Shangri-La' of Pakistan, this valley offers stunning mountain views and rich cultural heritage.",
+      "bestTime": "April to October",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/d5/1c/94/passu-valley-hunza-valley.jpg?w=800&h=-1&s=1",
+      "category": "Valley"
+    },
+    {
+      "id": 4,
+      "title": "Fairy Meadows",
+      "location": "Gilgit-Baltistan, Pakistan",
+      "description": "A beautiful alpine meadow offering spectacular views of Nanga Parbat, the world's ninth-highest mountain.",
+      "bestTime": "June to September",
+      "image": "https://seepakistantours.com/wp-content/uploads/2022/11/Fairy-Meadows-2-480x300.jpg",
+      "category": "Nature"
+    }
+  ]
+} 

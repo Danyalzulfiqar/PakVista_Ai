@@ -1,0 +1,89 @@
+{
+  "featuredDestinations": [
+    {
+      "id": 1,
+      "title": "Hunza Valley",
+      "location": "Northern Areas",
+      "description": "Experience the breathtaking beauty of the Karakoram Range",
+      "bestTime": "May-Oct",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/d5/1c/94/passu-valley-hunza-valley.jpg?w=800&h=-1&s=1",
+      "category": "Mountains"
+    },
+    {
+      "id": 2,
+      "title": "Swat Valley",
+      "location": "Khyber Pakhtunkhwa",
+      "description": "Discover the Switzerland of Pakistan with its lush green valleys",
+      "bestTime": "Apr-Sep",
+      "image": "https://peacetourism.org/wp-content/uploads/2019/05/Peace-Tourism.jpg",
+      "category": "Valleys"
+    },
+    {
+      "id": 3,
+      "title": "Gwadar",
+      "location": "Balochistan",
+      "description": "Explore the pristine beaches and coastal beauty",
+      "bestTime": "Oct-Mar",
+      "image": "https://gda.gov.pk/uploads/Place/1746186494_md1%20(1).jpg",
+      "category": "Beaches"
+    }
+  ],
+  "travelStories": [
+    {
+      "id": 1,
+      "author": {
+        "name": "Daniyal Zulfiqar",
+        "avatar": "DZ",
+        "role": "Travel Enthusiast"
+      },
+      "title": "My Adventure in the Karakoram",
+      "content": "An unforgettable journey through the majestic mountains of Pakistan...",
+      "fullContent": "The Karakoram Range, home to some of the world's highest peaks, has always been a dream destination for mountaineers and adventure seekers. My journey began in the picturesque Hunza Valley, where the mighty Rakaposhi peak stands guard over the valley.\n\nAs I trekked through the rugged terrain, each step revealed breathtaking vistas that seemed straight out of a painting. The local Hunza people, known for their longevity and hospitality, welcomed us with warm smiles and stories of their mountain heritage.\n\nThe highlight of my journey was reaching the base camp of K2, the world's second-highest peak. Standing in the shadow of this magnificent mountain, I understood why it's called the 'Savage Mountain'. The experience was both humbling and exhilarating.\n\nThroughout the journey, I was struck by the perfect harmony between nature and culture in this region. The ancient Balti villages, with their terraced fields and traditional architecture, seemed to have grown organically from the landscape itself.",
+      "readTime": "5 min read",
+      "image": "https://media-gadventures.global.ssl.fastly.net/media-server/dynamic/blogs/posts/G-Adventures/2025/02/blog-pakistan-karakoram-khunjerab-pass.webp",
+      "location": "Karakoram Range",
+      "date": "March 15, 2024",
+      "likes": 245,
+      "saves": 89
+    },
+    {
+      "id": 2,
+      "author": {
+        "name": "Sarah Khan",
+        "avatar": "SK",
+        "role": "Photographer"
+      },
+      "title": "Exploring the Hidden Treasures of Swat",
+      "content": "A photographic journey through the beautiful valleys and ancient Buddhist sites...",
+      "fullContent": "Swat Valley, often called the 'Switzerland of Pakistan', is a photographer's paradise. My journey through this enchanting valley was a visual feast, from the snow-capped peaks to the emerald green meadows.\n\nThe ancient Buddhist stupas and monasteries scattered throughout the valley tell stories of a rich cultural heritage. The Butkara Stupa, dating back to the 2nd century BCE, stands as a testament to the region's historical significance.\n\nOne of my most memorable experiences was witnessing the local festivals, where the Kalash people celebrate their unique traditions with music, dance, and colorful attire. The vibrant culture of the valley is as captivating as its natural beauty.\n\nAs I captured the changing seasons through my lens, I realized that Swat is not just a destination; it's an experience that engages all your senses. The sound of the Swat River, the scent of pine forests, and the taste of local cuisine all contribute to making this journey unforgettable.",
+      "readTime": "7 min read",
+      "image": "https://peacetourism.org/wp-content/uploads/2019/05/Peace-Tourism.jpg",
+      "location": "Swat Valley",
+      "date": "February 28, 2024",
+      "likes": 189,
+      "saves": 67
+    }
+  ],
+  "seasonalRecommendations": {
+    "Spring": [
+      "Cherry Blossoms in Gilgit",
+      "Tulip Festival in Islamabad",
+      "Spring Festivals in Lahore"
+    ],
+    "Summer": [
+      "Beach Getaway in Gwadar",
+      "Desert Safari in Cholistan",
+      "Mountain Trekking in K2"
+    ],
+    "Autumn": [
+      "Colorful Valleys of Swat",
+      "Harvest Festivals in Punjab",
+      "Desert Camping in Thar"
+    ],
+    "Winter": [
+      "Snow Adventures in Malam Jabba",
+      "Hot Springs in Hunza",
+      "Winter Festivals in Skardu"
+    ]
+  }
+} 

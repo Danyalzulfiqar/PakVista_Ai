@@ -6,7 +6,7 @@ import ChatRightColumn from '../components/chat/ChatRightColumn';
 
 function Chat() {
   return (
-    <div className="flex h-screen bg-gray-50">
+    <div className="flex h-screen bg-gradient-to-br from-gray-900 via-gray-800 to-blue-900">
       <Sidebar />
       <div className="flex-1 pl-16">
         <Navbar2 />

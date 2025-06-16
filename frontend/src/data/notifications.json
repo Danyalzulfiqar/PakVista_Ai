@@ -1,0 +1,67 @@
+{
+  "notifications": [
+    {
+      "id": 1,
+      "type": "like",
+      "status": "unread",
+      "title": "New Like",
+      "message": "Sarah liked your destination 'Hunza Valley'",
+      "time": "2 minutes ago",
+      "action": false
+    },
+    {
+      "id": 2,
+      "type": "save",
+      "status": "unread",
+      "title": "Destination Saved",
+      "message": "John saved your travel plan 'Northern Pakistan Adventure'",
+      "time": "15 minutes ago",
+      "action": false
+    },
+    {
+      "id": 3,
+      "type": "share",
+      "status": "read",
+      "title": "Plan Shared",
+      "message": "Your travel plan 'Karachi Food Tour' was shared 5 times",
+      "time": "1 hour ago",
+      "action": false
+    },
+    {
+      "id": 4,
+      "type": "location",
+      "status": "unread",
+      "title": "New Location Added",
+      "message": "A new destination 'Skardu' has been added to your region",
+      "time": "2 hours ago",
+      "action": true
+    },
+    {
+      "id": 5,
+      "type": "event",
+      "status": "read",
+      "title": "Upcoming Event",
+      "message": "Pakistan Travel Expo starts in 3 days",
+      "time": "1 day ago",
+      "action": true
+    },
+    {
+      "id": 6,
+      "type": "mentions",
+      "status": "unread",
+      "title": "New Mention",
+      "message": "Alex mentioned you in a comment about 'Lahore Fort'",
+      "time": "2 days ago",
+      "action": false
+    },
+    {
+      "id": 7,
+      "type": "updates",
+      "status": "read",
+      "title": "System Update",
+      "message": "New features have been added to your travel planner",
+      "time": "3 days ago",
+      "action": false
+    }
+  ]
+} 

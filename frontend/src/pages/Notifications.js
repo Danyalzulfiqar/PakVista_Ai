@@ -1,38 +1,104 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import Sidebar from '../components/common/Sidebar';
+import NotificationCard from '../components/notification/NotificationCard';
+import NotificationFilter from '../components/notification/NotificationFilter';
+import { FaBell, FaCheck, FaTrash } from 'react-icons/fa';
+import notificationsData from '../data/notifications.json';
 
 function Notifications() {
+  const [notifications, setNotifications] = useState([]);
+  const [activeFilter, setActiveFilter] = useState('all');
+  const [searchQuery, setSearchQuery] = useState('');
+
+  useEffect(() => {
+    // Load notifications from data
+    setNotifications(notificationsData.notifications);
+  }, []);
+
+  const handleFilterChange = (filter) => {
+    setActiveFilter(filter);
+  };
+
+  const handleSearch = (query) => {
+    setSearchQuery(query);
+  };
+
+  const handleMarkAllRead = () => {
+    setNotifications(notifications.map(notification => ({
+      ...notification,
+      status: 'read'
+    })));
+  };
+
+  const handleClearAll = () => {
+    setNotifications([]);
+  };
+
+  const filteredNotifications = notifications.filter(notification => {
+    const matchesFilter = activeFilter === 'all' || 
+      (activeFilter === 'unread' && notification.status === 'unread') ||
+      (activeFilter === 'mentions' && notification.type === 'mentions') ||
+      (activeFilter === 'interactions' && ['like', 'save', 'share'].includes(notification.type)) ||
+      (activeFilter === 'updates' && notification.type === 'updates');
+
+    const matchesSearch = notification.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
+      notification.message.toLowerCase().includes(searchQuery.toLowerCase());
+
+    return matchesFilter && matchesSearch;
+  });
+
   return (
-    <div className="flex h-screen bg-gray-50">
+    <div className="flex h-screen bg-gradient-to-br from-gray-900 via-gray-800 to-blue-900">
       <Sidebar />
       <div className="flex-1 pl-16">
-        <div className="fixed left-0 right-0 top-0 z-20 flex h-16 items-center gap-2 bg-white/80 pr-8 backdrop-blur-md sm:left-16 sm:px-7 border-b">
-          <div className="-ml-3 min-w-0 flex-1">
-            <h1 className="pl-2 text-xs font-semibold xl:text-base">Notifications</h1>
+        <div className="fixed left-0 right-0 top-0 z-20 flex h-16 items-center justify-between bg-gray-800/90 pr-8 backdrop-blur-md sm:left-16 sm:px-7 border-b border-cyan-900">
+          <div className="flex items-center gap-4">
+            <h1 className="text-xs font-semibold xl:text-base text-cyan-300 drop-shadow-[0_0_6px_rgba(34,211,238,0.7)]">Notifications</h1>
+            <div className="flex items-center gap-2">
+              <button
+                onClick={handleMarkAllRead}
+                className="px-3 py-1 text-sm rounded-full bg-cyan-600/20 hover:bg-cyan-600/40 text-cyan-300 transition-colors flex items-center gap-1"
+              >
+                <FaCheck className="text-xs" />
+                <span>Mark all as read</span>
+              </button>
+              <button
+                onClick={handleClearAll}
+                className="px-3 py-1 text-sm rounded-full bg-gray-700/50 hover:bg-gray-700/70 text-cyan-300 transition-colors flex items-center gap-1"
+              >
+                <FaTrash className="text-xs" />
+                <span>Clear all</span>
+              </button>
+            </div>
           </div>
         </div>
         
-        <main className="flex h-[calc(100vh-64px)] items-center justify-center">
-          <div className="text-center">
-            <div className="mb-6">
-              <svg 
-                className="mx-auto h-16 w-16 text-gray-400"
-                fill="none" 
-                viewBox="0 0 24 24" 
-                stroke="currentColor"
-              >
-                <path 
-                  strokeLinecap="round" 
-                  strokeLinejoin="round" 
-                  strokeWidth={1.5} 
-                  d="M15 17h5l-1.405-1.405A2.032 2.032 0 0118 14.158V11a6.002 6.002 0 00-4-5.659V5a2 2 0 10-4 0v.341C7.67 6.165 6 8.388 6 11v3.159c0 .538-.214 1.055-.595 1.436L4 17h5m6 0v1a3 3 0 11-6 0v-1m6 0H9"
+        <main className="h-[calc(100vh-64px)] overflow-y-auto">
+          <NotificationFilter
+            activeFilter={activeFilter}
+            onFilterChange={handleFilterChange}
+            onSearch={handleSearch}
+          />
+          
+          <div className="p-4 space-y-4">
+            {filteredNotifications.length > 0 ? (
+              filteredNotifications.map(notification => (
+                <NotificationCard
+                  key={notification.id}
+                  notification={notification}
                 />
-              </svg>
-            </div>
-            <h2 className="text-2xl font-semibold text-gray-800 mb-2">Notifications Coming Soon</h2>
-            <p className="text-gray-600 max-w-sm mx-auto">
-              We're working on bringing you real-time updates about your travel plans and important announcements.
-            </p>
+              ))
+            ) : (
+              <div className="text-center py-12">
+                <div className="mb-4">
+                  <FaBell className="mx-auto h-12 w-12 text-cyan-400/50" />
+                </div>
+                <h3 className="text-xl font-semibold text-cyan-200 mb-2">No Notifications</h3>
+                <p className="text-cyan-300/70">
+                  {searchQuery ? 'No notifications match your search.' : 'You\'re all caught up!'}
+                </p>
+              </div>
+            )}
           </div>
         </main>
       </div>

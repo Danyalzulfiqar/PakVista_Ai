@@ -50,7 +50,7 @@ function ExploreRightColumn() {
   const [mapError, setMapError] = useState(null);
 
   return (
-    <div className=" fixed top-0 right-0 bottom-0 w-1/2 bg-white">
+    <div className="fixed top-0 right-0 bottom-0 w-[43%] bg-gradient-to-br from-gray-900 via-gray-800 to-blue-900">
       {mapError && (
         <div className="absolute inset-0 flex items-center justify-center bg-red-100 text-red-600 z-20">
           {mapError}

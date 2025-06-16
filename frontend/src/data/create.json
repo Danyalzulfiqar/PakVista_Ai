@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Hunza Valley Adventure",
+    "startLocation": "Islamabad",
+    "destinations": ["Naran", "Babusar Top", "Hunza Valley", "Attabad Lake"],
+    "startDate": "2024-07-10",
+    "endDate": "2024-07-20",
+    "travelers": 4,
+    "tripType": "Adventure",
+    "budget": 120000,
+    "gears": ["Backpack", "Camera", "Hiking Shoes", "Tent"],
+    "notes": "Don't forget to try local apricots and visit Baltit Fort."
+  },
+  {
+    "title": "Karachi to Gwadar Road Trip",
+    "startLocation": "Karachi",
+    "destinations": ["Ormara Beach", "Kund Malir", "Hingol National Park", "Gwadar"],
+    "startDate": "2024-08-05",
+    "endDate": "2024-08-10",
+    "travelers": 2,
+    "tripType": "Friends",
+    "budget": 80000,
+    "gears": ["Backpack", "Camera", "Snacks", "Water Bottle"],
+    "notes": "Plan for a night under the stars at Kund Malir."
+  },
+  {
+    "title": "Cultural Lahore Tour",
+    "startLocation": "Lahore",
+    "destinations": ["Badshahi Mosque", "Lahore Fort", "Shalimar Gardens", "Food Street"],
+    "startDate": "2024-09-15",
+    "endDate": "2024-09-17",
+    "travelers": 3,
+    "tripType": "Cultural",
+    "budget": 30000,
+    "gears": ["Camera", "Power Bank"],
+    "notes": "Try the famous Lahori breakfast and street food."
+  }
+] 
