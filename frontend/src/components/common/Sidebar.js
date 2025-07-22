@@ -165,12 +165,12 @@ function Sidebar() {
           </div>
         )}
         <div className="mt-4 space-y-2 px-3">
-          <button 
+        <button 
             className="w-full flex items-center space-x-2 p-2 rounded-xl text-cyan-300 hover:bg-cyan-600/10 hover:text-cyan-400 transition-colors"
-          >
-            <FaInfoCircle className="h-4 w-4" />
-            <span className={`${isExpanded ? 'sm:block' : 'hidden'} text-sm`}>Company Info</span>
-          </button>
+        >
+          <FaInfoCircle className="h-4 w-4" />
+          <span className={`${isExpanded ? 'sm:block' : 'hidden'} text-sm`}>Company Info</span>
+        </button>
         </div>
       </div>
     </nav>

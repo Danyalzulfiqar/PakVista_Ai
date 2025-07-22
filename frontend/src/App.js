@@ -10,20 +10,32 @@ import Create from './pages/Create';
 import StoryDetail from './components/inspiration/StoryDetail';
 import DestinationDetail from './components/inspiration/DestinationDetail';
 import Login from './pages/Login';
+import Signup from './pages/Signup';
+import Seed from './seed';
 import { AuthProvider, useAuth } from './context/AuthContext';
 // import './App.css';
 
 function PrivateRoute({ children }) {
-  const { isLoggedIn } = useAuth();
+  const { isLoggedIn, loading } = useAuth();
+  if (loading) {
+    // Show a loading spinner or nothing while checking auth state
+    return (
+      <div className="flex h-screen items-center justify-center bg-gradient-to-br from-gray-900 via-gray-800 to-blue-900">
+        <span className="text-cyan-300 text-xl font-semibold">Checking session...</span>
+      </div>
+    );
+  }
   return isLoggedIn ? children : <Navigate to="/login" replace />;
 }
 
 function App() {
   return (
     <AuthProvider>
+      {/* <Seed /> */}
       <Router>
         <Routes>
           <Route path="/login" element={<Login />} />
+          <Route path="/signup" element={<Signup />} />
           <Route path="/" element={<PrivateRoute><Home /></PrivateRoute>} />
           <Route path="/chat" element={<PrivateRoute><Chat /></PrivateRoute>} />
           <Route path="/explore" element={<PrivateRoute><Explore /></PrivateRoute>} />

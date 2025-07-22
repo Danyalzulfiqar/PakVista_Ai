@@ -47,11 +47,11 @@ function Navbar() {
           <div className="flex-shrink-0 flex items-center">
             <Link to="/" className="flex items-center space-x-2 group">
               <div className="relative">
-                <img
+              <img
                   className="h-12 w-12 rounded-full transition-transform duration-300 group-hover:scale-110"
-                  src="/logo.png"
-                  alt="PakVista"
-                />
+                src="/logo.png"
+                alt="PakVista"
+              />
                 <div className="absolute inset-0 bg-cyan-500/20 rounded-full blur-md group-hover:bg-cyan-500/30 transition-colors"></div>
               </div>
               <span className="text-2xl font-bold bg-gradient-to-r from-cyan-400 to-blue-500 bg-clip-text text-transparent">
@@ -128,15 +128,15 @@ function Navbar() {
                   </button>
                 </div>
               )}
-            </div>
-            
-            {/* Mobile Menu Button */}
-            <button 
-              onClick={() => setIsMenuOpen(!isMenuOpen)}
+              </div>
+              
+              {/* Mobile Menu Button */}
+              <button 
+                onClick={() => setIsMenuOpen(!isMenuOpen)}
               className="p-2 rounded-full text-cyan-300 hover:bg-cyan-600/20 hover:text-cyan-400 transition-colors md:hidden"
-            >
+              >
               <FaBars className="h-5 w-5" />
-            </button>
+              </button>
           </div>
         </div>
       </div>

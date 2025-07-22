@@ -134,3 +134,148 @@ Frontend (GUI) only, using JSON files for mock data. Backend and real data integ
 
 **Note:**  
 All features should be built with mock data and designed for easy backend/API integration in the future. 
+
+---
+
+## Firebase Integration Plan for PakVista.Ai Frontend
+
+### 1. Firebase Project Setup
+- [ ] Create a Firebase Project in the [Firebase Console](https://console.firebase.google.com/).
+- [ ] Register your app (add your web app to the Firebase project).
+- [ ] Get Firebase Config (API keys, project ID, etc.).
+
+### 2. Install Firebase SDK
+- [ ] In your React project, run:
+  ```bash
+  npm install firebase
+  ```
+- [ ] (Optional) Install additional packages if you plan to use Firebase UI or other helpers.
+
+### 3. Initialize Firebase in Your App
+- [ ] Create a file (e.g., `src/firebase.js`) and add your Firebase config and initialization code:
+  ```js
+  import { initializeApp } from 'firebase/app';
+  import { getAuth } from 'firebase/auth';
+  import { getFirestore } from 'firebase/firestore';
+  import { getStorage } from 'firebase/storage';
+
+  const firebaseConfig = {
+    // ...your config here
+  };
+
+  const app = initializeApp(firebaseConfig);
+  export const auth = getAuth(app);
+  export const db = getFirestore(app);
+  export const storage = getStorage(app);
+  ```
+- [ ] Import and use these exports in your components/services.
+
+### 4. Replace/Integrate Authentication
+- [ ] Replace your current hardcoded login logic with **Firebase Authentication**.
+- [ ] Update your `AuthContext` to use Firebase Auth methods:
+  - `signInWithEmailAndPassword`
+  - `signOut`
+  - `onAuthStateChanged` for persistent login
+- [ ] (Optional) Add social login (Google, Facebook, etc.) if desired.
+
+### 5. Migrate Data to Firestore
+- [ ] Identify all data currently stored in JSON files (`create.json`, `inspiration.json`, `saved.json`, `notifications.json`).
+- [ ] Design Firestore collections for:
+  - Users
+  - Trips/Plans
+  - Destinations
+  - Reviews/Comments
+  - Saved Items
+  - Notifications
+- [ ] Write migration scripts or manually add initial data to Firestore via the Firebase Console.
+
+### 6. Update Data Fetching and Writing
+- [ ] Replace all static JSON imports with Firestore queries:
+  - Use `getDocs`, `addDoc`, `updateDoc`, `deleteDoc` from `firebase/firestore`.
+- [ ] Update components to fetch data from Firestore (e.g., trip lists, destinations, user plans).
+- [ ] Update forms to write data to Firestore (e.g., creating a new trip plan).
+
+### 7. Integrate Cloud Storage (for Images/Files)
+- [ ] For any user-uploaded images (e.g., travel stories, destination photos), use Firebase Storage.
+- [ ] Update forms/components to upload files to Storage and save the file URLs in Firestore.
+
+### 8. Secure Data with Firestore Rules
+- [ ] Set up Firestore security rules to ensure users can only access their own data where appropriate.
+- [ ] Test rules using the Firebase Emulator Suite or the Console.
+
+### 9. (Optional) Add Cloud Functions for Custom Logic
+- [ ] If you need backend logic (e.g., notifications, triggers), set up Firebase Cloud Functions.
+- [ ] For now, your AI/ML will remain on the Flask server.
+
+### 10. Test the Integration
+- [ ] Test authentication flows (sign up, sign in, sign out, protected routes).
+- [ ] Test data fetching, creation, editing, and deletion.
+- [ ] Test file uploads and access.
+- [ ] Test security rules.
+
+### 11. Update Documentation
+- [ ] Document the new data flow and architecture.
+- [ ] Update your `plan.md` and/or `REQUIREMENTS.md` to reflect Firebase integration.
+
+---
+
+### Example: How a Component Changes
+
+**Before (using JSON):**
+```js
+import dummyPlans from '../data/create.json';
+// ... use dummyPlans in state
+```
+
+**After (using Firestore):**
+```js
+import { collection, getDocs } from 'firebase/firestore';
+import { db } from '../firebase';
+
+useEffect(() => {
+  const fetchPlans = async () => {
+    const querySnapshot = await getDocs(collection(db, 'plans'));
+    setPlans(querySnapshot.docs.map(doc => ({ id: doc.id, ...doc.data() })));
+  };
+  fetchPlans();
+}, []);
+```
+
+---
+
+### Summary Table
+
+| Step | Task                                      | Status  |
+|------|-------------------------------------------|---------|
+| 1    | Create Firebase project                   | [ ]     |
+| 2    | Install Firebase SDK                      | [ ]     |
+| 3    | Initialize Firebase in app                | [ ]     |
+| 4    | Integrate Firebase Auth                   | [ ]     |
+| 5    | Migrate data to Firestore                 | [ ]     |
+| 6    | Update data fetching/writing              | [ ]     |
+| 7    | Integrate Cloud Storage                   | [ ]     |
+| 8    | Set up Firestore security rules           | [ ]     |
+| 9    | (Optional) Add Cloud Functions            | [ ]     |
+| 10   | Test all features                         | [ ]     |
+| 11   | Update documentation                      | [ ]     | 
+
+
+
+
+// Import the functions you need from the SDKs you need
+import { initializeApp } from "firebase/app";
+// TODO: Add SDKs for Firebase products that you want to use
+// https://firebase.google.com/docs/web/setup#available-libraries
+
+// Your web app's Firebase configuration
+const firebaseConfig = {
+  apiKey: "AIzaSyDRmYyj4l1K2PN0BxmPMwLIy1M5Y8Nzgjg",
+  authDomain: "pakvista-6548c.firebaseapp.com",
+  projectId: "pakvista-6548c",
+  storageBucket: "pakvista-6548c.firebasestorage.app",
+  messagingSenderId: "915273181968",
+  appId: "1:915273181968:web:a667385829a7469f1e1395"
+};
+
+// Initialize Firebase
+const app = initializeApp(firebaseConfig);

@@ -3,17 +3,28 @@ import Sidebar from '../components/common/Sidebar';
 import NotificationCard from '../components/notification/NotificationCard';
 import NotificationFilter from '../components/notification/NotificationFilter';
 import { FaBell, FaCheck, FaTrash } from 'react-icons/fa';
-import notificationsData from '../data/notifications.json';
+import { db } from '../firebase';
+import { collection, getDocs, query, where } from 'firebase/firestore';
+import { useAuth } from '../context/AuthContext';
 
 function Notifications() {
   const [notifications, setNotifications] = useState([]);
   const [activeFilter, setActiveFilter] = useState('all');
   const [searchQuery, setSearchQuery] = useState('');
+  const [loading, setLoading] = useState(true);
+  const { user } = useAuth();
 
   useEffect(() => {
-    // Load notifications from data
-    setNotifications(notificationsData.notifications);
-  }, []);
+    const fetchNotifications = async () => {
+      if (!user) return;
+      setLoading(true);
+      const q = query(collection(db, 'notifications'), where('userId', '==', user.uid));
+      const snap = await getDocs(q);
+      setNotifications(snap.docs.map(doc => doc.data()));
+      setLoading(false);
+    };
+    fetchNotifications();
+  }, [user]);
 
   const handleFilterChange = (filter) => {
     setActiveFilter(filter);
@@ -46,6 +57,14 @@ function Notifications() {
 
     return matchesFilter && matchesSearch;
   });
+
+  if (loading) {
+    return (
+      <div className="flex h-screen items-center justify-center bg-gradient-to-br from-gray-900 via-gray-800 to-blue-900">
+        <span className="text-cyan-300 text-xl font-semibold">Loading notifications...</span>
+      </div>
+    );
+  }
 
   return (
     <div className="flex h-screen bg-gradient-to-br from-gray-900 via-gray-800 to-blue-900">
@@ -92,11 +111,11 @@ function Notifications() {
               <div className="text-center py-12">
                 <div className="mb-4">
                   <FaBell className="mx-auto h-12 w-12 text-cyan-400/50" />
-                </div>
+            </div>
                 <h3 className="text-xl font-semibold text-cyan-200 mb-2">No Notifications</h3>
                 <p className="text-cyan-300/70">
                   {searchQuery ? 'No notifications match your search.' : 'You\'re all caught up!'}
-                </p>
+            </p>
               </div>
             )}
           </div>

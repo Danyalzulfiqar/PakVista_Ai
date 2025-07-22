@@ -1,12 +1,39 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import Sidebar from '../components/common/Sidebar';
 import DestinationCard from '../components/inspiration/DestinationCard';
 import StoryCard from '../components/inspiration/StoryCard';
 import SeasonalCard from '../components/inspiration/SeasonalCard';
-import inspirationData from '../data/inspiration.json';
+import { db } from '../firebase';
+import { collection, getDocs } from 'firebase/firestore';
 
 function Inspiration() {
   const [activeTab, setActiveTab] = useState('all');
+  const [featuredDestinations, setFeaturedDestinations] = useState([]);
+  const [travelStories, setTravelStories] = useState([]);
+  const [seasonalRecommendations, setSeasonalRecommendations] = useState({});
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    const fetchData = async () => {
+      setLoading(true);
+      // Fetch featuredDestinations
+      const destSnap = await getDocs(collection(db, 'featuredDestinations'));
+      setFeaturedDestinations(destSnap.docs.map(doc => doc.data()));
+      // Fetch travelStories
+      const storySnap = await getDocs(collection(db, 'travelStories'));
+      setTravelStories(storySnap.docs.map(doc => doc.data()));
+      // Fetch seasonalRecommendations
+      const seasonSnap = await getDocs(collection(db, 'seasonalRecommendations'));
+      const seasonObj = {};
+      seasonSnap.docs.forEach(doc => {
+        const { season, recommendations } = doc.data();
+        seasonObj[season] = recommendations;
+      });
+      setSeasonalRecommendations(seasonObj);
+      setLoading(false);
+    };
+    fetchData();
+  }, []);
 
   const tabs = [
     { id: 'all', label: 'All' },
@@ -26,6 +53,14 @@ function Inspiration() {
   const handleShare = (id) => {
     console.log('Shared destination:', id);
   };
+
+  if (loading) {
+    return (
+      <div className="flex h-screen items-center justify-center bg-gradient-to-br from-gray-900 via-gray-800 to-blue-900">
+        <span className="text-cyan-300 text-xl font-semibold">Loading inspiration...</span>
+      </div>
+    );
+  }
 
   return (
     <div className="flex h-screen bg-gradient-to-br from-gray-900 via-gray-800 to-blue-900">
@@ -79,7 +114,7 @@ function Inspiration() {
             <section className="mb-12">
               <h2 className="text-xl font-semibold text-cyan-300 mb-6 drop-shadow-[0_0_4px_rgba(34,211,238,0.5)]">Featured Destinations</h2>
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                {inspirationData.featuredDestinations.map((destination) => (
+                {featuredDestinations.map((destination) => (
                   <DestinationCard
                     key={destination.id}
                     destination={destination}
@@ -94,7 +129,7 @@ function Inspiration() {
             <section className="mb-12">
               <h2 className="text-xl font-semibold text-cyan-300 mb-6 drop-shadow-[0_0_4px_rgba(34,211,238,0.5)]">Travel Stories</h2>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-                {inspirationData.travelStories.map((story) => (
+                {travelStories.map((story) => (
                   <StoryCard
                     key={story.id}
                     story={story}
@@ -109,7 +144,7 @@ function Inspiration() {
             <section>
               <h2 className="text-xl font-semibold text-cyan-300 mb-6 drop-shadow-[0_0_4px_rgba(34,211,238,0.5)]">Seasonal Recommendations</h2>
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-                {Object.entries(inspirationData.seasonalRecommendations).map(([season, recommendations]) => (
+                {Object.entries(seasonalRecommendations).map(([season, recommendations]) => (
                   <SeasonalCard
                     key={season}
                     season={season}

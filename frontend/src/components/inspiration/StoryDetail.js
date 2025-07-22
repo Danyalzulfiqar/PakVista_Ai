@@ -3,6 +3,9 @@ import { FaArrowLeft, FaClock, FaMapMarkerAlt, FaHeart, FaBookmark, FaShareAlt, 
 import { useNavigate, useParams } from 'react-router-dom';
 import inspirationData from '../../data/inspiration.json';
 import StoryCard from './StoryCard';
+import { db } from '../../firebase';
+import { collection, addDoc, query, where, getDocs } from 'firebase/firestore';
+import { useAuth } from '../../context/AuthContext';
 
 function StoryDetail() {
   const navigate = useNavigate();
@@ -12,6 +15,7 @@ function StoryDetail() {
   const [isLiked, setIsLiked] = useState(false);
   const [isSaved, setIsSaved] = useState(false);
   const [toast, setToast] = useState({ show: false, message: '', type: '' });
+  const { user } = useAuth();
 
   useEffect(() => {
     // Find the current story
@@ -31,6 +35,42 @@ function StoryDetail() {
     setTimeout(() => setToast({ show: false, message: '', type: '' }), 3000);
   };
 
+  // Helper to send notification to story author with logging
+  const sendNotificationToAuthor = async (type) => {
+    if (!story || !user) {
+      console.log('No story or user, skipping notification');
+      return;
+    }
+    try {
+      // Find author by displayName
+      const q = query(collection(db, 'users'), where('displayName', '==', story.author.name));
+      const snap = await getDocs(q);
+      if (!snap.empty) {
+        const authorDoc = snap.docs[0];
+        const authorUid = authorDoc.data().uid;
+        let actionText = '';
+        if (type === 'like') actionText = 'liked';
+        if (type === 'save') actionText = 'saved';
+        if (type === 'share') actionText = 'shared';
+        console.log('Attempting to add notification for authorUid:', authorUid);
+        await addDoc(collection(db, 'notifications'), {
+          userId: authorUid,
+          type,
+          status: 'unread',
+          title: `New ${type.charAt(0).toUpperCase() + type.slice(1)}`,
+          message: `${user.displayName || user.email} ${actionText} your story '${story.title}'`,
+          time: 'just now',
+          action: false,
+        });
+        console.log('Notification added for authorUid:', authorUid);
+      } else {
+        console.log('No author found with displayName:', story.author.name);
+      }
+    } catch (err) {
+      console.error('Notification error:', err);
+    }
+  };
+
   if (!story) {
     return (
       <div className="min-h-screen bg-gradient-to-br from-gray-900 via-gray-800 to-blue-900 flex items-center justify-center">
@@ -39,14 +79,24 @@ function StoryDetail() {
     );
   }
 
-  const handleLike = () => {
-    setIsLiked(!isLiked);
-    showToast(isLiked ? 'Removed from likes' : 'Added to likes', 'success');
+  const handleLike = async () => {
+    const newLiked = !isLiked;
+    setIsLiked(newLiked);
+    showToast(newLiked ? 'Added to likes' : 'Removed from likes', 'success');
+    if (newLiked) {
+      try {
+        await sendNotificationToAuthor('like');
+        console.log('Notification sent');
+      } catch (err) {
+        console.error('Notification error:', err);
+      }
+    }
   };
 
-  const handleSave = () => {
+  const handleSave = async () => {
     setIsSaved(!isSaved);
     showToast(isSaved ? 'Removed from saved' : 'Added to saved', 'success');
+    if (!isSaved) await sendNotificationToAuthor('save');
   };
 
   const handleShare = async () => {
@@ -65,6 +115,7 @@ function StoryDetail() {
         await navigator.clipboard.writeText(window.location.href);
         showToast('Link copied to clipboard!', 'success');
       }
+      await sendNotificationToAuthor('share');
     } catch (error) {
       // Don't show error for user cancellation
       if (error.name !== 'AbortError') {
