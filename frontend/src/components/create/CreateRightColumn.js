@@ -52,16 +52,16 @@ const TripCard = ({ plan, isUser, onDelete, onEdit, onShare, idx }) => (
   </div>
 );
 
-function CreateRightColumn({ dummyPlans, handleShare }) {
+function CreateRightColumn({ popularPlans, handleShare }) {
   return (
     <div className="w-full md:w-1/2 max-w-2xl">
-      <h2 className="text-lg font-bold mb-4 text-white">Popular & Previous Trip Plans</h2>
-      {dummyPlans.length === 0 && (
-        <div className="text-gray-500">No previous plans found.</div>
+      <h2 className="text-lg font-bold mb-4 text-cyan-200">Popular Trip Plans</h2>
+      {popularPlans.length === 0 && (
+        <div className="text-cyan-400">No popular plans found.</div>
       )}
-      {dummyPlans.map((plan, idx) => (
+      {popularPlans.map((plan) => (
         <TripCard
-          key={idx}
+          key={plan.id}
           plan={plan}
           isUser={false}
           onDelete={null}

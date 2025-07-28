@@ -1,8 +1,9 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import Sidebar from '../components/common/Sidebar';
-import dummyPlansData from '../data/create.json';
 import CreateLeftColumn from '../components/create/CreateLeftColumn';
 import CreateRightColumn from '../components/create/CreateRightColumn';
+import TripService from '../services/tripService';
+import { useAuth } from '../context/AuthContext';
 
 const initialForm = {
   title: '',
@@ -18,10 +19,13 @@ const initialForm = {
 };
 
 function Create() {
+  const { user } = useAuth();
   const [form, setForm] = useState(initialForm);
   const [plans, setPlans] = useState([]);
+  const [popularPlans, setPopularPlans] = useState([]);
   const [success, setSuccess] = useState(false);
-  const [dummyPlans] = useState(dummyPlansData);
+  const [loading, setLoading] = useState(false);
+  const [error, setError] = useState(null);
 
   const handleChange = (e) => {
     const { name, value, type, checked } = e.target;
@@ -56,17 +60,74 @@ function Create() {
     }));
   };
 
-  const handleSubmit = (e) => {
+  // Load user's trips and popular trips on component mount
+  useEffect(() => {
+    if (user) {
+      loadUserTrips();
+      loadPopularTrips();
+    }
+  }, [user]);
+
+  const loadUserTrips = async () => {
+    try {
+      setLoading(true);
+      const userTrips = await TripService.getUserTrips(user.uid);
+      setPlans(userTrips);
+    } catch (err) {
+      console.error('Error loading user trips:', err);
+      setError('Failed to load your trips');
+    } finally {
+      setLoading(false);
+    }
+  };
+
+  const loadPopularTrips = async () => {
+    try {
+      const popular = await TripService.getPopularTrips();
+      setPopularPlans(popular);
+    } catch (err) {
+      console.error('Error loading popular trips:', err);
+      // Fallback to empty array
+      setPopularPlans([]);
+    }
+  };
+
+  const handleSubmit = async (e) => {
     e.preventDefault();
-    setPlans((prev) => [form, ...prev]);
-    setForm(initialForm);
-    setSuccess(true);
-    setTimeout(() => setSuccess(false), 2000);
+    if (!user) {
+      setError('Please log in to create a trip plan');
+      return;
+    }
+
+    try {
+      setLoading(true);
+      setError(null);
+      
+      // Create trip in Firestore
+      const newTrip = await TripService.createTrip(form, user.uid);
+      
+      // Add to local state
+      setPlans((prev) => [newTrip, ...prev]);
+      setForm(initialForm);
+      setSuccess(true);
+      setTimeout(() => setSuccess(false), 2000);
+    } catch (err) {
+      console.error('Error creating trip:', err);
+      setError('Failed to create trip plan. Please try again.');
+    } finally {
+      setLoading(false);
+    }
   };
 
   // Delete a user-created plan
-  const handleDelete = (idx) => {
-    setPlans((prev) => prev.filter((_, i) => i !== idx));
+  const handleDelete = async (tripId) => {
+    try {
+      await TripService.deleteTrip(tripId);
+      setPlans((prev) => prev.filter((plan) => plan.id !== tripId));
+    } catch (err) {
+      console.error('Error deleting trip:', err);
+      setError('Failed to delete trip plan');
+    }
   };
 
   // Handlers for Edit/Share (stub)
@@ -91,6 +152,8 @@ function Create() {
           <CreateLeftColumn
             form={form}
             plans={plans}
+            loading={loading}
+            error={error}
             handleChange={handleChange}
             handleDestinationChange={handleDestinationChange}
             addDestination={addDestination}
@@ -102,9 +165,9 @@ function Create() {
             success={success}
           />
 
-          {/* Right: Dummy plans from JSON */}
+          {/* Right: Popular plans from Firestore */}
           <CreateRightColumn
-            dummyPlans={dummyPlans}
+            popularPlans={popularPlans}
             handleShare={handleShare}
           />
         </main>

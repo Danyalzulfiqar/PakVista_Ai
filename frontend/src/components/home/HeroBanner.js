@@ -1,7 +1,22 @@
-import React from 'react';
+import React, { useState } from 'react';
+import { useNavigate } from 'react-router-dom';
 import { FaArrowRight, FaGlobeAmericas, FaSuitcase, FaUsers } from 'react-icons/fa';
 
 function HeroBanner() {
+  const navigate = useNavigate();
+  const [query, setQuery] = useState('');
+
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    if (query.trim()) {
+      navigate('/chat', { state: { initialQuery: query.trim() } });
+    }
+  };
+
+  const handleQuickReply = (text) => {
+    navigate('/chat', { state: { initialQuery: text } });
+  };
+
   return (
     <section className="relative min-h-[1000px] px-4 py-12 md:py-20 bg-gradient-to-br from-gray-900 via-gray-800 to-blue-900 overflow-hidden">
       {/* Glowing accents */}
@@ -21,26 +36,29 @@ function HeroBanner() {
         {/* Input and Quick Replies */}
         <div className="max-w-3xl mx-auto">
           {/* Input Container */}
-          <div className="bg-gradient-to-br from-blue-800/60 via-gray-900/80 to-gray-800/90 rounded-2xl shadow-lg p-4 mb-6 border border-cyan-700">
+          <form onSubmit={handleSubmit} className="bg-gradient-to-br from-blue-800/60 via-gray-900/80 to-gray-800/90 rounded-2xl shadow-lg p-4 mb-6 border border-cyan-700">
             <div className="relative">
               <textarea 
+                value={query}
+                onChange={(e) => setQuery(e.target.value)}
                 className="w-full px-4 py-3 text-cyan-100 border border-cyan-700 bg-gray-900/60 rounded-lg focus:outline-none focus:ring-2 focus:ring-cyan-400 placeholder-cyan-400 resize-none min-h-[120px]"
                 placeholder="Tell me about your dream Pakistani adventure..."
               />
               <button 
+                type="submit"
                 className="absolute bottom-3 right-3 bg-cyan-600 hover:bg-cyan-500 text-white p-3 rounded-full shadow-lg disabled:opacity-50 disabled:cursor-not-allowed transition"
-                disabled
+                disabled={!query.trim()}
               >
                 <FaArrowRight className="w-5 h-5" />
               </button>
             </div>
-          </div>
+          </form>
 
           {/* Quick Replies */}
           <div className="flex flex-wrap gap-3 justify-center">
-            <QuickReplyButton icon={<FaGlobeAmericas />} text="Plan a New Trip" />
-            <QuickReplyButton icon={<FaSuitcase />} text="Discover Destinations" />
-            <QuickReplyButton icon={<FaUsers />} text="Family Tours in North" />
+            <QuickReplyButton icon={<FaGlobeAmericas />} text="Plan a New Trip" onClick={() => handleQuickReply("Plan a New Trip")} />
+            <QuickReplyButton icon={<FaSuitcase />} text="Discover Destinations" onClick={() => handleQuickReply("Discover Destinations")} />
+            <QuickReplyButton icon={<FaUsers />} text="Family Tours in North" onClick={() => handleQuickReply("Family Tours in North")} />
             <button className="px-6 py-3 bg-gradient-to-br from-gray-800 via-blue-900 to-cyan-900 border border-cyan-700 rounded-full text-cyan-200 hover:shadow-cyan-400/40 shadow-lg transition-colors">
               More
             </button>
@@ -52,9 +70,12 @@ function HeroBanner() {
 }
 
 // Quick Reply Button Component
-function QuickReplyButton({ icon, text }) {
+function QuickReplyButton({ icon, text, onClick }) {
   return (
-    <button className="flex items-center gap-2 px-6 py-3 bg-gradient-to-br from-blue-800/60 via-gray-900/80 to-gray-800/90 border border-cyan-700 rounded-full text-cyan-200 hover:shadow-cyan-400/40 shadow-lg transition-all hover:scale-105">
+    <button 
+      onClick={onClick}
+      className="flex items-center gap-2 px-6 py-3 bg-gradient-to-br from-blue-800/60 via-gray-900/80 to-gray-800/90 border border-cyan-700 rounded-full text-cyan-200 hover:shadow-cyan-400/40 shadow-lg transition-all hover:scale-105"
+    >
       <span className="w-4 h-4">{icon}</span>
       <span>{text}</span>
     </button>

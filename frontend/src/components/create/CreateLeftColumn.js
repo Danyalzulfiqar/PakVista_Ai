@@ -76,6 +76,8 @@ const TripCard = ({ plan, isUser, onDelete, onEdit, onShare, idx }) => (
 function CreateLeftColumn({
   form,
   plans,
+  loading,
+  error,
   handleChange,
   handleDestinationChange,
   addDestination,
@@ -241,30 +243,45 @@ function CreateLeftColumn({
           </div>
           <button
             type="submit"
-            className="mt-8 w-full bg-cyan-600 hover:bg-cyan-500 text-white font-semibold py-2 rounded shadow transition"
+            disabled={loading}
+            className="mt-8 w-full bg-cyan-600 hover:bg-cyan-500 disabled:bg-gray-600 disabled:cursor-not-allowed text-white font-semibold py-2 rounded shadow transition"
           >
-            Create Plan
+            {loading ? 'Creating Plan...' : 'Create Plan'}
           </button>
           {success && (
             <div className="mt-4 text-green-400 text-center font-medium">Trip plan created!</div>
           )}
+          {error && (
+            <div className="mt-4 text-red-400 text-center font-medium">{error}</div>
+          )}
         </form>
         <div className="absolute -top-2 -right-2 bg-gradient-to-tr from-cyan-400 to-blue-500 rounded-full w-8 h-8 blur-xl opacity-40 group-hover:opacity-70 transition"></div>
       </div>
+      {loading && plans.length === 0 && (
+        <div className="w-full text-center py-8">
+          <div className="text-cyan-400">Loading your trips...</div>
+        </div>
+      )}
+      
       {plans.length > 0 && (
         <div className="w-full">
-          <h2 className="text-lg font-bold mb-4 text-gray-800">Your Created Plans</h2>
-          {plans.map((plan, idx) => (
+          <h2 className="text-lg font-bold mb-4 text-cyan-200">Your Created Plans</h2>
+          {plans.map((plan) => (
             <TripCard
-              key={idx}
+              key={plan.id}
               plan={plan}
               isUser={true}
-              idx={idx}
-              onDelete={handleDelete}
+              onDelete={() => handleDelete(plan.id)}
               onEdit={handleEdit}
               onShare={handleShare}
             />
           ))}
+        </div>
+      )}
+      
+      {!loading && plans.length === 0 && (
+        <div className="w-full text-center py-8">
+          <div className="text-cyan-400">No trips created yet. Create your first trip plan!</div>
         </div>
       )}
     </div>
