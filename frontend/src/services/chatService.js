@@ -34,7 +34,12 @@ class ChatService {
 
       const data = await response.json();
       console.log('API Response data:', data);
-      return data.response;
+      
+      // Return the full response object instead of just the response text
+      return {
+        response: data.response,
+        trip_plan: data.trip_plan || null
+      };
     } catch (error) {
       console.error('Error sending message:', error);
       throw error;

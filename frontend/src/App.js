@@ -9,6 +9,7 @@ import Inspiration from './pages/Inspiration';
 import Create from './pages/Create';
 import StoryDetail from './components/inspiration/StoryDetail';
 import DestinationDetail from './components/inspiration/DestinationDetail';
+import AddStory from './pages/AddStory';
 import Login from './pages/Login';
 import Signup from './pages/Signup';
 import Seed from './seed';
@@ -38,10 +39,11 @@ function App() {
           <Route path="/signup" element={<Signup />} />
           <Route path="/" element={<PrivateRoute><Home /></PrivateRoute>} />
           <Route path="/chat" element={<PrivateRoute><Chat /></PrivateRoute>} />
-          <Route path="/explore" element={<PrivateRoute><Explore /></PrivateRoute>} />
+          {/* <Route path="/explore" element={<PrivateRoute><Explore /></PrivateRoute>} /> */}
           <Route path="/notifications" element={<PrivateRoute><Notifications /></PrivateRoute>} />
           <Route path="/saved" element={<PrivateRoute><Saved /></PrivateRoute>} />
           <Route path="/inspiration" element={<PrivateRoute><Inspiration /></PrivateRoute>} />
+          <Route path="/add-story" element={<PrivateRoute><AddStory /></PrivateRoute>} />
           <Route path="/create" element={<PrivateRoute><Create /></PrivateRoute>} />
           <Route path="/story/:id" element={<PrivateRoute><StoryDetail /></PrivateRoute>} />
           <Route path="/destination/:id" element={<PrivateRoute><DestinationDetail /></PrivateRoute>} />

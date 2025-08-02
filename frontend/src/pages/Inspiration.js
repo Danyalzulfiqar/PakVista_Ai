@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { useNavigate } from 'react-router-dom';
 import Sidebar from '../components/common/Sidebar';
 import DestinationCard from '../components/inspiration/DestinationCard';
 import StoryCard from '../components/inspiration/StoryCard';
@@ -7,6 +8,7 @@ import { db } from '../firebase';
 import { collection, getDocs } from 'firebase/firestore';
 
 function Inspiration() {
+  const navigate = useNavigate();
   const [activeTab, setActiveTab] = useState('all');
   const [featuredDestinations, setFeaturedDestinations] = useState([]);
   const [travelStories, setTravelStories] = useState([]);
@@ -127,7 +129,16 @@ function Inspiration() {
           {/* Travel Stories Section */}
           {(activeTab === 'all' || activeTab === 'stories') && (
             <section className="mb-12">
-              <h2 className="text-xl font-semibold text-cyan-300 mb-6 drop-shadow-[0_0_4px_rgba(34,211,238,0.5)]">Travel Stories</h2>
+              <div className="flex justify-between items-center mb-6">
+                <h2 className="text-xl font-semibold text-cyan-300 drop-shadow-[0_0_4px_rgba(34,211,238,0.5)]">Travel Stories</h2>
+                <button 
+                  onClick={() => navigate('/add-story')}
+                  className="px-4 py-2 bg-cyan-600 hover:bg-cyan-500 text-white rounded-full transition-colors flex items-center gap-2"
+                >
+                  <span>✏️</span>
+                  Add Your Travel Story
+                </button>
+              </div>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                 {travelStories.map((story) => (
                   <StoryCard
@@ -155,6 +166,17 @@ function Inspiration() {
             </section>
           )}
         </main>
+        
+        {/* Floating Action Button for Add Story */}
+        {activeTab === 'all' && (
+          <button 
+            onClick={() => navigate('/add-story')}
+            className="fixed bottom-8 right-8 z-30 w-14 h-14 bg-cyan-600 hover:bg-cyan-500 text-white rounded-full shadow-lg transition-all duration-300 hover:scale-110 flex items-center justify-center"
+            title="Add Your Travel Story"
+          >
+            <span className="text-2xl">✏️</span>
+          </button>
+        )}
       </div>
     </div>
   );

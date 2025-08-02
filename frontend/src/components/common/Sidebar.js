@@ -53,7 +53,7 @@ function Sidebar() {
 
   const navItems = [
     { icon: <FaComments />, label: 'Chats', path: '/chat' },
-    { icon: <FaSearch />, label: 'Explore', path: '/explore' },
+    // { icon: <FaSearch />, label: 'Explore', path: '/explore' },
     { icon: <FaBell />, label: 'Notifications', path: '/notifications' },
     { icon: <FaBookmark />, label: 'Saved', path: '/saved' },
     { icon: <FaLightbulb />, label: 'Inspiration', path: '/inspiration' },

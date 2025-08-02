@@ -1,5 +1,6 @@
 import React from 'react';
-import { FaShareAlt, FaEdit, FaTrash } from 'react-icons/fa';
+import { FaShareAlt, FaEdit, FaTrash, FaCalendar, FaMapMarkerAlt, FaUsers, FaMoneyBillWave, FaHiking, FaLightbulb } from 'react-icons/fa';
+import { formatCurrency, renderNotes } from '../../utils/tripPlanUtils';
 
 const gearOptions = [
   'Backpack',
@@ -34,14 +35,13 @@ const TripCard = ({ plan, isUser, onDelete, onEdit, onShare, idx }) => (
         <div><span className="font-semibold text-cyan-300">Destinations:</span> {plan.destinations.filter(Boolean).join(', ')}</div>
         <div><span className="font-semibold text-cyan-300">Dates:</span> {plan.startDate} to {plan.endDate}</div>
         <div><span className="font-semibold text-cyan-300">Travelers:</span> {plan.travelers}</div>
-        <div><span className="font-semibold text-cyan-300">Budget:</span> {plan.budget ? `PKR ${plan.budget}` : 'Not specified'}</div>
+        <div><span className="font-semibold text-cyan-300">Budget:</span> {formatCurrency(plan.budget)}</div>
         <div><span className="font-semibold text-cyan-300">Gears:</span> {plan.gears && plan.gears.length ? plan.gears.join(', ') : 'None'}</div>
       </div>
-      {plan.notes && (
-        <div className="bg-cyan-900/40 border-l-4 border-cyan-400 p-3 rounded text-cyan-100 text-sm mb-2">
-          <span className="font-semibold text-cyan-300">Notes:</span> {plan.notes}
-        </div>
-      )}
+      
+      {/* Render notes using the utility function */}
+      {renderNotes(plan.notes)}
+      
       <div className="flex justify-end gap-3 mt-4">
         <button
           className="rounded-full p-2 bg-cyan-700/80 hover:bg-cyan-500 text-white shadow transition"

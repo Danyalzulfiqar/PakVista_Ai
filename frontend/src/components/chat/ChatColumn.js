@@ -1,14 +1,19 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { useLocation } from 'react-router-dom';
 import ChatService from '../../services/chatService';
-import { FaTrash, FaPaperPlane } from 'react-icons/fa';
+import TripService from '../../services/tripService';
+import { useAuth } from '../../context/AuthContext';
+import TripPlanCard from './TripPlanCard';
+import { FaTrash, FaPaperPlane, FaCheckCircle } from 'react-icons/fa';
 
-function ChatColumn() {
+function ChatColumn({ onBotResponse, onUserQuery }) {
   const location = useLocation();
+  const { user } = useAuth();
   const [messages, setMessages] = useState([]);
   const [inputValue, setInputValue] = useState('');
   const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState(null);
+  const [savingTrip, setSavingTrip] = useState(false);
   const messagesEndRef = useRef(null);
   const initialQueryProcessed = useRef(false);
 
@@ -31,6 +36,12 @@ function ChatColumn() {
   const handleSendMessage = async (messageText) => {
     if (!messageText.trim()) return;
 
+    // Clear markers when user sends a new query
+    if (onUserQuery) {
+      console.log('🧹 ChatColumn: Calling onUserQuery to clear markers');
+      onUserQuery();
+    }
+
     const userMessage = {
       id: Date.now(),
       type: 'user',
@@ -44,24 +55,67 @@ function ChatColumn() {
     setError(null);
 
     try {
-      console.log('Sending message:', messageText);
+      console.log('📤 ChatColumn: Sending message:', messageText);
       const response = await ChatService.sendMessage(messageText);
-      console.log('Received response:', response);
+      console.log('📥 ChatColumn: Received response:', response);
       
       const botMessage = {
         id: Date.now() + 1,
         type: 'bot',
-        content: response,
+        content: response.response,
+        tripPlan: response.trip_plan,
         timestamp: new Date().toLocaleTimeString()
       };
 
       setMessages(prev => [...prev, botMessage]);
+
+      // Process chatbot response for locations
+      if (onBotResponse && response.response) {
+        console.log('🔄 ChatColumn: Calling onBotResponse with:', response.response);
+        await onBotResponse(response.response);
+        console.log('✅ ChatColumn: onBotResponse completed');
+      } else {
+        console.log('❌ ChatColumn: onBotResponse not called - missing callback or response');
+      }
     } catch (err) {
-      console.error('Chat error details:', err);
+      console.error('💥 ChatColumn: Chat error details:', err);
       setError(`Failed to get response: ${err.message}`);
     } finally {
       setIsLoading(false);
     }
+  };
+
+  const handleAddToPlans = async (tripPlan) => {
+    if (!user) {
+      setError('Please log in to save trip plans');
+      return;
+    }
+
+    setSavingTrip(true);
+    try {
+      await TripService.createTrip(tripPlan, user.uid);
+      
+      // Add a success message
+      const successMessage = {
+        id: Date.now() + 2,
+        type: 'bot',
+        content: '✅ Trip plan successfully added to your plans! You can view it in the Saved section.',
+        timestamp: new Date().toLocaleTimeString()
+      };
+      
+      setMessages(prev => [...prev, successMessage]);
+    } catch (err) {
+      console.error('Error saving trip plan:', err);
+      setError('Failed to save trip plan. Please try again.');
+    } finally {
+      setSavingTrip(false);
+    }
+  };
+
+  const handleModification = (tripPlan) => {
+    // Send a modification request to continue the conversation
+    const modificationMessage = "Please modify this trip plan according to my preferences.";
+    handleSendMessage(modificationMessage);
   };
 
   const handleSubmit = (e) => {
@@ -84,6 +138,11 @@ function ChatColumn() {
       setMessages([]);
       setError(null);
       initialQueryProcessed.current = false; // Reset the flag so initial query can be processed again
+      
+      // Clear markers when chat is reset
+      if (onUserQuery) {
+        onUserQuery();
+      }
     } catch (err) {
       setError('Failed to reset chat. Please try again.');
     }
@@ -138,7 +197,13 @@ function ChatColumn() {
             ) : (
               // Chat Messages
               messages.map((message) => (
-                <MessageBubble key={message.id} message={message} />
+                <MessageBubble 
+                  key={message.id} 
+                  message={message} 
+                  onAddToPlans={handleAddToPlans}
+                  onModification={handleModification}
+                  savingTrip={savingTrip}
+                />
               ))
             )}
 
@@ -191,13 +256,13 @@ function ChatColumn() {
                 style={{ height: '24px' }}
                 maxLength="600"
                 autoComplete="off"
-                disabled={isLoading}
+                disabled={isLoading || savingTrip}
               />
               <div className="ml-auto flex items-center gap-[inherit]">
                 <button 
                   type="submit" 
                   className="group relative z-0 border border-transparent inline-flex justify-center items-center rounded-full font-medium gap-[.3em] disabled:pointer-events-none disabled:opacity-50 transition-colors text-center py-[.25em] text-balance bg-cyan-700/80 hover:bg-cyan-500 text-2xs min-h-[--button-xs-size] leading-[1.125] px-0 shrink-0 size-[--button-xs-size] shadow-lg" 
-                  disabled={!inputValue.trim() || isLoading}
+                  disabled={!inputValue.trim() || isLoading || savingTrip}
                 >
                   <span className="contents">
                     <FaPaperPlane className="shrink-0 transform-cpu size-[1em] text-[1.25em]" />
@@ -231,7 +296,7 @@ function ChatColumn() {
 }
 
 // Message Bubble Component
-function MessageBubble({ message }) {
+function MessageBubble({ message, onAddToPlans, onModification, savingTrip }) {
   const isUser = message.type === 'user';
   
   return (
@@ -255,6 +320,23 @@ function MessageBubble({ message }) {
             {message.timestamp}
           </p>
         </div>
+        
+        {/* Trip Plan Card */}
+        {!isUser && message.tripPlan && (
+          <div className="mt-4">
+            <TripPlanCard 
+              tripPlan={message.tripPlan}
+              onAddToPlans={() => onAddToPlans(message.tripPlan)}
+              onModification={() => onModification(message.tripPlan)}
+            />
+            {savingTrip && (
+              <div className="mt-3 flex items-center gap-2 text-cyan-300 text-sm">
+                <FaCheckCircle className="animate-pulse" />
+                <span>Saving trip plan...</span>
+              </div>
+            )}
+          </div>
+        )}
       </div>
       
       {isUser && (
