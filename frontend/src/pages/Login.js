@@ -41,8 +41,20 @@ const Login = () => {
   };
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-gray-900 via-cyan-900 to-blue-900">
-      <div className="w-full max-w-md p-8 rounded-3xl shadow-2xl bg-gray-800/80 backdrop-blur-md border border-cyan-900/40 relative">
+    <div className="min-h-screen flex items-center justify-center relative overflow-hidden">
+      {/* Background Image */}
+      <div 
+        className="absolute inset-0 bg-cover bg-center bg-no-repeat"
+        style={{
+          backgroundImage: `url('https://hips.hearstapps.com/hmg-prod/images/alpe-di-siusi-sunrise-with-sassolungo-or-langkofel-royalty-free-image-1623254127.jpg?crop=1xw:1xh;center,top&resize=980:*')`
+        }}
+      ></div>
+      
+      {/* Blur Overlay */}
+      <div className="absolute inset-0 bg-black/40 backdrop-blur-sm"></div>
+      
+      {/* Content */}
+      <div className="relative z-10 w-full max-w-md p-8 rounded-3xl shadow-2xl bg-gray-800/80 backdrop-blur-md border border-cyan-900/40">
         <div className="flex flex-col items-center mb-6">
           <img src="/logo.png" alt="PakVista Logo" className="h-16 w-16 rounded-full mb-2 shadow-lg" />
           <h2 className="text-3xl font-bold bg-gradient-to-r from-cyan-400 to-blue-500 bg-clip-text text-transparent mb-1">PakVista.Ai</h2>

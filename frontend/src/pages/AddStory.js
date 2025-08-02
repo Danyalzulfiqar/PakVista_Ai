@@ -117,8 +117,8 @@ function AddStory() {
         likes: 0,
         saves: 0,
         author: {
-          name: user.displayName || 'Traveler', // Use display name or default
-          avatar: (user.displayName || 'Traveler').substring(0, 2).toUpperCase(), // First 2 letters
+          name: user.displayName || user.email.split('@')[0], // Use display name or email prefix
+          avatar: (user.displayName || user.email.split('@')[0]).substring(0, 2).toUpperCase(), // First 2 letters
           role: 'Traveler' // Default role
         },
         authorId: user.uid, // Keep for reference

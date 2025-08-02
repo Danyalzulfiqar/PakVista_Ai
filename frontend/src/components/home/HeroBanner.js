@@ -18,7 +18,7 @@ function HeroBanner() {
   };
 
   return (
-    <section className="relative min-h-[1000px] px-4 py-12 md:py-20 bg-gradient-to-br from-gray-900 via-gray-800 to-blue-900 overflow-hidden">
+    <section className="relative min-h-[1000px] px-4 py-12 md:py-20 overflow-hidden">
       {/* Glowing accents */}
       <div className="absolute top-0 right-0 w-48 h-48 bg-gradient-to-tr from-cyan-400 to-blue-500 rounded-full blur-3xl opacity-40 z-0"></div>
       <div className="absolute bottom-0 left-0 w-64 h-64 bg-gradient-to-br from-blue-500 to-cyan-400 rounded-full blur-3xl opacity-30 z-0"></div>
