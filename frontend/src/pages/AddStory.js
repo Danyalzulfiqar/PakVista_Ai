@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { ref, uploadBytes, getDownloadURL } from 'firebase/storage';
-import { collection, addDoc, serverTimestamp } from 'firebase/firestore';
+import { collection, addDoc, serverTimestamp, getDocs } from 'firebase/firestore';
 import { storage, db } from '../firebase';
 import { useAuth } from '../context/AuthContext';
 import Sidebar from '../components/common/Sidebar';
@@ -105,8 +105,13 @@ function AddStory() {
         throw new Error('Failed to upload image');
       }
 
+      // Generate unique numeric ID
+      const storiesSnapshot = await getDocs(collection(db, 'travelStories'));
+      const nextId = storiesSnapshot.size + 1; // Simple ID generation
+
       // Save story to Firestore with the correct structure
       const storyData = {
+        id: nextId, // Add numeric ID
         title: formData.title,
         content: formData.fullContent.substring(0, 150) + '...', // Short preview
         fullContent: formData.fullContent,

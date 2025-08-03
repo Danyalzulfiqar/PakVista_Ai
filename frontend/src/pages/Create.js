@@ -75,7 +75,7 @@ function Create() {
       setPlans(userTrips);
     } catch (err) {
       console.error('Error loading user trips:', err);
-      setError('Failed to load your trips');
+      // setError('Failed to load your trips');
     } finally {
       setLoading(false);
     }
@@ -148,10 +148,9 @@ function Create() {
           </div>
         </div>
         <main className="flex flex-col md:flex-row gap-8 pt-24 pb-10 min-h-screen bg-gray-800 items-start">
-          {/* Left: Form and user-created plans */}
+          {/* Left: Form only */}
           <CreateLeftColumn
             form={form}
-            plans={plans}
             loading={loading}
             error={error}
             handleChange={handleChange}
@@ -159,15 +158,16 @@ function Create() {
             addDestination={addDestination}
             removeDestination={removeDestination}
             handleSubmit={handleSubmit}
-            handleDelete={handleDelete}
-            handleEdit={handleEdit}
-            handleShare={handleShare}
             success={success}
           />
 
-          {/* Right: Popular plans from Firestore */}
+          {/* Right: All plans (user-created and popular) */}
           <CreateRightColumn
+            userPlans={plans}
             popularPlans={popularPlans}
+            loading={loading}
+            handleDelete={handleDelete}
+            handleEdit={handleEdit}
             handleShare={handleShare}
           />
         </main>

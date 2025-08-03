@@ -4,7 +4,7 @@ import { useNavigate, useParams } from 'react-router-dom';
 import inspirationData from '../../data/inspiration.json';
 import StoryCard from './StoryCard';
 import { db } from '../../firebase';
-import { collection, addDoc, query, where, getDocs } from 'firebase/firestore';
+import { collection, addDoc, query, where, getDocs, getDoc, doc } from 'firebase/firestore';
 import { useAuth } from '../../context/AuthContext';
 
 function StoryDetail() {
@@ -15,18 +15,54 @@ function StoryDetail() {
   const [isLiked, setIsLiked] = useState(false);
   const [isSaved, setIsSaved] = useState(false);
   const [toast, setToast] = useState({ show: false, message: '', type: '' });
+  const [loading, setLoading] = useState(true);
   const { user } = useAuth();
 
   useEffect(() => {
-    // Find the current story
-    const currentStory = inspirationData.travelStories.find(s => s.id === parseInt(id));
-    if (currentStory) {
-      setStory(currentStory);
-      // Find related stories (excluding current story)
-      const related = inspirationData.travelStories
-        .filter(s => s.id !== parseInt(id))
-        .slice(0, 2);
-      setRelatedStories(related);
+    const fetchStory = async () => {
+      setLoading(true);
+      
+      // First try to find in local JSON data (seeded stories)
+      const currentStory = inspirationData.travelStories.find(s => s.id === parseInt(id));
+      
+      if (currentStory) {
+        setStory(currentStory);
+        // Find related stories (excluding current story)
+        const related = inspirationData.travelStories
+          .filter(s => s.id !== parseInt(id))
+          .slice(0, 2);
+        setRelatedStories(related);
+      } else {
+        // If not found in JSON, try to fetch from Firestore
+        try {
+          const q = query(collection(db, 'travelStories'), where('id', '==', parseInt(id)));
+          const querySnapshot = await getDocs(q);
+          
+          if (!querySnapshot.empty) {
+            const storyDoc = querySnapshot.docs[0];
+            const storyData = storyDoc.data();
+            setStory(storyData);
+            
+            // Get related stories from Firestore
+            const allStoriesSnapshot = await getDocs(collection(db, 'travelStories'));
+            const allStories = allStoriesSnapshot.docs
+              .map(doc => doc.data())
+              .filter(s => s.id !== parseInt(id))
+              .slice(0, 2);
+            setRelatedStories(allStories);
+          } else {
+            console.log('Story not found with ID:', id);
+          }
+        } catch (error) {
+          console.error('Error fetching story from Firestore:', error);
+        }
+      }
+      
+      setLoading(false);
+    };
+
+    if (id) {
+      fetchStory();
     }
   }, [id]);
 
@@ -71,10 +107,18 @@ function StoryDetail() {
     }
   };
 
-  if (!story) {
+  if (loading) {
     return (
       <div className="min-h-screen bg-gradient-to-br from-gray-900 via-gray-800 to-blue-900 flex items-center justify-center">
         <div className="text-cyan-300">Loading...</div>
+      </div>
+    );
+  }
+
+  if (!story) {
+    return (
+      <div className="min-h-screen bg-gradient-to-br from-gray-900 via-gray-800 to-blue-900 flex items-center justify-center">
+        <div className="text-cyan-300">Story not found</div>
       </div>
     );
   }

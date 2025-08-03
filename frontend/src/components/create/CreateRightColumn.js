@@ -6,16 +6,16 @@ const TripCard = ({ plan, isUser, onDelete, onEdit, onShare, idx }) => (
   <div className="mb-8 rounded-2xl shadow-xl border border-gray-200 bg-gradient-to-br from-gray-900 via-gray-800 to-blue-900 p-1.5 relative group hover:scale-[1.02] transition-transform">
     <div className="bg-gradient-to-br from-blue-800/60 via-gray-900/80 to-gray-800/90 rounded-2xl p-6">
       <div className="flex flex-wrap gap-4 items-center mb-2">
-        <span className="text-cyan-400 font-bold text-xl tracking-wide drop-shadow">{plan.title}</span>
-        <span className="bg-blue-900/60 text-cyan-200 px-2 py-1 rounded text-xs font-semibold shadow">{plan.tripType}</span>
+        <span className="text-cyan-400 font-bold text-xl tracking-wide drop-shadow">{plan.title || 'Untitled Trip'}</span>
+        <span className="bg-blue-900/60 text-cyan-200 px-2 py-1 rounded text-xs font-semibold shadow">{plan.tripType || 'Adventure'}</span>
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-2 text-sm mb-3 text-cyan-100">
-        <div><span className="font-semibold text-cyan-300">Start:</span> {plan.startLocation}</div>
-        <div><span className="font-semibold text-cyan-300">Destinations:</span> {plan.destinations.filter(Boolean).join(', ')}</div>
-        <div><span className="font-semibold text-cyan-300">Dates:</span> {plan.startDate} to {plan.endDate}</div>
-        <div><span className="font-semibold text-cyan-300">Travelers:</span> {plan.travelers}</div>
+        <div><span className="font-semibold text-cyan-300">Start:</span> {plan.startLocation || 'Not specified'}</div>
+        <div><span className="font-semibold text-cyan-300">Destinations:</span> {plan.destinations && Array.isArray(plan.destinations) ? plan.destinations.filter(Boolean).join(', ') : 'Not specified'}</div>
+        <div><span className="font-semibold text-cyan-300">Dates:</span> {plan.startDate || 'Not specified'} to {plan.endDate || 'Not specified'}</div>
+        <div><span className="font-semibold text-cyan-300">Travelers:</span> {plan.travelers || 1}</div>
         <div><span className="font-semibold text-cyan-300">Budget:</span> {formatCurrency(plan.budget)}</div>
-        <div><span className="font-semibold text-cyan-300">Gears:</span> {plan.gears && plan.gears.length ? plan.gears.join(', ') : 'None'}</div>
+        <div><span className="font-semibold text-cyan-300">Gears:</span> {plan.gears && Array.isArray(plan.gears) && plan.gears.length ? plan.gears.join(', ') : 'None'}</div>
       </div>
       
       {/* Render notes using the utility function */}
@@ -52,23 +52,50 @@ const TripCard = ({ plan, isUser, onDelete, onEdit, onShare, idx }) => (
   </div>
 );
 
-function CreateRightColumn({ popularPlans, handleShare }) {
+function CreateRightColumn({ userPlans, popularPlans, loading, handleDelete, handleEdit, handleShare }) {
   return (
     <div className="w-full md:w-1/2 max-w-2xl">
-      <h2 className="text-lg font-bold mb-4 text-cyan-200">Popular Trip Plans</h2>
-      {popularPlans.length === 0 && (
-        <div className="text-cyan-400">No popular plans found.</div>
-      )}
-      {popularPlans.map((plan) => (
-        <TripCard
-          key={plan.id}
-          plan={plan}
-          isUser={false}
-          onDelete={null}
-          onEdit={null}
-          onShare={handleShare}
-        />
-      ))}
+      {/* User's Created Plans Section */}
+      {/* <div className="mb-8">
+        <h2 className="text-lg font-bold mb-4 text-cyan-200">Your Created Plans</h2>
+        {loading && userPlans.length === 0 && (
+          <div className="text-cyan-400">Loading your trips...</div>
+        )}
+        {userPlans.length > 0 ? (
+          userPlans.map((plan, idx) => (
+            <TripCard
+              key={plan.id}
+              plan={plan}
+              isUser={true}
+              onDelete={() => handleDelete(plan.id)}
+              onEdit={() => handleEdit(idx)}
+              onShare={() => handleShare(idx)}
+              idx={idx}
+            />
+          ))
+        ) : (
+          !loading && <div className="text-cyan-400">No trips created yet. Create your first trip plan!</div>
+        )}
+      </div> */}
+
+      {/* Popular Trip Plans Section */}
+      <div>
+        <h2 className="text-lg font-bold mb-4 text-cyan-200">Popular Trip Plans</h2>
+        {popularPlans.length === 0 && (
+          <div className="text-cyan-400">No popular plans found.</div>
+        )}
+        {popularPlans.map((plan, idx) => (
+          <TripCard
+            key={plan.id}
+            plan={plan}
+            isUser={false}
+            onDelete={null}
+            onEdit={null}
+            onShare={() => handleShare(idx)}
+            idx={idx}
+          />
+        ))}
+      </div>
     </div>
   );
 }
