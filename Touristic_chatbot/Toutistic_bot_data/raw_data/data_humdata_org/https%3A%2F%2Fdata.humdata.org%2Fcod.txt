@@ -1,0 +1,751 @@
+COD | Crisis Datasets | HDX
+You logged out of HDX
+Thank you for using HDX !
+Common Operational Datasets (CODs) are authoritative reference datasets needed to support operations and decision-making for all actors in a humanitarian response. CODs are 'best available' datasets that ensure consistency and simplify the discovery and exchange of key data.
+Status of CODs by location
+|
+Learn more about CODs
+OCHA Global Subnational Population Statistics
+HDX
+COD
+2500+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2001-December 31, 2025
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+7 November 2024
+Less
+This dataset updates: Every year
+This dataset is part of the data series
+[?]
+:
+COD - Subnational Population Statistics
+Latest COD population statistics compiled at the admin level. The CSV files contain subnational p-codes, their corresponding administrative names, source organization, and reference dates where available. These are constructed from individual country level population files, which can be found using this search on HDX.
+CSV
+Syrian Arab Republic: Baseline Population [By Request Only]
+OCHA Syria
+COD
+Time Period of the Dataset [?]:
+August 31, 2023-June 30, 2024
+... More
+Modified [?]:
+1 July 2025
+Dataset Added on HDX [?]:
+30 December 2021
+Less
+This data is by request only
+This dataset is part of the data series
+[?]
+:
+COD - Subnational Population Statistics
+This dataset contains information on the total population in the Syrian Arab Republic, disaggregated by sex and age, as well as administrate levels 1 through 4.
+Request access
+Colombia - Subnational Administrative Boundaries
+OCHA Latin America and the Caribbean (ROLAC)
+COD+
+8100+ Downloads
+Time Period of the Dataset [?]:
+December 01, 2019-November 30, 2024
+... More
+Modified [?]:
+27 May 2025
+Dataset Added on HDX [?]:
+11 May 2017
+Less
+This dataset updates: As needed
+This dataset is part of the data series
+[?]
+:
+COD - Subnational Administrative Boundaries
+Colombia administrative level 0-2 boundaries (COD-AB) dataset.
+These administrative boundaries were established in:  2019
+NOTE:  COD-PS updated August 2024.  The metadata dates reflect that the most recent administrative structure change was the creation of ADM2 feature ""Barrancominas"" [CO94343] in 2019.
+This COD-AB was most recently reviewed for accuracy and necessary changes in November 2024.  The COD-AB does not require any update.
+Sourced from Departamento Administrativo Nacional de Estadística (DANE)
+Vetting by Information Technology Outreach Services (ITOS) with funding from USAID.
+This COD-AB is suitable for database or GIS linkage to the Colombia COD-PS.
+No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
+Please see the COD Portal.
+Administrative level 1 contains 33 feature(s).  The normal administrative level 1 feature type is 'Departement'.
+Administrative level 2 contains 1,122 feature(s).  The normal administrative level 2 feature type is 'Municipality (municipio or distrito)'.
+Recommended cartographic projection:  South America Albers Equal Area Conic
+This metadata was last updated on January 18, 2025.
+SHP
+XLSX
+EMF
+Geodatabase
+Somalia - Subnational Population Statistics
+OCHA Somalia
+COD
+8000+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2005-September 17, 2024
+... More
+Modified [?]:
+8 May 2025
+Dataset Added on HDX [?]:
+24 May 2017
+Less
+This dataset updates: As needed
+This dataset is part of the data series
+[?]
+:
+COD - Subnational Population Statistics
+The United Nations Population Fund (UNFPA) partnered with donors and UN agencies and took up the lead role to support the Somali authorities in undertaking the Population Estimation Survey (PESS) for Somalia in October 2013- March 2014.
+UNFPA investigated replacement or projection of this dataset in 2021.  Only ADM0 (national) data was available.  No better alternative is currently available.
+PESS gathered basic critical information on the Somalis living in urban, rural and nomadic areas (interviewed at water points during the peak of the long, dry season), and in settlements for internally displaced persons. One standard questionnaire was used in selected enumeration areas or pre-identified areas. Data was collected in three main phases: cartographic field mapping, household listing in the sampled areas, and the interviewing of households using the standard questionnaire.
+PESS report by UNFPA had only the population estimate at regional level (Admin level 1). With the demand to get this data disaggregated to district level to enhance assessment and in particular assessments of people in food insecure by FAO-FSNAU, the district data was interpolated using FSNAU livelihood information embedded in the 2005 UNDP district level population data
+The data collected in 2024 has now been endorsed for use.
+XLSX
+CSV
+Myanmar - Subnational Administrative Boundaries
+OCHA Field Information Services Section (FISS)
+COD
+1200+ Downloads
+Time Period of the Dataset [?]:
+March 11, 2024-March 31, 2024
+... More
+Modified [?]:
+28 March 2025
+Dataset Added on HDX [?]:
+11 March 2024
+Less
+This dataset updates: As needed
+This dataset is part of the data series
+[?]
+:
+COD - Subnational Administrative Boundaries
+Myanmar administrative level 0-5 boundaries (COD-AB) dataset.
+The date that these administrative boundaries were established is unknown.
+This COD-AB was most recently reviewed for accuracy and necessary changes in March 2024.  The COD-AB requires improvements.
+Sourced from Myanmar Information Management Unit (MIMU)
+Vetting by Information Technology Outreach Services (ITOS) with funding from USAID.
+This COD-AB is suitable for database or GIS linkage to the Myanmar COD-PS.
+An edge-matched (COD-EM) version of this COD-AB is available on HDX here.
+Please see the COD Portal.
+Administrative level 1 contains 18 feature(s).  The normal administrative level 1 feature type is ""State/Region"".
+Administrative level 2 contains 80 feature(s).  The normal administrative level 2 feature type is ""District"".
+Administrative level 3 contains 330 feature(s).  The normal administrative level 3 feature type is ""Township"".
+Administrative level 4 contains 14,174 feature(s).  The normal administrative level 4 feature type is ""Town / Village tract"".
+Recommended cartographic projection:  Asia South Albers Equal Area Conic
+This metadata was last updated on January 9, 2025.
+GeoJSON
+XLSX
+PDF
+SHP
+EMF
+Geodatabase
+Benin - Subnational Population Statistics
+UNFPA
+COD+
+2100+ Downloads
+Time Period of the Dataset [?]:
+July 01, 2023-July 31, 2024
+... More
+Modified [?]:
+27 March 2025
+Dataset Added on HDX [?]:
+17 May 2019
+Less
+This dataset updates: Every year
+This dataset is part of the data series
+[?]
+:
+COD - Subnational Population Statistics
+Benin administrative level 0-2 sex and age disaggregated 2024 projected population statistics
+REFERENCE YEAR:  2024
+These tables are suitable for database or GIS linkage to the Benin - Subnational Administrative Boundaries or the Benin - Subnational Edge-matched Administrative Boundaries layers using the ADM0, ADM1, and ADM2-PCODE fields.
+XLSX
+PDF
+CSV
+Myanmar - Subnational Population Statistics
+UNFPA
+COD+
+3800+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2022-April 30, 2023
+... More
+Modified [?]:
+26 March 2025
+Dataset Added on HDX [?]:
+16 February 2017
+Less
+This dataset updates: Every year
+This dataset is part of the data series
+[?]
+:
+COD - Subnational Population Statistics
+Myanmar subnational projected population statistics at administrative level 0-3, sex and age disaggregated for 2023. This dataset also contains historical data for: 2022.
+REFERENCE YEAR:  2023
+These population statistics are suitable for database or GIS linkage to the Myanmar - Subnational Administrative Boundaries or the Myanamar - Subnational Edge-matched Administrative Boundaries administrative level 0-3 layers using the ADM0, ADM1, ADM2, and ADM3_PCODE fields.
+The COD-AB and COD-EM layers manages both 15-feature and 18-feature administrative level 1.  These COD-PS tables conform to the 18-feature system.
+See caveats for further information.
+XLSX
+CSV
+PDF
+Ecuador - Subnational Administrative Boundaries
+OCHA Latin America and the Caribbean (ROLAC)
+COD+
+3800+ Downloads
+Time Period of the Dataset [?]:
+May 30, 2017-December 31, 2024
+... More
+Modified [?]:
+21 March 2025
+Dataset Added on HDX [?]:
+16 October 2015
+Less
+This dataset updates: As needed
+This dataset is part of the data series
+[?]
+:
+COD - Subnational Administrative Boundaries
+Ecuador administrative level 0-3 boundaries (COD-AB) dataset.
+These administrative boundaries were established in:  2017
+NOTE:  ADM4 feature names are not yet availalble.  (Currently ADM4_PCODE is copied into ADM4_ES as a proxy.)  No lines layer is yet availalbe.  The live geoservices do not reflect the new ADM4 level.
+This COD-AB was most recently reviewed for accuracy and necessary changes in December 2024.  The COD-AB does not require any update.
+Sourced from INEC - Instituto Nacional de Estadística y Censos
+Vetting by Information Technology Outreach Services (ITOS) with funding from USAID.
+This COD-AB is suitable for database or GIS linkage to the Ecuador COD-PS.
+No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
+Please see the COD Portal.
+Administrative level 1 contains 26 feature(s).  The normal administrative level 1 feature type is ""currently not known"".
+Administrative level 2 contains 223 feature(s).  The normal administrative level 2 feature type is ""currently not known"".
+Administrative level 3 contains 1,044 feature(s).  The normal administrative level 3 feature type is ""currently not known"".
+Recommended cartographic projection:  South America Albers Equal Area Conic
+This metadata was last updated on January 9, 2025.
+SHP
+XLSX
+Angola - Subnational Administrative Boundaries
+OCHA Regional Office for Southern and Eastern Africa (ROSEA)
+COD+
+5300+ Downloads
+Time Period of the Dataset [?]:
+August 30, 2018-March 06, 2025
+... More
+Modified [?]:
+6 March 2025
+Dataset Added on HDX [?]:
+30 August 2018
+Less
+This dataset updates: As needed
+This dataset is part of the data series
+[?]
+:
+COD - Subnational Administrative Boundaries
+Angola administrative level 0-3 boundaries (COD-AB) dataset.
+The date that these administrative boundaries were established is unknown.
+NOTE:  See COD-PS caveats about two special ADM2 records.  The shapefile zipfile in the HDX dataset was corrected in March 2025.  It previously excluded the ADM1 layer.
+This COD-AB was most recently reviewed for accuracy and necessary changes in January 2025.  The COD-AB requires improvements.
+Sourced from OCHA Regional Office for Southern and Eastern Africa (ROSEA)
+Vetting by Information Technology Outreach Services (ITOS) with funding from USAID.
+This COD-AB is suitable for database or GIS linkage to the Angola COD-PS.
+No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
+Please see the COD Portal.
+Administrative level 1 contains 18 feature(s).  The normal administrative level 1 feature type is 'Province'.
+Administrative level 2 contains 161 feature(s).  The normal administrative level 2 feature type is 'Municipality'.
+Administrative level 3 contains 539 feature(s).  The normal administrative level 3 feature type is 'currently not known'.
+Recommended cartographic projection:  Africa Albers Equal Area Conic
+This metadata was last updated on March 06, 2025.
+XLSX
+EMF
+SHP
+Dominican Republic - Subnational Administrative Boundaries
+OCHA Field Information Services Section (FISS)
+COD+
+3000+ Downloads
+Time Period of the Dataset [?]:
+September 06, 2017-February 28, 2025
+... More
+Modified [?]:
+4 March 2025
+Dataset Added on HDX [?]:
+6 September 2017
+Less
+This dataset updates: As needed
+This dataset is part of the data series
+[?]
+:
+COD - Subnational Administrative Boundaries
+Dominican Republic administrative level 0-4 boundaries (COD-AB) dataset.
+The date that these administrative boundaries were established is unknown.
+NOTE:  This COD-AB was updated by OCHA FIS in March 2025 without the most complete quality control processes.  The accompanying COD-EM has not been similarly updated.  The COD-PS extends only to ADM2
+This COD-AB was most recently reviewed for accuracy and necessary changes in February 2025.  The COD-AB does not require any update.
+Sourced from OCHA Field Information Services Section (FISS)
+Vetting by Information Technology Outreach Services (ITOS) with funding from USAID.
+This COD-AB is suitable for database or GIS linkage to the Dominican Republic COD-PS.
+An edge-matched (COD-EM) version of this COD-AB is available on HDX here.
+Please see the COD Portal.
+Administrative level 1 contains 10 feature(s).  The normal administrative level 1 feature type is 'region'.
+Administrative level 2 contains 32 feature(s).  The normal administrative level 2 feature type is 'province or national district (distrito nacional)'.
+Administrative level 3 contains 158 feature(s).  The normal administrative level 3 feature type is 'municipio'.
+Administrative level 4 contains 383 feature(s).  The normal administrative level 4 feature type is 'dm(?)'.
+Recommended cartographic projection:  North America Albers Equal Area Conic
+This metadata was last updated on March 04, 2025.
+XLSX
+SHP
+Geodatabase
+Ukraine: Subnational Population Statistics [By Request Only]
+OCHA Ukraine
+COD+
+Time Period of the Dataset [?]:
+July 15, 2024-July 15, 2024
+... More
+Modified [?]:
+18 February 2025
+Dataset Added on HDX [?]:
+20 September 2024
+Less
+This data is by request only
+This dataset is part of the data series
+[?]
+:
+COD - Subnational Population Statistics
+Subnational Population Statistics are produced by and contributed to HDX by UNFPA and, in the case of Ukraine, are exceptionally shared by OCHA Ukraine with the approval of UNFPA.
+The 2024 Common Operational Dataset on Population Statistics (COD-PS) update for Ukraine presents raion-level (ADM-2), oblast-level (ADM-1) and national-level (ADM-0) estimates of population size by sex and standard 5-year demographic age groups. The 2024 COD-PS update revises the 2023 COD-PS update and 2022 COD-PS update produced by UNFPA, by accounting for recent population change due to mobility, mortality and fertility dynamics.
+This COD-PS update was prepared by the United Nations Population Fund, UNFPA. This update was prepared in consultation with the Humanitarian Country Team and UN Country Team in Ukraine, as well as national partners including the Institute for Demography and Quality of Life Problems, Ukraine and the State Statistics Service of Ukraine.
+The 2024 COD-PS update, like all COD-PS updates, is strictly a humanitarian data product of the United Nations aligned to the "best available humanitarian data standard". It does not represent or, in any way, replace official statistics or official population projections of the Government of Ukraine and it is not intended to meet the international standards of official statistics.
+The Ukraine Common Operational Dataset on Population Statistics (COD-PS) 2024 is a restricted dataset, in line with applicable national laws and the host country agreement with the United Nations. It is shared only with the Ukraine Humanitarian Country Team, UN Country Team in Ukraine, and the Government of Ukraine.
+Request access
+Chad - Subnational Administrative Boundaries
+OCHA Field Information Services Section (FISS)
+COD+
+10000+ Downloads
+Time Period of the Dataset [?]:
+September 04, 2012-January 31, 2025
+... More
+Modified [?]:
+13 February 2025
+Dataset Added on HDX [?]:
+28 October 2016
+Less
+This dataset updates: As needed
+This dataset is part of the data series
+[?]
+:
+COD - Subnational Administrative Boundaries
+Chad administrative level 0-2 boundaries (COD-AB) dataset.
+Boundaries established: 2023
+Note: The February 2025 update reassigned ADM2 feature ""Abdi"" now [TCD2102] from ""Ouaddai"" province to ""Sila"" province, and  ""Djourouf al Ahmarwas"" now [now TCD1402] reassigned in the opposite direction.  NOTE also that the Chad P-code prefix will be updated from ""TD"" to ""TCD"" in accordance with the local Information Management Working Group preference.
+Apparently substantial Administrative level 2 boundary alterations:
+""Dagana' [TCD0501] in ADM1 feature ""Hadjer Lamis' and ""Wayi' [TCD0702] in ADM1 feature ""Lac"".
+""Bahr Koh"" [TCD1301] in ADM1 feature ""Moyen Chari"" and ""Loug Chari"" in ADM1 feature ""Chari Baguirmi"".
+""Tandjile Centre"" [TCD1603] and ""Tandjile Ouest"" [TCD1602] in ADM1 feature ""Tandjilé"".
+""Barh-El-Gazel Ouest"" [TCD1903] and ""Barh-El-Gazel Sud"" [TCD1901] in ADM1 feature ""Barh-El-Gazel"".
+""Amdjarass"" [TCD2001] and ""Wadi Hawar"" [TCD2992] in ADM1 feature ""Ennedi Est"" [TCD20].
+""Mourtcha"" [TCD2302] and 'Fada"" [TCD2301] has changed substantially.
+""Kobé"" [TCD1703] and ""Megri"" [TCD1704].
+This COD-AB was most recently reviewed for accuracy and necessary changes in January 2025.  The COD-AB does not require any update.
+Sourced from Institut National de la Statistique, des Etudes Economiques et Démographiques du Tchad
+Vetting by Information Technology Outreach Services (ITOS) with funding from USAID.
+This COD-AB is suitable for database or GIS linkage to the Chad COD-PS.
+An edge-matched (COD-EM) version of this COD-AB is available on HDX here.
+Please see the COD Portal.
+Administrative level 1 contains 23 feature(s).  The normal administrative level 1 feature type is 'Province'.
+Administrative level 2 contains 70 feature(s).  The normal administrative level 2 feature type is 'Departement'.
+Recommended cartographic projection:  Africa Albers Equal Area Conic
+This metadata was last updated on February 14, 2025.
+XLSX
+SHP
+Ukraine - Subnational Administrative Boundaries
+OCHA Field Information Services Section (FISS)
+COD+
+15000+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2024-January 31, 2025
+... More
+Modified [?]:
+31 January 2025
+Dataset Added on HDX [?]:
+22 December 2021
+Less
+This dataset updates: As needed
+This dataset is part of the data series
+[?]
+:
+COD - Subnational Administrative Boundaries
+The actual boundaries were most recently adjusted in:  January 2025.
+Boundary information source:  State Scientific Production Enterprise “Kartographia”.
+Contributor:  OCHA Field Information Services Section (FISS).
+COD-AB quality level:  cod-enhanced (geometry and attributes verified and standardized).
+Most recent COD-AB review conclusion:  The COD-AB does not require any update.
+An edge-matched (COD-EM) dataset is available
+COD-EM HDX link:
+https://data.humdata.org/dataset/cod-em-ukr
+.
+OCHA country status:  Operational (country office).
+Most recent COD-AB review date:  January 2025.
+Deepest administrative level:  ADM4.
+COD-PS HDX URL:
+https://data.humdata.org/dataset/cod-ps-ukr
+.
+Deepest administrative level with complete coverage:  ADM3.
+Administrative level required by humanitarian community:  ADM2.
+Note:  The Ukrainian government has not fully implemented its new administrative structure reforms in the Autonomous Republic of Crimea [UA01] and Sevastopol [UA85].
+Consequently, 31 ADM4 features within the Sevastopol ADM3 polygon retain P-codes that do not correctly conform to [UA85]. This will be rectified in a COD-AB update once the government has regained control of the Crimean Peninsula.
+Note:  Some administrative feature names were adjusted in a September/October 2024 administratrive feature renaming exercise.  See reference table at
+https://data.humdata.org/dataset/cod-ab-ukr
+.
+Note:  The Ukraine COD-AB was most recently adjusted in early 2024 - affecting administrative level 3 (hromadas) only.
+Note:  The population statistics common operational dataset (COD-PS-UKR) is only available via special request.  See Ukraine - Subnational Population Statistics.  Users should use the 'Request Data' button.
+Note:  Limitations of the Ukrainian-to-Russian transliteration method mean that more than one Ukrainian name may be represented by a single Russian feature name.
+Note:  Feature name attribute fields in this dataset incorrectly use 'UA' to represent the Ukrainian language.  The correct language code is 'UK'.  This will be resolved in 2026.
+Note:  ADM0 is not affected by the September/October 2024 administrative feature renaming exercise.
+Typical feature type:  oblast (region) with three exceptions.
+P-code format:  UAnn.
+COD-PS compatibility:  ADM0, ADM1, ADM2.
+OCHA region:  Europe.
+Feature count:  27.
+The ADM1 layer can be linked by P-CODE to the ADM1 Population statistics.
+Note:  Kyiv (city) [UA80] and Sevastopol [UA85] are each a 'city with special status' rather than an 'oblast'.
+Note:  Crimea [UA01] is an 'autonomous republic' rather than an 'oblast'.
+Note:  However, Ukraine Population Statistics are only available on special request.
+ADMINISTRATIVE LEVEL 4 metadata:
+Typical feature type:  ADM4 features may be of 'city', 'settlement', or 'village' type.  However, all 'village' features are currently categorized in the 'ADM4_TYPE' as a 'settlement'.  This is expected to be resolved in 2026.
+P-code format:  UAnnnnnnnnnn.
+Feature count:  29707.
+COD-PS compatibility:  no ADM4 population statistics are available.
+COD-PS HDX URL:
+https://data.humdata.org/dataset/cod-ps-ukr
+.
+Note:  329 ADM4 features were affected by the September/October 2024 administrative feature renaming excercise.
+Specific details are provided in the 'ADM4' tab of the 'UKR_Admin234_Renaming_ReferenceTable_20250123.xlsx' reference table available on the HDX dataset Ukraine - Subnational Administrative Boundaries.
+Note:  The COD-AB ADM4 boundary attributes for this COD-AB have not been adjusted.
+The Ukrainian government has not fully implemented its new administrative structure reforms in the Autonomous Republic of Crimea [UA01] and Sevastopol [UA85].
+Consequently, 31 ADM4 features within the Sevastopol ADM3 polygon retain P-codes that do not correctly conform to [UA85].  This will be rectified in a COD-AB update once the government has regained control of the Crimean Peninsula.
+XLSX
+SHP
+Geodatabase
+EMF
+Marshall Islands - Subnational Population Statistics
+OCHA Regional Office for Asia and the Pacific (ROAP)
+COD
+1500+ Downloads
+Time Period of the Dataset [?]:
+August 01, 2021-August 31, 2021
+... More
+Modified [?]:
+31 January 2025
+Dataset Added on HDX [?]:
+18 July 2018
+Less
+This dataset updates: As needed
+This dataset is part of the data series
+[?]
+:
+COD - Subnational Population Statistics
+Marshall Islands administrative level 0 sex and age disaggregated population statistics
+REFERENCE YEAR:  2021
+This .CSV table is suitable for database or GIS linkage to the Marshall Islands - Subnational Administrative Boundaries administrative level 0 shapefile using the ADM0_PCODE field.
+XLSX
+CSV
+Somalia - Subnational Edge-matched Administrative Boundaries
+OCHA Field Information Services Section (FISS)
+COD+
+400+ Downloads
+Time Period of the Dataset [?]:
+June 23, 1984-January 23, 2025
+... More
+Modified [?]:
+23 January 2025
+Dataset Added on HDX [?]:
+21 March 2023
+Less
+This dataset updates: Every year
+This dataset is part of the data series
+[?]
+:
+OCHA - Subnational Edge-matched Administrative Boundaries
+Somali administrative level 0-2, state, and operational zone level 1 and 2 edge-matched shapefiles, EMF files, geodatabase and gazetteer.
+COD-EM datasets do not replace the authoritative COD-AB available here; however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
+Vetting by Information Technology Outreach Services (ITOS) with funding from USAID.
+XLSX
+SHP
+Geodatabase
+EMF
+North Macedonia - Subnational Administrative Boundaries
+OCHA Field Information Services Section (FISS)
+COD
+100+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2015-December 31, 2024
+... More
+Modified [?]:
+17 January 2025
+Dataset Added on HDX [?]:
+17 January 2025
+Less
+This dataset updates: As needed
+This dataset is part of the data series
+[?]
+:
+COD - Subnational Administrative Boundaries
+North Macedonia administrative level 0-4 boundaries (COD-AB) dataset.
+The date that these administrative boundaries were established is unknown.
+NOTE:  COD-AB omits MH0609 feature contained in COD-PS.
+This COD-AB was most recently reviewed for accuracy and necessary changes in December 2024.  The COD-AB does not require any update.
+Sourced from EuroGeographics and NTES (Nomenclature of Territorial Units for Statistics - Republic of Macedonia State Statistical Office)
+Vetting by Information Technology Outreach Services (ITOS) with funding from USAID.
+There is no suitable population statistics dataset (COD-PS) for linkage to this COD-AB..
+No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
+Please see the COD Portal.
+Administrative level 1 contains 1 feature(s).  The normal administrative level 1 feature type is 'currently not known'.
+Administrative level 3 contains 8 feature(s).  The normal administrative level 3 feature type is 'currently not known'.
+Administrative level 4 contains 84 feature(s).  The normal administrative level 4 feature type is 'currently not known'.
+Recommended cartographic projection:  Europe Albers Equal Area Conic
+This metadata was last updated on January 17, 2025.
+SHP
+XLSX
+Greece - Subnational Administrative Boundaries
+OCHA Field Information Services Section (FISS)
+COD
+200+ Downloads
+Time Period of the Dataset [?]:
+July 07, 2010-July 21, 2025
+... More
+Modified [?]:
+17 January 2025
+Dataset Added on HDX [?]:
+17 January 2025
+Less
+This dataset updates: As needed
+This dataset is part of the data series
+[?]
+:
+COD - Subnational Administrative Boundaries
+Greece administrative level 0-2 boundaries (COD-AB) dataset.
+These administrative boundaries were established in:  2010
+NOTE:  This dataset was derived in January 2025 from a version now named 'Greece- Subnational Administrative Boundaries - RIMWGE' developed but since neglected by the Regional IM Working Group - Europe.  This dataset was modified for compatibility by OCHA FIS.  LIVE GEOSERVICES WILL BE UPDATED SHORTLY.
+This COD-AB was most recently reviewed for accuracy and necessary changes in January 2025.  The COD-AB does not require any update.
+Sourced from EuroGeoGraphics
+Vetting by Information Technology Outreach Services (ITOS) with funding from USAID.
+There is no suitable population statistics dataset (COD-PS) for linkage to this COD-AB..
+No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
+Please see the COD Portal.
+Administrative level 1 contains 8 feature(s).  The normal administrative level 1 feature type is 'Decentralized Administration or Monastic Community'.
+Administrative level 2 contains 14 feature(s).  The normal administrative level 2 feature type is 'Region'.
+Recommended cartographic projection:  Europe Albers Equal Area Conic
+This metadata was last updated on January 17, 2025.
+XLSX
+SHP
+Türkiye - Subnational Administrative Boundaries
+OCHA Field Information Services Section (FISS)
+COD+
+1600+ Downloads
+Time Period of the Dataset [?]:
+March 30, 2014-July 21, 2025
+... More
+Modified [?]:
+17 January 2025
+Dataset Added on HDX [?]:
+16 January 2025
+Less
+This dataset updates: As needed
+This dataset is part of the data series
+[?]
+:
+COD - Subnational Administrative Boundaries
+Türkiye administrative level 0-2 boundaries (COD-AB) dataset.
+These administrative boundaries were established in:  2024
+NOTE:  This dataset was derived in January 2025 from a version now named 'Türkiye - Subnational Administrative Boundaries - RIMWGE' developed but since neglected by the Regional IM Working Group - Europe.  This dataset was modified for compatibility by OCHA FIS.  LIVE GEOSERVICES WILL BE UPDATED SHORTLY.
+This COD-AB was most recently reviewed for accuracy and necessary changes in January 2025.  The COD-AB does not require any update.
+Sourced from General Command of Mapping (obtained by Regional IM Working Group - Europe)
+Vetting by Information Technology Outreach Services (ITOS) with funding from USAID.
+This COD-AB is suitable for database or GIS linkage to the Türkiye COD-PS.
+No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
+Please see the COD Portal.
+Administrative level 1 contains 81 feature(s).  The normal administrative level 1 feature type is 'Province (İl)'.
+Administrative level 2 contains 973 feature(s).  The normal administrative level 2 feature type is 'District (İlçe)'.
+Recommended cartographic projection:  Asia South Albers Equal Area Conic
+This metadata was last updated on January 17, 2025.
+XLSX
+SHP
+Somalia - Subnational Administrative Boundaries
+OCHA Field Information Services Section (FISS)
+COD+
+8900+ Downloads
+Time Period of the Dataset [?]:
+June 23, 1984-December 31, 2024
+... More
+Modified [?]:
+15 January 2025
+Dataset Added on HDX [?]:
+1 September 2015
+Less
+This dataset updates: As needed
+This dataset is part of the data series
+[?]
+:
+COD - Subnational Administrative Boundaries
+Somalia administrative level 0-2 boundaries (COD-AB) dataset.Boundaries established:    1984
+NOTE:  In addition to administrative levels 0-2, this dataset includes ""level 1 Operational Zones"" (OPZ1) and ""level 2 Operational Zones"" (OPZ2).  17 OPZ1 features within the Banadir administrative level 1 feature are now (as of the January 2025 update) coincident with individual administrative level 2 features.  Two further OPZ1 features within the Banadir administrative level 1 polygon are excluded from the administrative structure and must be named and P-coded as 'unspecified'.  All Operational Zones are not administrative boundaries and are not identified as administrative level 3 features.  The six Federal member states (Somaliland, Puntland, Galmudug, Hirshabelle, South West, and Jubaland) are NOT integrated into the administrative structure.  (Their boundaries cannot be constructed even from administrative level 2 features.)
+This COD-AB was most recently reviewed for accuracy and necessary changes in December 2024.  The COD-AB does not require any update.
+Sourced from OCHA Somalia
+Vetting by Information Technology Outreach Services (ITOS) with funding from USAID.
+This COD-AB is suitable for database or GIS linkage to the Somalia COD-PS.
+An edge-matched (COD-EM) version of this COD-AB is available on HDX here.
+Please see the COD Portal.
+Administrative level 1 contains 18 feature(s).  The normal administrative level 1 feature type is 'Region'.
+Administrative level 2 contains 91 feature(s).  The normal administrative level 2 feature type is 'District'.
+Recommended cartographic projection:  Africa Albers Equal Area Conic
+This metadata was last updated on January 23, 2025.
+XLSX
+SHP
+Geodatabase
+EMF
+Niger - Subnational Population Statistics
+UNFPA
+COD+
+4300+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2022-July 31, 2024
+... More
+Modified [?]:
+12 January 2025
+Dataset Added on HDX [?]:
+26 April 2018
+Less
+This dataset updates: Every year
+This dataset is part of the data series
+[?]
+:
+COD - Subnational Population Statistics
+Niger administrative level 0-3 sex disaggregated 2024 population statistics
+This dataset also contains historical data for: 2022, 2023.
+REFERENCE YEAR:  2024
+These CSV tables are suitable for database or GIS linkage to the Niger - Subnational Administrative Boundaries using the ADM0, ADM1, and ADM2_PCODE fields.
+NOTE  The COD-AB live geoservices will be updated to be compatible in January 2024.
+XLSX
+CSV
+PDF
+Mozambique - Subnational Population Statistics
+UNFPA
+COD+
+4900+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2017-August 31, 2024
+... More
+Modified [?]:
+12 January 2025
+Dataset Added on HDX [?]:
+22 January 2021
+Less
+This dataset updates: Every year
+This dataset is part of the data series
+[?]
+:
+COD - Subnational Population Statistics
+Mozambique administrative level 0-2 2023 projected sex and age disaggregated population statistics
+REFERENCE YEAR:  2023
+These tables are suitable for database or GIS linkage to the Mozambique - Subnational Administrative Divisions at levels 0-2 using the ADM0, ADM1, and ADM2_PCODE fields.
+XLSX
+CSV
+PDF
+Cameroon - Subnational Population Statistics
+UNFPA
+COD+
+3000+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2023-November 30, 2024
+... More
+Modified [?]:
+12 January 2025
+Dataset Added on HDX [?]:
+29 June 2022
+Less
+This dataset updates: Every year
+This dataset is part of the data series
+[?]
+:
+COD - Subnational Population Statistics
+Cameroon administrative level 0-1 and major metropolises sex and age disaggregated projected 2024 population statistics.
+This dataset also contains historical data for: 2023.
+REFERENCE YEAR 2024
+These tables are suitable for database or GIS linkage to the Cameroon - Subnational Administrative Boundaries and Cameroon - Subnational Edge-matched Administrative Boundaries layers using the ADM0, and ADM1_PCODE fields.
+XLSX
+CSV
+PDF
+Burkina Faso - Subnational Population Statistics
+UNFPA
+COD+
+4700+ Downloads
+Time Period of the Dataset [?]:
+June 01, 2023-June 30, 2023
+... More
+Modified [?]:
+10 January 2025
+Dataset Added on HDX [?]:
+28 March 2018
+Less
+This dataset updates: As needed
+This dataset is part of the data series
+[?]
+:
+COD - Subnational Population Statistics
+Burkina Faso  administrative level 0-2 sex and age disaggregated 2023 projected population statistics (with five-year intervals) and 2020-2035 projected population statistics (with single-year intervals).
+REFERENCE YEAR:  2023
+The CSV tables are suitable for database or GIS linkage to the administrative level 0-3 Burkina Faso - Subnational Administrative Boundaries boundaries using the ADM0, ADM1, and ADM2_PCODE fields.
+XLSX
+CSV
+PDF
+Colombia - Subnational Population Statistics
+UNFPA
+COD+
+4000+ Downloads
+Time Period of the Dataset [?]:
+June 30, 2024-July 30, 2024
+... More
+Modified [?]:
+6 January 2025
+Dataset Added on HDX [?]:
+1 September 2015
+Less
+This dataset updates: Every year
+This dataset is part of the data series
+[?]
+:
+COD - Subnational Population Statistics
+Colombia administrative level 0-2 projected 2024 sex and age disaggregated population statistics
+REFERENCE YEAR:  2024
+These tables are suitable for database or GIS linkage to the Colombia - Subnational Administrative Boundaries layers using the ADM0, ADM1, and ADM2_PCODE fields.
+XLSX
+PDF
+CSV
+South Sudan - Subnational Population Statistics
+OCHA South Sudan
+COD
+7700+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2022-December 31, 2024
+... More
+Modified [?]:
+27 December 2024
+Dataset Added on HDX [?]:
+12 November 2019
+Less
+This dataset updates: As needed
+This dataset is part of the data series
+[?]
+:
+COD - Subnational Population Statistics
+South Sudan administrative level 0-2 2023 population estimates.
+SEE CAVEATS
+REFERENCE YEAR:  2023
+Waiting for inputs
+REFERENCE YEAR:  2022
+Dataset updated by OCHA 2020.
+This population statistics Common Operational Database (COD-PS) was endorsed the Government and South Sudan National Bureau of Statistics in November 2020.
+These tables are suitable for database or GIS link to the South Sudan - Subnational Administrative Boundaries.
+XLSX
+PDF
+CSV
+1
+2
+3
+...
+15
+»
+By using this site you consent to the use of cookies. Cookies can be managed in your browser or device settings.
+Continue

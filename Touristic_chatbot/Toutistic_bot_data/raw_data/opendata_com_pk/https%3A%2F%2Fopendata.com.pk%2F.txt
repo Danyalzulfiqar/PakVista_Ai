@@ -1,0 +1,67 @@
+Welcome - Open Data Pakistan
+Skip to content
+A woman with a camera
+She is probably taking a picture
+Down came the rain
+And washed the spider out
+Down came the rain
+And washed the spider out
+Down came the rain
+And washed the spider out
+Lorum Impsum
+She is probably taking a picture
+Previous
+Next
+Agriculture, Food & Forests
+Cities & Regions
+Connectivity
+Culture
+Demography
+Economy & Finance
+Education
+Environment & Energy
+Government & Public Sector
+Health
+Housing & Public Services
+Manufacturing
+Public Safety
+Science & Technology
+Featured Datasets
+Recent Additions
+Most recent datasets added
+UK Global Visa Issuance
+he dashboard displays data from the UK Immigration System Statistics – Entry Clearance Visas for March 2024, sourced from the UK Home Office. The data has been compiled,...
+XLSX
+US Immigrants And Non-Immigrants
+This dashboard presents official monthly visa issuance data sourced from the U.S. Department of State, covering both immigrant and non-immigrant visas. It offers categorized...
+XLSX
+PAMA
+This dataset contains monthly and annual data on vehicle production and sales in Pakistan, sourced from the Pakistan Automotive Manufacturers Association (PAMA). Covering the...
+XLSX
+Import And Export Pakistan
+This dataset provides detailed information on Pakistan’s international trade, sourced from the official website of the Pakistan Bureau of Statistics (PBS). It includes monthly...
+XLSX
+Popular Datasets
+Most viewed datasets
+Pakistani Cities, Towns and Villages with Distr...
+Pakistani Cities, Towns and Villages with Districts
+CSV
+Rainfall in Pakistan
+Pakistan faces floods and drought more often than anyone can believe in different parts of the country year after year, and the cycle seems to continue infinitely. This dataset...
+CSV
+Pakistan Largest Ecommerce Dataset
+This is the largest retail e-commerce orders dataset from Pakistan. It contains half a million transaction records from March 2016 to August 2018.
+CSV
+Import And Export Pakistan
+This dataset provides detailed information on Pakistan’s international trade, sourced from the official website of the Pakistan Bureau of Statistics (PBS). It includes monthly...
+XLSX
+1.1k
+Datasets
+22
+Organizations
+14
+Categories
+13
+Showcases
+Open Data Pakistan
+Open Data Pakistan is brought to you by the National Center for Big Data and Cloud Computing (NCBC), Lahore University of Management Sciences (LUMS) and Higher Education Commission (HEC). It is a collaborative effort to help provide open data to all kinds of users.

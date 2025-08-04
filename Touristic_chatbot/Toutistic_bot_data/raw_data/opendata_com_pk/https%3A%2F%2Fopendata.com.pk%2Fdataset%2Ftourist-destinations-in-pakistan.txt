@@ -1,0 +1,41 @@
+Tourist Destinations in Pakistan - Datasets - Open Data Pakistan
+Skip to content
+Home
+Organizations
+Friends of Open Data ...
+Tourist Destinations in ...
+Tourist Destinations in Pakistan
+Tourist Destinations in Pakistan
+Destinations
+Pakistan
+Tourist
+Data and Resources
+CSV
+Tourist Destinations in Pakistan.csv
+Popular
+CSV
+Tourist Destinations in Pakistan.csv
+Popular
+Download
+Preview
+Additional Info
+Field
+Value
+Source
+https://www.kaggle.com/datasets/naseeruddin444/top-tourist-destinations-in-pakistan
+Author
+NASEER UD DIN
+Last Updated
+May 1, 2023, 05:50 (UTC)
+Created
+May 1, 2023, 05:49 (UTC)
+Publisher
+NASEER UD DIN
+Data Type
+non-geospatial
+Data Source
+Secondary Research
+Organization Type
+Other
+Category
+Culture

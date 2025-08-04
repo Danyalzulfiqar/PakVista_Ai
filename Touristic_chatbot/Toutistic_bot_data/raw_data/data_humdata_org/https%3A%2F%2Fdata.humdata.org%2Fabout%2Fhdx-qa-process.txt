@@ -1,0 +1,67 @@
+Quality Assurance Process | HDX
+You logged out of HDX
+Thank you for using HDX !
+Responsible Data Sharing on HDX
+Our Quality Assurance Process
+The HDX team manually reviews every dataset uploaded to the platform to support responsible data exchange.
+We offer tools and services throughout the data sharing process:
+BEFORE
+We have developed tools to help you improve both the quality and usability of your data.
+Use the
+HXL TAG ASSIST
+to standardize
+your data and learn more about applying Statistical Disclosure Control to microdata in this
+GUIDANCE
+NOTE
+.
+DURING
+We check every resource against a set of criteria as part of our standard Quality Assurance (QA) process.
+If your dataset contains microdata, it will be placed
+UNDER REVIEW
+so that we can assess the
+disclosure risk before it is shared publicly.
+AFTER
+We will contact the contributor if any issues are found during the QA process. For datasets that cannot
+be shared publicly, we allow you to publish your metadata without uploading the resource(s) so that users
+can request the data via
+HDX CONNECT
+.
+How the QA Process works
+When a new resource is shared on HDX...
+1. We review your data against our standard quality criteria.
+The HDX team is notified that a new resource has been uploaded, which kickstarts the quality
+assurance process. We review all data against a set of quality criteria including the
+completeness of metadata, the relevance of the data to humanitarian action, and the integrity
+of the data resource(s).
+2. We place all datasets containing microdata and/or other potentially sensitive information under review.
+All datasets containing microdata and/or seeming to contain sensitive information are placed under review.
+Microdata can be shared on HDX. However, before making these datasets available publicly, our team runs a
+disclosure risk assessment to protect individuals and vulnerable groups. While a dataset is under review,
+users will only be able to consult metadata or request the dataset directly from the data contributor.
+The dataset will remain under review until we are able to determine that the risk of re-identification is
+below our risk threshold and that any sensitive data has been removed from the dataset.
+3. We run a disclosure risk assessment and work with you to determine whether and how to share your data.
+We conduct the disclosure risk assessment in our secure environment using a free and open source tool
+called sdcMicro. If we determine that the risk of disclosure is below our 3% threshold and no
+individual respondents are found to have a high risk of re- identification, the dataset is considered safe
+to be publicly shared. If the dataset has a risk of re-identification above our threshold, we notify the
+data contributor and provide support to ensure that they are able to safely share the data. We may advise
+the contributor to reduce the risk of disclosure by applying Statistical Disclosure Control or,
+alternatively, to make the dataset available on request - through HDX connect.
+We notify the contributor
+via HDX and email if any
+issues are found during
+the QA process.
+Full documentation
+of our process:
+HDX QA Checklist
+An overview of the quality criteria reviewed by the HDX team during the QA process.
+HDX Statistical Disclosure Control Process
+An overview of why and how the HDX team applies Statistical Disclosure Control to all microdata
+uploaded on the platform.
+Want to learn more?
+Learn more about how to safely share microdata through
+the Centre’s
+Disclosure Risk Assessment Learning Path.
+By using this site you consent to the use of cookies. Cookies can be managed in your browser or device settings.
+Continue

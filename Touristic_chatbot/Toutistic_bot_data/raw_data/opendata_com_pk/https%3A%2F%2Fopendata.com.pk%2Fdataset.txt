@@ -1,0 +1,99 @@
+Datasets - Open Data Pakistan
+Skip to content
+Home
+Data
+Pakistani Cities, Towns and Villages with Districts
+Pakistani Cities, Towns and Villages with Districts
+CSV
+Last Updated: 2023-05-01
+Rainfall in Pakistan
+Pakistan faces floods and drought more often than anyone can believe in different parts of the country year after year, and the cycle seems to continue infinitely. This dataset...
+CSV
+Last Updated: 2021-04-03
+Pakistan Largest Ecommerce Dataset
+This is the largest retail e-commerce orders dataset from Pakistan. It contains half a million transaction records from March 2016 to August 2018.
+CSV
+Last Updated: 2021-04-02
+Import And Export Pakistan
+This dataset provides detailed information on Pakistan’s international trade, sourced from the official website of the Pakistan Bureau of Statistics (PBS). It includes monthly...
+XLSX
+Last Updated: 2025-06-30
+District Profiles - All Districts of Pakistan
+This database provides data on every district of Pakistan, compiled with the latest data available from various sources on different variables ranging from economic and...
+ZIP
+DOCX
+Last Updated: 2021-04-04
+Pakistan Sign Language Dataset
+Pakistan Sign Language (PSL) is the preferred language of deaf people in Pakistan. In order to make the communication between deaf and normal people simpler and easier,...
+ZIP
+Last Updated: 2021-05-21
+Pakistan - Education
+Contains data from the World Bank's data portal. There is also a consolidated country dataset on HDX. Education is one of the most powerful instruments for reducing poverty and...
+CSV
+Last Updated: 2021-04-04
+Pakistan - Climate Change
+Contains data from the World Bank's data portal. There is also a consolidated country dataset on HDX. Climate change is expected to hit developing countries the hardest. Its...
+CSV
+Last Updated: 2021-04-04
+Property Data for Pakistan
+This dataset provides property listing with their prices, area and coordinates for Islamabad, Rawalpindi, Lahore, Faisalabad and Karachi
+CSV
+URL
+Last Updated: 2021-04-04
+Area sown, production and yield per hectare of wheat by districts, Punjab, Yi...
+Area sown, production and yield per hectare of wheat by districts, Punjab, Yield per hectare (In Kg per hectare)
+CSV
+Last Updated: 2024-03-25
+Air Quality Index May 2019 - April 2020
+The data set contains PM 2.5 values for Islamabad, Lahore, Karachi and Peshawar. The daily average values are listed.
+Source:...
+XLSX
+Last Updated: 2021-04-04
+PSLM / HIES 2018-19 (Provincial Level Survey)
+Pakistan Social and Living Standards Measurements (PSLM), 2018-19 is the eleventh round of a series of surveys, initiated in 2004. Current round of PSLM (Social & Household...
+DOCX
+XLS
+PDF
+ZIP
+Last Updated: 2021-04-02
+Pakistan Demographic and Health Data
+The DHS Program Application Programming Interface (API) provides software developers access to aggregated indicator data from The Demographic and Health Surveys (DHS) Program....
+CSV
+Last Updated: 2021-04-04
+Pakistan Temperature
+Climate change is affecting the world and Pakistan is no different. This is the first of its kind dataset for average temperature in the country for the last 116 years.
+CSV
+Last Updated: 2021-04-04
+Sindh Education Statistics
+This database contains curated data for district wise information on the number of institutions, teaching staff and enrollment characterized by gender, school type and location....
+XLSX
+CSV
+Last Updated: 2021-04-04
+Population density
+Population density per pixel at 100 metre resolution. WorldPop provides estimates of numbers of people residing in each 100x100m grid cell for every low and middle income...
+URL
+Last Updated: 2021-04-04
+Pakistan Federal Budget 2025-26
+This dataset contains the Federal Budget 2025-26 data extracted from the official Demand for Grants documents published by Ministry of Finance. It has been cleaned, structured,...
+CSV
+Last Updated: 2025-06-28
+Interest Rates 2011-2019
+This data set contains Pakistan's interest rate (monthly from the year 2011 to 2019) statistics as collected and reported by State Bank of Pakistan.
+XLS
+PDF
+Last Updated: 2021-04-04
+Crimes reported by type
+Crimes Reported by Type and Provinces
+PDF
+XLSX
+Last Updated: 2021-04-04
+Population by sex and sex ratio at districts level in urban area Punjab, Cens...
+Population by sex and sex ratio at districts level in urban area Punjab, Census 2017 (Population in Thousand)
+CSV
+Last Updated: 2024-03-24
+1
+2
+3
+...
+56
+»

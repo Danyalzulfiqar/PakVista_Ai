@@ -1,0 +1,580 @@
+Geodata Humanitarian Datasets | Find Crisis Data | HDX
+You logged out of HDX
+Thank you for using HDX !
+5370
+Flooding in the Philippines on July 18, 2025
+The Philippine Space Agency
+Time Period of the Dataset [?]:
+July 18, 2025-July 18, 2025
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+20 July 2025
+Less
+This dataset updates: As needed
+This dataset shows the actual extent of flooding in the Philippines caused by typhoons or tropical cyclones as of July 18, 2025, as observed through available satellite imagery. The dataset can be used to track the progression of floods over time, identify areas at risk, and assess the impact of these natural disasters on infrastructure, agriculture, and local populations.
+PNG
+SHP
+Water Point Data Exchange (SLE)
+Water Point Data Exchange
+200+ Downloads
+Time Period of the Dataset [?]:
+February 28, 2009-July 21, 2025
+... More
+Modified [?]:
+20 July 2025
+Dataset Added on HDX [?]:
+2 August 2023
+Less
+This dataset updates: Every week
+This dataset is part of the data series
+[?]
+:
+Water Point Data Exchange - Country Data
+WPdx is a platform to compile crowdsourced data focused on rural water points (wells, springs, tapstands) with contributions from governments, NGOs, and researchers. Shared data is cleaned and harmonized using the WPdx Data Standard  to create a robust analysis-ready dataset. There are two primary datasets available from WPdx. The first is WPdx-Basic, which includes all records shared with the platform. The second, WPdx-Plus is a subset of the Basic dataset which focuses on countries where district and/or national data is available and undergoes additional cleaning. WPdx-Plus is used as an input to the WPdx Decision Support tools and is the basis for the datasets posted here. The decision support tools provide insights on rural basic water service access and recommendations regarding prioritized water point repair, highlight areas with apparent service gaps, and identify water points which are at high risk of failure. For each country where WPdx data is available, there are two datasets available for download are described below.
+The wpdx_adm_region_analysis file provides an overview of the population served, unserved and uncharted for each available administrative level. The file also includes a data quality analysis based on water point record age.
+The wpdx_water_points file provides water point level details for each point shared with WPdx including all the WPdx data standard parameters plus results from the WPdx Rehab Priority, Service Gap/New Construction and Status Prediction analyses.
+A data dictionary describing each parameter included in each file is available in the Data and Resources section.
+To share data with the WPdx platform, please visit (
+www.waterpointdata.org/share-data
+) and/or reach out to
+info@waterpointdata.org
+CSV
+Water Point Data Exchange (NGA)
+Water Point Data Exchange
+200+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2010-July 21, 2025
+... More
+Modified [?]:
+20 July 2025
+Dataset Added on HDX [?]:
+25 July 2023
+Less
+This dataset updates: Every week
+This dataset is part of the data series
+[?]
+:
+Water Point Data Exchange - Country Data
+WPdx is a platform to compile crowdsourced data focused on rural water points (wells, springs, tapstands) with contributions from governments, NGOs, and researchers. Shared data is cleaned and harmonized using the WPdx Data Standard  to create a robust analysis-ready dataset. There are two primary datasets available from WPdx. The first is WPdx-Basic, which includes all records shared with the platform. The second, WPdx-Plus is a subset of the Basic dataset which focuses on countries where district and/or national data is available and undergoes additional cleaning. WPdx-Plus is used as an input to the WPdx Decision Support tools and is the basis for the datasets posted here. The decision support tools provide insights on rural basic water service access and recommendations regarding prioritized water point repair, highlight areas with apparent service gaps, and identify water points which are at high risk of failure. For each country where WPdx data is available, there are two datasets available for download are described below.
+The wpdx_adm_region_analysis file provides an overview of the population served, unserved and uncharted for each available administrative level. The file also includes a data quality analysis based on water point record age.
+The wpdx_water_points file provides water point level details for each point shared with WPdx including all the WPdx data standard parameters plus results from the WPdx Rehab Priority, Service Gap/New Construction and Status Prediction analyses.
+A data dictionary describing each parameter included in each file is available in the Data and Resources section.
+To share data with the WPdx platform, please visit (
+www.waterpointdata.org/share-data
+) and/or reach out to
+info@waterpointdata.org
+CSV
+Water Point Data Exchange (ETH)
+Water Point Data Exchange
+300+ Downloads
+Time Period of the Dataset [?]:
+December 15, 1998-July 21, 2025
+... More
+Modified [?]:
+20 July 2025
+Dataset Added on HDX [?]:
+2 August 2023
+Less
+This dataset updates: Every week
+This dataset is part of the data series
+[?]
+:
+Water Point Data Exchange - Country Data
+WPdx is a platform to compile crowdsourced data focused on rural water points (wells, springs, tapstands) with contributions from governments, NGOs, and researchers. Shared data is cleaned and harmonized using the WPdx Data Standard  to create a robust analysis-ready dataset. There are two primary datasets available from WPdx. The first is WPdx-Basic, which includes all records shared with the platform. The second, WPdx-Plus is a subset of the Basic dataset which focuses on countries where district and/or national data is available and undergoes additional cleaning. WPdx-Plus is used as an input to the WPdx Decision Support tools and is the basis for the datasets posted here. The decision support tools provide insights on rural basic water service access and recommendations regarding prioritized water point repair, highlight areas with apparent service gaps, and identify water points which are at high risk of failure. For each country where WPdx data is available, there are two datasets available for download are described below.
+The wpdx_adm_region_analysis file provides an overview of the population served, unserved and uncharted for each available administrative level. The file also includes a data quality analysis based on water point record age.
+The wpdx_water_points file provides water point level details for each point shared with WPdx including all the WPdx data standard parameters plus results from the WPdx Rehab Priority, Service Gap/New Construction and Status Prediction analyses.
+A data dictionary describing each parameter included in each file is available in the Data and Resources section.
+To share data with the WPdx platform, please visit (
+www.waterpointdata.org/share-data
+) and/or reach out to
+info@waterpointdata.org
+CSV
+Water Point Data Exchange (GHA)
+Water Point Data Exchange
+200+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2000-July 21, 2025
+... More
+Modified [?]:
+20 July 2025
+Dataset Added on HDX [?]:
+2 August 2023
+Less
+This dataset updates: Every week
+This dataset is part of the data series
+[?]
+:
+Water Point Data Exchange - Country Data
+WPdx is a platform to compile crowdsourced data focused on rural water points (wells, springs, tapstands) with contributions from governments, NGOs, and researchers. Shared data is cleaned and harmonized using the WPdx Data Standard  to create a robust analysis-ready dataset. There are two primary datasets available from WPdx. The first is WPdx-Basic, which includes all records shared with the platform. The second, WPdx-Plus is a subset of the Basic dataset which focuses on countries where district and/or national data is available and undergoes additional cleaning. WPdx-Plus is used as an input to the WPdx Decision Support tools and is the basis for the datasets posted here. The decision support tools provide insights on rural basic water service access and recommendations regarding prioritized water point repair, highlight areas with apparent service gaps, and identify water points which are at high risk of failure. For each country where WPdx data is available, there are two datasets available for download are described below.
+The wpdx_adm_region_analysis file provides an overview of the population served, unserved and uncharted for each available administrative level. The file also includes a data quality analysis based on water point record age.
+The wpdx_water_points file provides water point level details for each point shared with WPdx including all the WPdx data standard parameters plus results from the WPdx Rehab Priority, Service Gap/New Construction and Status Prediction analyses.
+A data dictionary describing each parameter included in each file is available in the Data and Resources section.
+To share data with the WPdx platform, please visit (
+www.waterpointdata.org/share-data
+) and/or reach out to
+info@waterpointdata.org
+CSV
+Water Point Data Exchange (BGD)
+Water Point Data Exchange
+200+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2014-July 21, 2025
+... More
+Modified [?]:
+20 July 2025
+Dataset Added on HDX [?]:
+2 August 2023
+Less
+This dataset updates: Every week
+This dataset is part of the data series
+[?]
+:
+Water Point Data Exchange - Country Data
+WPdx is a platform to compile crowdsourced data focused on rural water points (wells, springs, tapstands) with contributions from governments, NGOs, and researchers. Shared data is cleaned and harmonized using the WPdx Data Standard  to create a robust analysis-ready dataset. There are two primary datasets available from WPdx. The first is WPdx-Basic, which includes all records shared with the platform. The second, WPdx-Plus is a subset of the Basic dataset which focuses on countries where district and/or national data is available and undergoes additional cleaning. WPdx-Plus is used as an input to the WPdx Decision Support tools and is the basis for the datasets posted here. The decision support tools provide insights on rural basic water service access and recommendations regarding prioritized water point repair, highlight areas with apparent service gaps, and identify water points which are at high risk of failure. For each country where WPdx data is available, there are two datasets available for download are described below.
+The wpdx_adm_region_analysis file provides an overview of the population served, unserved and uncharted for each available administrative level. The file also includes a data quality analysis based on water point record age.
+The wpdx_water_points file provides water point level details for each point shared with WPdx including all the WPdx data standard parameters plus results from the WPdx Rehab Priority, Service Gap/New Construction and Status Prediction analyses.
+A data dictionary describing each parameter included in each file is available in the Data and Resources section.
+To share data with the WPdx platform, please visit (
+www.waterpointdata.org/share-data
+) and/or reach out to
+info@waterpointdata.org
+CSV
+Water Point Data Exchange (RWA)
+Water Point Data Exchange
+200+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2011-July 21, 2025
+... More
+Modified [?]:
+20 July 2025
+Dataset Added on HDX [?]:
+2 August 2023
+Less
+This dataset updates: Every week
+This dataset is part of the data series
+[?]
+:
+Water Point Data Exchange - Country Data
+WPdx is a platform to compile crowdsourced data focused on rural water points (wells, springs, tapstands) with contributions from governments, NGOs, and researchers. Shared data is cleaned and harmonized using the WPdx Data Standard  to create a robust analysis-ready dataset. There are two primary datasets available from WPdx. The first is WPdx-Basic, which includes all records shared with the platform. The second, WPdx-Plus is a subset of the Basic dataset which focuses on countries where district and/or national data is available and undergoes additional cleaning. WPdx-Plus is used as an input to the WPdx Decision Support tools and is the basis for the datasets posted here. The decision support tools provide insights on rural basic water service access and recommendations regarding prioritized water point repair, highlight areas with apparent service gaps, and identify water points which are at high risk of failure. For each country where WPdx data is available, there are two datasets available for download are described below.
+The wpdx_adm_region_analysis file provides an overview of the population served, unserved and uncharted for each available administrative level. The file also includes a data quality analysis based on water point record age.
+The wpdx_water_points file provides water point level details for each point shared with WPdx including all the WPdx data standard parameters plus results from the WPdx Rehab Priority, Service Gap/New Construction and Status Prediction analyses.
+A data dictionary describing each parameter included in each file is available in the Data and Resources section.
+To share data with the WPdx platform, please visit (
+www.waterpointdata.org/share-data
+) and/or reach out to
+info@waterpointdata.org
+CSV
+Water Point Data Exchange (KEN)
+Water Point Data Exchange
+400+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2011-July 21, 2025
+... More
+Modified [?]:
+20 July 2025
+Dataset Added on HDX [?]:
+2 August 2023
+Less
+This dataset updates: Every week
+This dataset is part of the data series
+[?]
+:
+Water Point Data Exchange - Country Data
+WPdx is a platform to compile crowdsourced data focused on rural water points (wells, springs, tapstands) with contributions from governments, NGOs, and researchers. Shared data is cleaned and harmonized using the WPdx Data Standard  to create a robust analysis-ready dataset. There are two primary datasets available from WPdx. The first is WPdx-Basic, which includes all records shared with the platform. The second, WPdx-Plus is a subset of the Basic dataset which focuses on countries where district and/or national data is available and undergoes additional cleaning. WPdx-Plus is used as an input to the WPdx Decision Support tools and is the basis for the datasets posted here. The decision support tools provide insights on rural basic water service access and recommendations regarding prioritized water point repair, highlight areas with apparent service gaps, and identify water points which are at high risk of failure. For each country where WPdx data is available, there are two datasets available for download are described below.
+The wpdx_adm_region_analysis file provides an overview of the population served, unserved and uncharted for each available administrative level. The file also includes a data quality analysis based on water point record age.
+The wpdx_water_points file provides water point level details for each point shared with WPdx including all the WPdx data standard parameters plus results from the WPdx Rehab Priority, Service Gap/New Construction and Status Prediction analyses.
+A data dictionary describing each parameter included in each file is available in the Data and Resources section.
+To share data with the WPdx platform, please visit (
+www.waterpointdata.org/share-data
+) and/or reach out to
+info@waterpointdata.org
+CSV
+Water Point Data Exchange (TZA)
+Water Point Data Exchange
+200+ Downloads
+Time Period of the Dataset [?]:
+October 27, 1978-July 21, 2025
+... More
+Modified [?]:
+20 July 2025
+Dataset Added on HDX [?]:
+2 August 2023
+Less
+This dataset updates: Every week
+This dataset is part of the data series
+[?]
+:
+Water Point Data Exchange - Country Data
+WPdx is a platform to compile crowdsourced data focused on rural water points (wells, springs, tapstands) with contributions from governments, NGOs, and researchers. Shared data is cleaned and harmonized using the WPdx Data Standard  to create a robust analysis-ready dataset. There are two primary datasets available from WPdx. The first is WPdx-Basic, which includes all records shared with the platform. The second, WPdx-Plus is a subset of the Basic dataset which focuses on countries where district and/or national data is available and undergoes additional cleaning. WPdx-Plus is used as an input to the WPdx Decision Support tools and is the basis for the datasets posted here. The decision support tools provide insights on rural basic water service access and recommendations regarding prioritized water point repair, highlight areas with apparent service gaps, and identify water points which are at high risk of failure. For each country where WPdx data is available, there are two datasets available for download are described below.
+The wpdx_adm_region_analysis file provides an overview of the population served, unserved and uncharted for each available administrative level. The file also includes a data quality analysis based on water point record age.
+The wpdx_water_points file provides water point level details for each point shared with WPdx including all the WPdx data standard parameters plus results from the WPdx Rehab Priority, Service Gap/New Construction and Status Prediction analyses.
+A data dictionary describing each parameter included in each file is available in the Data and Resources section.
+To share data with the WPdx platform, please visit (
+www.waterpointdata.org/share-data
+) and/or reach out to
+info@waterpointdata.org
+CSV
+Water Point Data Exchange (LBR)
+Water Point Data Exchange
+100+ Downloads
+Time Period of the Dataset [?]:
+March 11, 1971-July 21, 2025
+... More
+Modified [?]:
+20 July 2025
+Dataset Added on HDX [?]:
+2 August 2023
+Less
+This dataset updates: Every week
+This dataset is part of the data series
+[?]
+:
+Water Point Data Exchange - Country Data
+WPdx is a platform to compile crowdsourced data focused on rural water points (wells, springs, tapstands) with contributions from governments, NGOs, and researchers. Shared data is cleaned and harmonized using the WPdx Data Standard  to create a robust analysis-ready dataset. There are two primary datasets available from WPdx. The first is WPdx-Basic, which includes all records shared with the platform. The second, WPdx-Plus is a subset of the Basic dataset which focuses on countries where district and/or national data is available and undergoes additional cleaning. WPdx-Plus is used as an input to the WPdx Decision Support tools and is the basis for the datasets posted here. The decision support tools provide insights on rural basic water service access and recommendations regarding prioritized water point repair, highlight areas with apparent service gaps, and identify water points which are at high risk of failure. For each country where WPdx data is available, there are two datasets available for download are described below.
+The wpdx_adm_region_analysis file provides an overview of the population served, unserved and uncharted for each available administrative level. The file also includes a data quality analysis based on water point record age.
+The wpdx_water_points file provides water point level details for each point shared with WPdx including all the WPdx data standard parameters plus results from the WPdx Rehab Priority, Service Gap/New Construction and Status Prediction analyses.
+A data dictionary describing each parameter included in each file is available in the Data and Resources section.
+To share data with the WPdx platform, please visit (
+www.waterpointdata.org/share-data
+) and/or reach out to
+info@waterpointdata.org
+CSV
+Water Point Data Exchange (MWI)
+Water Point Data Exchange
+200+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2016-July 21, 2025
+... More
+Modified [?]:
+20 July 2025
+Dataset Added on HDX [?]:
+2 August 2023
+Less
+This dataset updates: Every week
+This dataset is part of the data series
+[?]
+:
+Water Point Data Exchange - Country Data
+WPdx is a platform to compile crowdsourced data focused on rural water points (wells, springs, tapstands) with contributions from governments, NGOs, and researchers. Shared data is cleaned and harmonized using the WPdx Data Standard  to create a robust analysis-ready dataset. There are two primary datasets available from WPdx. The first is WPdx-Basic, which includes all records shared with the platform. The second, WPdx-Plus is a subset of the Basic dataset which focuses on countries where district and/or national data is available and undergoes additional cleaning. WPdx-Plus is used as an input to the WPdx Decision Support tools and is the basis for the datasets posted here. The decision support tools provide insights on rural basic water service access and recommendations regarding prioritized water point repair, highlight areas with apparent service gaps, and identify water points which are at high risk of failure. For each country where WPdx data is available, there are two datasets available for download are described below.
+The wpdx_adm_region_analysis file provides an overview of the population served, unserved and uncharted for each available administrative level. The file also includes a data quality analysis based on water point record age.
+The wpdx_water_points file provides water point level details for each point shared with WPdx including all the WPdx data standard parameters plus results from the WPdx Rehab Priority, Service Gap/New Construction and Status Prediction analyses.
+A data dictionary describing each parameter included in each file is available in the Data and Resources section.
+To share data with the WPdx platform, please visit (
+www.waterpointdata.org/share-data
+) and/or reach out to
+info@waterpointdata.org
+CSV
+Water Point Data Exchange (SWZ)
+Water Point Data Exchange
+100+ Downloads
+Time Period of the Dataset [?]:
+January 30, 1988-July 21, 2025
+... More
+Modified [?]:
+20 July 2025
+Dataset Added on HDX [?]:
+2 August 2023
+Less
+This dataset updates: Every week
+This dataset is part of the data series
+[?]
+:
+Water Point Data Exchange - Country Data
+WPdx is a platform to compile crowdsourced data focused on rural water points (wells, springs, tapstands) with contributions from governments, NGOs, and researchers. Shared data is cleaned and harmonized using the WPdx Data Standard  to create a robust analysis-ready dataset. There are two primary datasets available from WPdx. The first is WPdx-Basic, which includes all records shared with the platform. The second, WPdx-Plus is a subset of the Basic dataset which focuses on countries where district and/or national data is available and undergoes additional cleaning. WPdx-Plus is used as an input to the WPdx Decision Support tools and is the basis for the datasets posted here. The decision support tools provide insights on rural basic water service access and recommendations regarding prioritized water point repair, highlight areas with apparent service gaps, and identify water points which are at high risk of failure. For each country where WPdx data is available, there are two datasets available for download are described below.
+The wpdx_adm_region_analysis file provides an overview of the population served, unserved and uncharted for each available administrative level. The file also includes a data quality analysis based on water point record age.
+The wpdx_water_points file provides water point level details for each point shared with WPdx including all the WPdx data standard parameters plus results from the WPdx Rehab Priority, Service Gap/New Construction and Status Prediction analyses.
+A data dictionary describing each parameter included in each file is available in the Data and Resources section.
+To share data with the WPdx platform, please visit (
+www.waterpointdata.org/share-data
+) and/or reach out to
+info@waterpointdata.org
+CSV
+Water Point Data Exchange (ZWE)
+Water Point Data Exchange
+200+ Downloads
+Time Period of the Dataset [?]:
+April 12, 2013-July 21, 2025
+... More
+Modified [?]:
+20 July 2025
+Dataset Added on HDX [?]:
+2 August 2023
+Less
+This dataset updates: Every week
+This dataset is part of the data series
+[?]
+:
+Water Point Data Exchange - Country Data
+WPdx is a platform to compile crowdsourced data focused on rural water points (wells, springs, tapstands) with contributions from governments, NGOs, and researchers. Shared data is cleaned and harmonized using the WPdx Data Standard  to create a robust analysis-ready dataset. There are two primary datasets available from WPdx. The first is WPdx-Basic, which includes all records shared with the platform. The second, WPdx-Plus is a subset of the Basic dataset which focuses on countries where district and/or national data is available and undergoes additional cleaning. WPdx-Plus is used as an input to the WPdx Decision Support tools and is the basis for the datasets posted here. The decision support tools provide insights on rural basic water service access and recommendations regarding prioritized water point repair, highlight areas with apparent service gaps, and identify water points which are at high risk of failure. For each country where WPdx data is available, there are two datasets available for download are described below.
+The wpdx_adm_region_analysis file provides an overview of the population served, unserved and uncharted for each available administrative level. The file also includes a data quality analysis based on water point record age.
+The wpdx_water_points file provides water point level details for each point shared with WPdx including all the WPdx data standard parameters plus results from the WPdx Rehab Priority, Service Gap/New Construction and Status Prediction analyses.
+A data dictionary describing each parameter included in each file is available in the Data and Resources section.
+To share data with the WPdx platform, please visit (
+www.waterpointdata.org/share-data
+) and/or reach out to
+info@waterpointdata.org
+CSV
+Water Point Data Exchange (ZMB)
+Water Point Data Exchange
+200+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2012-July 21, 2025
+... More
+Modified [?]:
+20 July 2025
+Dataset Added on HDX [?]:
+2 August 2023
+Less
+This dataset updates: Every week
+This dataset is part of the data series
+[?]
+:
+Water Point Data Exchange - Country Data
+WPdx is a platform to compile crowdsourced data focused on rural water points (wells, springs, tapstands) with contributions from governments, NGOs, and researchers. Shared data is cleaned and harmonized using the WPdx Data Standard  to create a robust analysis-ready dataset. There are two primary datasets available from WPdx. The first is WPdx-Basic, which includes all records shared with the platform. The second, WPdx-Plus is a subset of the Basic dataset which focuses on countries where district and/or national data is available and undergoes additional cleaning. WPdx-Plus is used as an input to the WPdx Decision Support tools and is the basis for the datasets posted here. The decision support tools provide insights on rural basic water service access and recommendations regarding prioritized water point repair, highlight areas with apparent service gaps, and identify water points which are at high risk of failure. For each country where WPdx data is available, there are two datasets available for download are described below.
+The wpdx_adm_region_analysis file provides an overview of the population served, unserved and uncharted for each available administrative level. The file also includes a data quality analysis based on water point record age.
+The wpdx_water_points file provides water point level details for each point shared with WPdx including all the WPdx data standard parameters plus results from the WPdx Rehab Priority, Service Gap/New Construction and Status Prediction analyses.
+A data dictionary describing each parameter included in each file is available in the Data and Resources section.
+To share data with the WPdx platform, please visit (
+www.waterpointdata.org/share-data
+) and/or reach out to
+info@waterpointdata.org
+CSV
+Water Point Data Exchange (CAF)
+Water Point Data Exchange
+200+ Downloads
+Time Period of the Dataset [?]:
+February 05, 2012-July 21, 2025
+... More
+Modified [?]:
+20 July 2025
+Dataset Added on HDX [?]:
+2 August 2023
+Less
+This dataset updates: Every week
+This dataset is part of the data series
+[?]
+:
+Water Point Data Exchange - Country Data
+WPdx is a platform to compile crowdsourced data focused on rural water points (wells, springs, tapstands) with contributions from governments, NGOs, and researchers. Shared data is cleaned and harmonized using the WPdx Data Standard  to create a robust analysis-ready dataset. There are two primary datasets available from WPdx. The first is WPdx-Basic, which includes all records shared with the platform. The second, WPdx-Plus is a subset of the Basic dataset which focuses on countries where district and/or national data is available and undergoes additional cleaning. WPdx-Plus is used as an input to the WPdx Decision Support tools and is the basis for the datasets posted here. The decision support tools provide insights on rural basic water service access and recommendations regarding prioritized water point repair, highlight areas with apparent service gaps, and identify water points which are at high risk of failure. For each country where WPdx data is available, there are two datasets available for download are described below.
+The wpdx_adm_region_analysis file provides an overview of the population served, unserved and uncharted for each available administrative level. The file also includes a data quality analysis based on water point record age.
+The wpdx_water_points file provides water point level details for each point shared with WPdx including all the WPdx data standard parameters plus results from the WPdx Rehab Priority, Service Gap/New Construction and Status Prediction analyses.
+A data dictionary describing each parameter included in each file is available in the Data and Resources section.
+To share data with the WPdx platform, please visit (
+www.waterpointdata.org/share-data
+) and/or reach out to
+info@waterpointdata.org
+CSV
+Water Point Data Exchange (UGA)
+Water Point Data Exchange
+200+ Downloads
+Time Period of the Dataset [?]:
+September 07, 2005-July 21, 2025
+... More
+Modified [?]:
+20 July 2025
+Dataset Added on HDX [?]:
+2 August 2023
+Less
+This dataset updates: Every week
+This dataset is part of the data series
+[?]
+:
+Water Point Data Exchange - Country Data
+WPdx is a platform to compile crowdsourced data focused on rural water points (wells, springs, tapstands) with contributions from governments, NGOs, and researchers. Shared data is cleaned and harmonized using the WPdx Data Standard  to create a robust analysis-ready dataset. There are two primary datasets available from WPdx. The first is WPdx-Basic, which includes all records shared with the platform. The second, WPdx-Plus is a subset of the Basic dataset which focuses on countries where district and/or national data is available and undergoes additional cleaning. WPdx-Plus is used as an input to the WPdx Decision Support tools and is the basis for the datasets posted here. The decision support tools provide insights on rural basic water service access and recommendations regarding prioritized water point repair, highlight areas with apparent service gaps, and identify water points which are at high risk of failure. For each country where WPdx data is available, there are two datasets available for download are described below.
+The wpdx_adm_region_analysis file provides an overview of the population served, unserved and uncharted for each available administrative level. The file also includes a data quality analysis based on water point record age.
+The wpdx_water_points file provides water point level details for each point shared with WPdx including all the WPdx data standard parameters plus results from the WPdx Rehab Priority, Service Gap/New Construction and Status Prediction analyses.
+A data dictionary describing each parameter included in each file is available in the Data and Resources section.
+To share data with the WPdx platform, please visit (
+www.waterpointdata.org/share-data
+) and/or reach out to
+info@waterpointdata.org
+CSV
+Water Point Data Exchange (HTI)
+Water Point Data Exchange
+200+ Downloads
+Time Period of the Dataset [?]:
+January 06, 2007-July 21, 2025
+... More
+Modified [?]:
+20 July 2025
+Dataset Added on HDX [?]:
+2 August 2023
+Less
+This dataset updates: Every week
+This dataset is part of the data series
+[?]
+:
+Water Point Data Exchange - Country Data
+WPdx is a platform to compile crowdsourced data focused on rural water points (wells, springs, tapstands) with contributions from governments, NGOs, and researchers. Shared data is cleaned and harmonized using the WPdx Data Standard  to create a robust analysis-ready dataset. There are two primary datasets available from WPdx. The first is WPdx-Basic, which includes all records shared with the platform. The second, WPdx-Plus is a subset of the Basic dataset which focuses on countries where district and/or national data is available and undergoes additional cleaning. WPdx-Plus is used as an input to the WPdx Decision Support tools and is the basis for the datasets posted here. The decision support tools provide insights on rural basic water service access and recommendations regarding prioritized water point repair, highlight areas with apparent service gaps, and identify water points which are at high risk of failure. For each country where WPdx data is available, there are two datasets available for download are described below.
+The wpdx_adm_region_analysis file provides an overview of the population served, unserved and uncharted for each available administrative level. The file also includes a data quality analysis based on water point record age.
+The wpdx_water_points file provides water point level details for each point shared with WPdx including all the WPdx data standard parameters plus results from the WPdx Rehab Priority, Service Gap/New Construction and Status Prediction analyses.
+A data dictionary describing each parameter included in each file is available in the Data and Resources section.
+To share data with the WPdx platform, please visit (
+www.waterpointdata.org/share-data
+) and/or reach out to
+info@waterpointdata.org
+CSV
+Water Point Data Exchange (SSD)
+Water Point Data Exchange
+200+ Downloads
+Time Period of the Dataset [?]:
+January 01, 1900-July 21, 2025
+... More
+Modified [?]:
+20 July 2025
+Dataset Added on HDX [?]:
+2 August 2023
+Less
+This dataset updates: Every week
+This dataset is part of the data series
+[?]
+:
+Water Point Data Exchange - Country Data
+WPdx is a platform to compile crowdsourced data focused on rural water points (wells, springs, tapstands) with contributions from governments, NGOs, and researchers. Shared data is cleaned and harmonized using the WPdx Data Standard  to create a robust analysis-ready dataset. There are two primary datasets available from WPdx. The first is WPdx-Basic, which includes all records shared with the platform. The second, WPdx-Plus is a subset of the Basic dataset which focuses on countries where district and/or national data is available and undergoes additional cleaning. WPdx-Plus is used as an input to the WPdx Decision Support tools and is the basis for the datasets posted here. The decision support tools provide insights on rural basic water service access and recommendations regarding prioritized water point repair, highlight areas with apparent service gaps, and identify water points which are at high risk of failure. For each country where WPdx data is available, there are two datasets available for download are described below.
+The wpdx_adm_region_analysis file provides an overview of the population served, unserved and uncharted for each available administrative level. The file also includes a data quality analysis based on water point record age.
+The wpdx_water_points file provides water point level details for each point shared with WPdx including all the WPdx data standard parameters plus results from the WPdx Rehab Priority, Service Gap/New Construction and Status Prediction analyses.
+A data dictionary describing each parameter included in each file is available in the Data and Resources section.
+To share data with the WPdx platform, please visit (
+www.waterpointdata.org/share-data
+) and/or reach out to
+info@waterpointdata.org
+CSV
+Water Point Data Exchange (GTM)
+Water Point Data Exchange
+100+ Downloads
+Time Period of the Dataset [?]:
+January 10, 2013-July 21, 2025
+... More
+Modified [?]:
+20 July 2025
+Dataset Added on HDX [?]:
+2 August 2023
+Less
+This dataset updates: Every week
+This dataset is part of the data series
+[?]
+:
+Water Point Data Exchange - Country Data
+WPdx is a platform to compile crowdsourced data focused on rural water points (wells, springs, tapstands) with contributions from governments, NGOs, and researchers. Shared data is cleaned and harmonized using the WPdx Data Standard  to create a robust analysis-ready dataset. There are two primary datasets available from WPdx. The first is WPdx-Basic, which includes all records shared with the platform. The second, WPdx-Plus is a subset of the Basic dataset which focuses on countries where district and/or national data is available and undergoes additional cleaning. WPdx-Plus is used as an input to the WPdx Decision Support tools and is the basis for the datasets posted here. The decision support tools provide insights on rural basic water service access and recommendations regarding prioritized water point repair, highlight areas with apparent service gaps, and identify water points which are at high risk of failure. For each country where WPdx data is available, there are two datasets available for download are described below.
+The wpdx_adm_region_analysis file provides an overview of the population served, unserved and uncharted for each available administrative level. The file also includes a data quality analysis based on water point record age.
+The wpdx_water_points file provides water point level details for each point shared with WPdx including all the WPdx data standard parameters plus results from the WPdx Rehab Priority, Service Gap/New Construction and Status Prediction analyses.
+A data dictionary describing each parameter included in each file is available in the Data and Resources section.
+To share data with the WPdx platform, please visit (
+www.waterpointdata.org/share-data
+) and/or reach out to
+info@waterpointdata.org
+CSV
+South Sudan - Health Facilities
+OCHA South Sudan
+100+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2023-April 30, 2025
+... More
+Modified [?]:
+18 July 2025
+Dataset Added on HDX [?]:
+8 October 2024
+Less
+This dataset updates: Every year
+The health facilities dataset outlines the types of health facilities present at the Payam level.
+XLSX
+Satellite detected water extents in Sindh, Balochistan and Punjab Provinces,...
+United Nations Satellite Centre (UNOSAT)
+Time Period of the Dataset [?]:
+July 16, 2025-July 16, 2025
+... More
+Modified [?]:
+16 July 2025
+Dataset Added on HDX [?]:
+17 July 2025
+Less
+This dataset updates: Never
+UNOSAT code: FL20250630PAK  This map illustrates the satellite-detected water extent in Sindh, Balochistan, and Punjab Provinces, Pakistan, as observed from Sentinel-2 satellite images acquired on 11 July 2025 at 10:56 local time (05:56 UTC). Within the analyzed area of approximately 83,000 km², about 4,900 km² of land appears to be affected by floodwaters. The floodwater extent appears to have increased by approximately 2,800 km² since 1 July 2025. Based on WorldPop population data and the flood extent, approximately 1.6 million people are potentially exposed or living close to the flooded areas.
+This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to the United Nations Satellite Centre (UNOSAT).
+Geodatabase
+SHP
+XLSX
+Satellite-detected Flood Extent in Punjab Province, Pakistan – 10 July 2025
+United Nations Satellite Centre (UNOSAT)
+Time Period of the Dataset [?]:
+July 15, 2025-July 15, 2025
+... More
+Modified [?]:
+15 July 2025
+Dataset Added on HDX [?]:
+16 July 2025
+Less
+This dataset updates: Never
+UNOSAT code: FL20250630PAK  This map illustrates the extent of floodwaters detected in Punjab Province using Sentinel-1 imagery acquired on 10 July 2025 at 18:04 local time (13:04 UTC). Within the analyzed area of approximately 50,000 km², around 4,200 km² of land appears to be inundated. Based on WorldPop population data and the observed flood extent, an estimated 3.3 million people are potentially exposed or living in close proximity to the affected areas.
+This is a preliminary analysis and has not been validated on the ground. We kindly encourage you to share any field observations or feedback with the United Nations Satellite Centre (UNOSAT).
+Important Note: Flood analysis derived from radar imagery may underestimate standing water in urban or densely vegetated areas due to the radar signal's backscattering characteristics.
+Should you have any questions or require further support, please do not hesitate to contact us. We remain at your disposal.
+Geodatabase
+SHP
+XLSX
+Flooding in the Philippines on July 08, 2025
+The Philippine Space Agency
+10+ Downloads
+Time Period of the Dataset [?]:
+July 08, 2025-July 08, 2025
+... More
+Modified [?]:
+14 July 2025
+Dataset Added on HDX [?]:
+14 July 2025
+Less
+This dataset updates: As needed
+This dataset is part of the data series
+[?]
+:
+PSA - Flood Monitoring
+This dataset shows the actual extent of flooding in the Philippines caused by typhoons or tropical cyclones as of July 08, 2025, as observed through available satellite imagery. The dataset can be used to track the progression of floods over time, identify areas at risk, and assess the impact of these natural disasters on infrastructure, agriculture, and local populations.
+PNG
+SHP
+Philippines: Flooding
+The Philippine Space Agency
+20+ Downloads
+Time Period of the Dataset [?]:
+July 06, 2025-July 06, 2025
+... More
+Modified [?]:
+10 July 2025
+Dataset Added on HDX [?]:
+10 July 2025
+Less
+This dataset updates: As needed
+This dataset is part of the data series
+[?]
+:
+PSA - Flood Monitoring
+This dataset shows the actual extent of flooding in the Philippines caused by typhoons or tropical cyclones as of July 06, 2025, as observed through available satellite imagery. The dataset can be used to track the progression of floods over time, identify areas at risk, and assess the impact of these natural disasters on infrastructure, agriculture, and local populations.
+PNG
+SHP
+Philippines: Flooding
+The Philippine Space Agency
+Time Period of the Dataset [?]:
+May 21, 2025-May 21, 2025
+... More
+Modified [?]:
+10 July 2025
+Dataset Added on HDX [?]:
+10 July 2025
+Less
+This dataset updates: As needed
+This dataset is part of the data series
+[?]
+:
+PSA - Flood Monitoring
+This dataset shows the actual extent of flooding in the Philippines caused by typhoons or tropical cyclones as of May 21, 2025, as observed through available satellite imagery. The dataset can be used to track the progression of floods over time, identify areas at risk, and assess the impact of these natural disasters on infrastructure, agriculture, and local populations.
+PNG
+SHP
+1
+2
+3
+...
+215
+»
+By using this site you consent to the use of cookies. Cookies can be managed in your browser or device settings.
+Continue

@@ -1,0 +1,29 @@
+Account options | HDX
+You logged out of HDX
+Thank you for using HDX !
+Choose the way you want to use the Humanitarian Data Exchange
+Search and download data
+Explore and use thousands of datasets on HDX without an account
+Access all public humanitarian datasets on HDX
+Use data visualisation tools
+No registration required
+SEARCH DATA
+Create an HDX Account
+Access additional features with an individual HDX account
+Ask questions to data contributors
+Request access to sensitive datasets
+COMING SOON - Manage notifications about data updates
+SIGN UP
+Share data
+For organisations that need to publish data on HDX
+First
+create an individual HDX account
+Your application will be reviewed
+Provide sample data for verification
+If you already have an individual account,
+log in
+and click "Add Data"
+Already have an account?
+Login
+By using this site you consent to the use of cookies. Cookies can be managed in your browser or device settings.
+Continue

@@ -1,0 +1,12 @@
+AQI and COVID-19: Evidence - Open Data Pakistan
+Skip to content
+AQI and COVID-19: Evidence
+May 14, 2020
+In a report by the World Health Organization (WHO), it has been recognised that "people of any age who have serious underlying medical conditions are at higher risk to get critically sick from the Covid-19 virus". People who have cardiovascular diseases, chronic respiratory diseases like asthma and those who have weak immune systems due to smoking are at a greater risk when infected by the virus. These conditions also tend to be caused by air pollution and a study conducted by SARS in China concludes that cities and areas that have high levels of air pollution are a target of high mortality rates.
+Pakistan is ranked as the sixth most populated country and the city of Lahore experienced high levels of PM 2.5, an air pollutant, in late 2019.
+The graph above shows AQI for Islamabad, Lahore and Peshawar from 25th October to 16th December 2019. According to the World Quality Index Project, AQI between 300-500 is considered ‘hazardous’ for the people living in the city and the graph shows that Lahore’s AQI was hazardous for majority of the days. Residents of Lahore started wearing masks to protect themselves and panic spread throughout the city. The AQI levels eventually dropped but were still averaging around 250 which is considered ‘Very Unhealthy’.
+The threat of COVID-19 changed the dynamics of the world and introduced us to the concept of ‘social distancing’. The goal is to flatten the curve of the number of people infected which requires people to self-isolate and stay at home. If contact between people is minimised, there’s a chance that the world can survive this pandemic. Hence, a lockdown was imposed by multiple countries around the globe which made it mandatory for people to stay at home and shut down business activities. Pakistan imposed this lockdown on its residents March 24th onwards and while this halted economic activity and caused problems for daily wage workers and businesses, it benefitted the environment.
+As shown in the graph below, AQI levels for Islamabad, Karachi, Lahore and Peshawar decreased after the lockdown. It still doesn’t fall in the 0-50 limit which is considered ‘good’ but considering how high mortality rates is correlated with air pollution, the significant drop can be a source of relief.
+This blog post is written by
+Aqsaa Shakeel
+, student from the batch of 2020 at Lahore University of Management Sciences.

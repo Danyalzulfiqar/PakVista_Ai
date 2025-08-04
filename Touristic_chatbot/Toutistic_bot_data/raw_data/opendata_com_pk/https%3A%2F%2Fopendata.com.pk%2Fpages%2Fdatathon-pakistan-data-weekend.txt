@@ -1,0 +1,26 @@
+Datathon - Pakistan Data Weekend - Open Data Pakistan
+Skip to content
+Datathon - Pakistan Data Weekend
+Due to the COVID-19 outbreak, the Datathon is postponed until further notice.
+Datathon is powered by Open Data Pakistan and National Center in Big Data and Cloud Computing (NCBC) at LUMS together with Ignite under MoITT and National Incubation Center Lahore.
+Pakistan Data Weekend competition aims to bring together coders, data enthusiasts, civic-minded designers, analysts, mappers and project managers to hunt, ideate, crunch and visualize - open and reusable, social, economic and environmental - data available through Open Data Pakistan.
+We require participants to form solutions for pressing socioeconomic issues or for improved service delivery in Pakistan by:
+Ideating and looking deep into data to produce meaningful analyses
+Creating infographics, visualizations, and insights from the datasets to better understand data for the social good, as raw data is difficult to understand,
+Determining what other data will be required for ideation and data insights
+Purpose
+To encourage participation in solving various issues by creating innovative solutions backed up by data.
+To encourage the creation of useful tools and innovative applications using socioeconomic open data, which will be openly accessible for re-use.
+To create a culture of creating and sharing data in good quality.
+Focus Areas (but not limited to):
+Quality of education and skill development
+Health and wellbeing
+Energy consumption
+Cities and spatial growth
+Consumption and economic growth
+Public finance and governance
+Other
+Logistics
+Select results and data stories will be showcased online on opendata.com.pk
+One dataset must be from Open Data Pakistan. All datasets must be about Pakistan.
+The curated clean datasets should have non proprietary rights to be able to upload them on the online open data portal.

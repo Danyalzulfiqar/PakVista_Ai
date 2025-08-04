@@ -1,0 +1,12 @@
+Investigating Climate Change - Open Data Pakistan
+Skip to content
+Investigating Climate Change
+May 27, 2021
+Our story starts from 1991 where the total population of Pakistan was around 111 million and jumped to199 million in 2015 with an alarming 80.02 % increase. The rural-urban population division shows the urban population jumped to an even higher of 110.39 % increase showing many people shifted from rural to urban areas due to industrialization and increased opportunities.
+With the rapid increase in the Urban population and industrialization, we observed a decline in the Forest Land Area in Pakistan with passing years from 3.22% to 1.91%. This shows that deforestation was carried out to accommodate such a large increase in the Urban population, and cities had to outgrow their limits and acquire the surrounding land for the development of industries.
+With the advancement in Urban cities and the increase in development processes and industrial plantation in the Urban areas, CO2, carbon-related, and other harmful gases were seen to rise to a very alarming level, showing a 176% increase from the year 1991.
+This caused the temperature and precipitation patterns to vary up to a considerable extent showing severe climate conditions such as droughts, floods, global warming and much more. The below graph shows the fluctuations in recorded mean temperature over the period of 24 years.
+The above-discussed factors address the major climate change challenge being faced by Pakistan. . A concerted effort by the government and civil society at all levels is required to mitigate these threats. The government should make proper policies to limit the use of fossil fuels such as oil, carbon, and natural gas and replace them with renewable and cleaner energy sources, all while increasing energy efficiency. Along with renewable energy sources, short-lived climate pollutants from vehicles and other kinds of fires should be banned, and proper steps should be taken to avoid them. Moreover, the government should also promote plantation drives to fight this drastic climate change and improve climate conditions for future generations.
+This blog post is written by
+Ahmed Rehman Chauhan, Abdul Rahman Jawad and Muhammad Yousaf Saddique,
+participants of Open Data Pakistan Data Viz Challenge 21.

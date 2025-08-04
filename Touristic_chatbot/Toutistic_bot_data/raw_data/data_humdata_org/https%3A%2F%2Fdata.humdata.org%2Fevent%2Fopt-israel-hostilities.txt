@@ -1,0 +1,475 @@
+occupied Palestinian territory-Israel Hostilities | Crisis Datasets | HDX
+You logged out of HDX
+Thank you for using HDX !
+State of Palestine: Impact of the Escalation of Hostilities
+Palestinian Central Bureau of Statistics
+1200+ Downloads
+Time Period of the Dataset [?]:
+October 07, 2023-July 21, 2025
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+4 February 2024
+Less
+This dataset updates: Every week
+This dataset shows key figures from the escalation of hostilities since 7 October 2023.
+XLSX
+State of Palestine - Internal Displacements Updates (IDU) (event data)
+Internal Displacement Monitoring Centre (IDMC)
+500+ Downloads
+Time Period of the Dataset [?]:
+January 22, 2025-July 21, 2025
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+14 December 2023
+Less
+This dataset updates: Every day
+Conflict and disaster population movement (flows) data for State of Palestine.
+The IDU (Internal Displacement Updates) dataset, provided by the Internal Displacement Monitoring Centre (IDMC), offers timely event data and provisional information on new internal displacements caused by conflicts and disasters. Representing the most recent available information over a 180-day time period, the IDU is updated daily and focuses on "flows" (new displacements).
+Internally displaced persons (IDPs) are defined according to the 1998 Guiding Principles as people or groups of people who have been forced or obliged to flee or to leave their homes or places of habitual residence, in particular as a result of armed conflict, or to avoid the effects of armed conflict, situations of generalized violence, violations of human rights, or natural or human-made disasters and who have not crossed an international border. The IDMC's event data, sourced from the IDU, provides initial assessments of these internal displacements, reflecting continually updated provisional information from various sources.
+While the IDU offers early insights, the more thoroughly validated and curated "stock"  (Total number of people leaving on internal displacement) and "flow" (population movements) estimates are available in the annual Global Internal Displacement Database (GIDD). Both datasets are accessible via API, with specific guidance on data access, structure, and limitations, including important preprocessing considerations for the IDU to ensure accurate analysis and avoid double-counting. For further detailed information and complete API specifications, users are encouraged to consult the official documentation at
+https://www.internal-displacement.org/database/api-documentation/
+.
+The IDMC's Event data, sourced from the Internal Displacement Updates (IDU), offers initial assessments of internal displacements reported within the last 180 days. This dataset provides provisional information that is continually updated on a daily basis, reflecting the availability of data on new displacements arising from conflicts and disasters. The finalized, carefully curated, and validated estimates are then made accessible through the Global Internal Displacement Database (GIDD). The IDU dataset comprises preliminary estimates aggregated from various publishers or sources.
+CSV
+State of Palestine - Internal Displacements (New Displacements) – IDPs
+Internal Displacement Monitoring Centre (IDMC)
+300+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2009-December 31, 2024
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+16 September 2019
+Less
+This dataset updates: Every year
+This dataset is part of the data series
+[?]
+:
+IDMC - Internally displaced persons
+The Global Internal Displacement Database (GIDD), maintained by the Internal Displacement Monitoring Centre (IDMC), provides comprehensive, validated annual estimates of internal displacement worldwide. It defines internally displaced persons (IDPs) in line with the 1998 Guiding Principles, as people or groups of people who have been forced or obliged to flee or to leave their homes or places of habitual residence, in particular as a result of armed conflict, or to avoid the effects of armed conflict, situations of generalized violence, violations of human rights, or natural or human-made disasters and who have not crossed an international border.
+The GIDD tracks two primary metrics: "People Displaced" or population "Stock" figures, which represent the total number of people living in displacement at year-end, and "New Displacement," which counts new displacement incidents (population Flows) rather than individual people, accounting for potential multiple displacements by the same person. This dataset serves as a crucial resource for understanding long-term trends and validated displacement figures globally. For further detailed information and complete API specifications, users are encouraged to consult the official documentation at
+https://www.internal-displacement.org/database/api-documentation/
+.
+"Internally displaced persons - IDPs" refers to the number of people living in displacement as of the end of each year.
+"Internal displacements (New Displacements)" refers to the number of new cases or incidents of displacement recorded, rather than the number of people displaced. This is done because people may have been displaced more than once.
+CSV
+State of Palestine (PSE): Attacks on Aid Operations, Education, Health Care...
+Insecurity Insight
+3800+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2016-July 05, 2025
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+19 May 2020
+Less
+This dataset updates: Every week
+These datasets contain information on reported incidents of violence and threats affecting aid operations and workers, education, food security, health care services and refugee and IDP camps in the oPt. They also provide information on incidents of conflict related (CRSV) or political sexual violence and explosive weapons use affecting aid access, education and health care services. Also included are datasets cited in the Safeguarding Health in Conflict Coalition (SHCC)'s annual reports. Please get in touch if you are interested in curated datasets:
+info@insecurityinsight.org
+XLSX
+Protection in Danger Data
+Insecurity Insight
+1900+ Downloads
+Time Period of the Dataset [?]:
+January 21, 2020-June 29, 2025
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+17 October 2018
+Less
+This dataset updates: As needed
+This dataset contains violent agency- and open source events affecting refugee and IDP camps published in the Protection in Danger Monthly News Brief. Categorized by country. Please get in touch if you are interested in curated datasets:
+info@insecurityinsight.org
+XLSX
+Conflict-Related Sexual Violence (CRSV) Data
+Insecurity Insight
+3000+ Downloads
+Time Period of the Dataset [?]:
+January 07, 2020-May 30, 2025
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+11 January 2022
+Less
+This dataset updates: As needed
+This dataset contains publicly-reported cases of sexual violence by conflict actors, security personnel, and sexual violence violence that targets aid workers, educators, health workers and IDPS/refugees.
+Please get in touch if you are interested in curated datasets:
+info@insecurityinsight.org
+XLSX
+Occupied Palestinian Territory - Requirements and Funding Data
+OCHA Financial Tracking System (FTS)
+5500+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2000-July 21, 2025
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+21 July 2017
+Less
+This dataset updates: Every day
+This dataset is part of the data series
+[?]
+:
+OCHA FTS - Requirements and Funding Data
+FTS publishes data on humanitarian funding flows as reported by donors and recipient organizations. It presents all humanitarian funding to a country and funding that is specifically reported or that can be specifically mapped against funding requirements stated in humanitarian response plans. The data comes from OCHA's Financial Tracking Service, is encoded as utf-8 and the second row of the CSV contains HXL tags.
+CSV
+Israel - Requirements and Funding Data
+OCHA Financial Tracking System (FTS)
+300+ Downloads
+Time Period of the Dataset [?]:
+December 16, 2024-July 21, 2025
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+15 September 2017
+Less
+This dataset updates: Every day
+This dataset is part of the data series
+[?]
+:
+OCHA FTS - Requirements and Funding Data
+FTS publishes data on humanitarian funding flows as reported by donors and recipient organizations. It presents all humanitarian funding to a country and funding that is specifically reported or that can be specifically mapped against funding requirements stated in humanitarian response plans. The data comes from OCHA's Financial Tracking Service, is encoded as utf-8 and the second row of the CSV contains HXL tags.
+CSV
+State of Palestine - Food Security and Nutrition Indicators
+Food and Agriculture Organization (FAO) of the United Nations
+500+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2000-December 31, 2023
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+10 March 2019
+Less
+This dataset updates: Every year
+This dataset is part of the data series
+[?]
+:
+FAO - Food Security Indicators
+Food Security and Nutrition Indicators for State of Palestine.
+Contains data from the FAOSTAT bulk data service.
+CSV
+Palestine - Conflict Events
+Armed Conflict Location & Event Data Project (ACLED)
+4800+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2016-July 11, 2025
+... More
+Modified [?]:
+16 July 2025
+Dataset Added on HDX [?]:
+15 December 2021
+Less
+This dataset updates: Every week
+This dataset is part of the data series
+[?]
+:
+ACLED - Conflict Events
+A weekly dataset providing the total number of reported political violence, civilian-targeting, and demonstration events in Palestine. Note: These are aggregated data files organized by country-year and country-month. To access full event data, please register to use the Data Export Tool and API on the ACLED website.
+XLSX
+Israel - Conflict Events
+Armed Conflict Location & Event Data Project (ACLED)
+1600+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2016-July 11, 2025
+... More
+Modified [?]:
+16 July 2025
+Dataset Added on HDX [?]:
+15 December 2021
+Less
+This dataset updates: Every week
+This dataset is part of the data series
+[?]
+:
+ACLED - Conflict Events
+A weekly dataset providing the total number of reported political violence, civilian-targeting, and demonstration events in Israel. Note: These are aggregated data files organized by country-year and country-month. To access full event data, please register to use the Data Export Tool and API on the ACLED website.
+XLSX
+State of Palestine: Education Indicators
+Palestinian Central Bureau of Statistics
+100+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2022-December 31, 2023
+... More
+Modified [?]:
+15 July 2025
+Dataset Added on HDX [?]:
+8 May 2024
+Less
+This dataset updates: Every six months
+This dataset shows the indicators at different education levels and the education status in Gaza Strip up to 2023.
+XLSX
+State of Palestine - Consumer Price Index
+Palestinian Central Bureau of Statistics
+300+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2023-June 30, 2025
+... More
+Modified [?]:
+14 July 2025
+Dataset Added on HDX [?]:
+21 March 2024
+Less
+This dataset updates: Every month
+This dataset shows the Monthly Consumer Price Index Numbers and percent changes by Major Divisions and Groups in the Gaza Strip.
+XLSX
+State of Palestine: Prices of basic commodities in Gaza
+Palestinian Central Bureau of Statistics
+600+ Downloads
+Time Period of the Dataset [?]:
+September 01, 2023-June 30, 2025
+... More
+Modified [?]:
+14 July 2025
+Dataset Added on HDX [?]:
+4 December 2023
+Less
+This dataset updates: Every month
+The dataset contains information on the price of basic commodities in Gaza before and after hostilities.
+XLSX
+HDX HAPI Data for State of Palestine
+HDX Humanitarian API Data
+600+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2000-December 31, 2028
+... More
+Modified [?]:
+14 July 2025
+Dataset Added on HDX [?]:
+24 October 2024
+Less
+This dataset updates: Every day
+This dataset contains data obtained from the
+HDX Humanitarian API (HDX HAPI),
+which provides standardized humanitarian indicators designed
+for seamless interoperability from multiple sources.
+The data facilitates automated workflows and visualizations
+to support humanitarian decision making.
+For more information, please see the HDX HAPI
+landing page
+and
+documentation.
+CSV
+State of Palestine Buildings (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+700+ Downloads
+Time Period of the Dataset [?]:
+July 08, 2025-July 08, 2025
+... More
+Modified [?]:
+8 July 2025
+Dataset Added on HDX [?]:
+11 July 2017
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Buildings
+OpenStreetMap contains roughly 554.6 thousand buildings in this region. Based on AI-mapped estimates, this is approximately 39% of the total buildings.The average age of data for this region is 1 year, 10 months ( Last edited a day ago ) and 2% buildings were added or updated in the last 6 months.
+Read about what this summary means : indicators , metrics
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['building'] IS NOT NULL
+Features may have these attributes:
+name
+name:en
+building
+building:levels
+building:materials
+addr:full
+addr:housenumber
+addr:street
+addr:city
+office
+source
+name:ar
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+KML
+GeoJSON
+Geopackage
+State of Palestine Roads (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+400+ Downloads
+Time Period of the Dataset [?]:
+July 08, 2025-July 08, 2025
+... More
+Modified [?]:
+8 July 2025
+Dataset Added on HDX [?]:
+11 July 2017
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Roads
+OpenStreetMap contains roughly 48.1 thousand km of roads in this region. Based on AI-mapped estimates, this is approximately 78 % of the total road length in the dataset region. The average age of data for the region is 1 year, 10 months  ( Last edited a day ago ) and 13% of roads were added or updated in the last 6 months.
+Read about what this summary means : indicators , metrics
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['highway'] IS NOT NULL
+Features may have these attributes:
+name
+name:en
+highway
+surface
+smoothness
+width
+lanes
+oneway
+bridge
+layer
+source
+name:ar
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+KML
+GeoJSON
+Geopackage
+State of Palestine: Acute Food Insecurity Country Data
+Integrated Food Security Phase Classification (IPC)
+900+ Downloads
+Time Period of the Dataset [?]:
+November 01, 2023-September 30, 2025
+... More
+Modified [?]:
+1 July 2025
+Dataset Added on HDX [?]:
+23 December 2023
+Less
+This dataset updates: As needed
+The IPC Acute Food Insecurity (IPC AFI) classification provides strategically relevant information to decision makers that focuses on short-term objectives to prevent, mitigate or decrease severe food insecurity that threatens lives or livelihoods. This data has been produced by the National IPC Technical Working Groups for IPC population estimates since 2017. All national population figures are based on official country population estimates. IPC estimates are those published in country IPC reports.
+There is also a global dataset.
+GeoJSON
+CSV
+State of Palestine - Aid Worker Security Database
+Humanitarian Outcomes
+200+ Downloads
+Time Period of the Dataset [?]:
+March 01, 2003-July 21, 2025
+... More
+Modified [?]:
+28 June 2025
+Dataset Added on HDX [?]:
+2 November 2023
+Less
+This dataset updates: Live
+This dataset shows aid worker security incidents in State of Palestine.
+Annually, the data for the previous year undergoes a verification process. Data for the current year is provisional. For incident descriptions, please download data directly from
+www.aidworkersecurity.org
+CSV
+State of Palestine: Violations Against Education
+Palestinian Central Bureau of Statistics
+100+ Downloads
+Time Period of the Dataset [?]:
+October 07, 2023-June 17, 2025
+... More
+Modified [?]:
+17 June 2025
+Dataset Added on HDX [?]:
+26 July 2024
+Less
+This dataset updates: Every two weeks
+This data is a summary of the violations against education in the Gaza Strip and the West Bank.
+Google Sheet
+Attacks on Health Care in Countries in Conflict (SHCC) Data
+Insecurity Insight
+5300+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2016-December 31, 2024
+... More
+Modified [?]:
+20 May 2025
+Dataset Added on HDX [?]:
+16 May 2018
+Less
+This dataset updates: As needed
+This dataset contains agency- and open source events published in the Attacks on Health Care News Brief and included in the Safeguarding Health in Conflict Coalition (SHCC) annual reporting on violence against or obstruction of health care. This page is managed by SHCC member Insecurity Insight.
+Please get in touch if you are interested in curated datasets:
+info@insecurityinsight.org
+XLSX
+State of Palestine Multi Dimensional Poverty Index
+Oxford Poverty & Human Development Initiative
+600+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2010-December 31, 2020
+... More
+Modified [?]:
+8 May 2025
+Dataset Added on HDX [?]:
+14 September 2020
+Less
+This dataset updates: Every year
+This dataset is part of the data series
+[?]
+:
+Oxford Poverty and Human Development Initiative - Global Multidimensional Poverty Index
+The index provides the only comprehensive measure available for non-income poverty, which has become a critical underpinning of the SDGs. Critically the MPI comprises variables that are already reported under the Demographic Health Surveys (DHS) and Multi-Indicator Cluster Surveys (MICS)
+The resources subnational multidimensional poverty data from the data tables published by the Oxford Poverty and Human Development Initiative (OPHI), University of Oxford. The global Multidimensional Poverty Index (MPI) measures multidimensional poverty in over 100 developing countries, using internationally comparable datasets and is updated annually. The measure captures the severe deprivations that each person faces at the same time using information from 10 indicators, which are grouped into three equally weighted dimensions: health, education, and living standards. The global MPI methodology is detailed in Alkire, Kanagaratnam & Suppa (2023)
+CSV
+State of Palestine: Gaza Supplies and Dispatch Tracking
+United Nations Relief and Works Agency for Palestine Refugees in the Near East
+1200+ Downloads
+Time Period of the Dataset [?]:
+October 21, 2023-January 16, 2025
+... More
+Modified [?]:
+3 March 2025
+Dataset Added on HDX [?]:
+23 November 2023
+Less
+This dataset updates: Never
+The dataset provides an overview of the material entry process through Rafah and Kerem Shalom crossings. It gives insight into the progress of supplies and dispatched items as well as the vital manifest details associated with them.
+XLSX
+State of Palestine - FAO Gaza Strip Greenhouse Comprehensive Damage...
+United Nations Satellite Centre (UNOSAT)
+10+ Downloads
+Time Period of the Dataset [?]:
+December 23, 2024-December 23, 2024
+... More
+Modified [?]:
+30 January 2025
+Dataset Added on HDX [?]:
+31 January 2025
+Less
+This dataset updates: Never
+UNOSAT code: CE20231007PSE  This map a satellite imagery-based comprehensive assessment of damage and destruction to greenhouses within the area of interest in the Gaza Strip, Occupied Palestinian Territory, based on images collected on 3 and 23 December 2024 when compared to images collected on 18 August 2024, 23-24 April 2024, 30-31 March 2024, 23 March 2024, 21 March 2024, 26 November 2023, 7 November 2023, 24-26 October 2023, 21 October 20223, 15 October  1 May 2023, 10 May 2023, 18 September 2023, 15 October 2023, 10 October 2023, 18 September 2023, 10 May 2023, and 1 May 2023. According to satellite imagery analysis, UNOSAT identified 4,578 destroyed greenhouses, 439 severely damaged greenhouses, and 643 moderately damaged greenhouses for a total of 5660 greenhouses. This accounts for approximately 64% of the total greenhouses in the Gaza Strip, with 33% of these suffering additional damage since the previous assessment on 18 August 2024. Furthermore, 6% of the damage recorded in December 2024 is new compared to the previous analysis. In terms of surface area, 56% of the greenhouse extent is now damaged, reflecting a 37% increase compared to the previous analysis.
+The governorate of Rafah has experienced the highest increase in new damage since the 18 August 2024 analysis, with around 838 new greenhouses affected. Khan Yunis has seen an intensification of previously damaged greenhouses, with 703 more greenhouses sustaining further damage. This is a preliminary analysis and has not yet been validated in the field.
+Geodatabase
+UNOSAT - FAO Gaza Strip Cropland Damage Assessment - December 2024
+United Nations Satellite Centre (UNOSAT)
+20+ Downloads
+Time Period of the Dataset [?]:
+January 30, 2025-January 30, 2025
+... More
+Modified [?]:
+30 January 2025
+Dataset Added on HDX [?]:
+31 January 2025
+Less
+This dataset updates: Never
+UNOSAT code: CE20231007PSE  This map illustrates satellite-detected changes in cropland areas of the Gaza Strip resulting from the decline in the health and density of crops due to the ongoing conflict. UNOSAT conducted an analysis utilising satellite imagery collected by the Sentinel-2 satellite between December 2017 and 2024, performing a Normalized Difference Vegetation Index (NDVI) analysis as well as a multitemporal classification to identify notable changes taking place in cropland areas during that timeframe. The methodology evaluated the damage as a decline in the health and density of crops in December 2024, compared to the preceding seven seasons spanning from 2017 to 2024. The decline in the health and density of the crops can be observed due to the impact of activities such as razing, heavy vehicle activity, bombing, shelling, and other conflict-related dynamics. The analysis includes damage assessment for orchards and other trees, field crops and vegetables. UNOSAT and FAO analysis shows that the cropland extent in the Gaza Strip is estimated to be 150 sq. km, accounting for approximately 41% of the total area of the Gaza Strip, following an extensive land-cover analysis.
+Compared to the average of the previous seven years, approximately 75% of the permanent crop fields in the Gaza Strip exhibited a significant decline in health and density in September 2024. In a comprehensive evaluation, it was found that there has been a 10% increase in the proportion of cropland that has been damaged since the previous analysis conducted in September 2024. Additionally, the analysis indicates a notable rise in the destruction of the orchards and other trees, field crops and vegetables in the Deir al-Balah Governorate, with a 9-percentage point increase compared to the previous July 2024 analysis. Moreover, there has been a notable escalation in the destruction of cropland within the Rafah Governorate, with the percentage rising from 57% in September 2024 to 67% in December 2024. This is a preliminary analysis and has not yet been validated in the field.
+Geodatabase
+1
+2
+3
+»
+By using this site you consent to the use of cookies. Cookies can be managed in your browser or device settings.
+Continue

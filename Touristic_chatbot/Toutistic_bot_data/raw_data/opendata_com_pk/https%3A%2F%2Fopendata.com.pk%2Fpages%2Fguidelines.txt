@@ -1,0 +1,9 @@
+Guidelines - Open Data Pakistan
+Skip to content
+Guidelines
+User Guidelines
+The purpose of Open Data Pakistan (ODP) is to create a culture of sharing data in an open format for the public good.
+Making Data Open Legally
+Open data must be legally available for open use. To make data publicly available, a suitable open data license must be applied. If data isn’t publicly available, then it is hard for others to use it or decide whether to use it. Explicit licensing is essential to provide clarity and certainty to users and reusers (and is needed even if data is to be in the ‘public domain’).
+Draft Open Data Policy
+Open Data Policy is a recommended policy for the Governments in Pakistan to endorse and implement for the promotion and management of open data.

@@ -1,0 +1,151 @@
+Pakistan Points of Interest (OpenStreetMap Export) | Humanitarian Dataset | HDX
+You logged out of HDX
+Thank you for using HDX !
+Pakistan Points of Interest (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means
+here
+) :
+tags['amenity'] IS NOT NULL OR tags['man_made'] IS NOT NULL OR tags['shop'] IS NOT NULL OR tags['tourism'] IS NOT NULL
+Features may have these attributes:
+name
+name:en
+amenity
+man_made
+shop
+tourism
+opening_hours
+beds
+rooms
+addr:full
+addr:housenumber
+addr:street
+addr:city
+source
+name:ur
+This dataset is one of many
+OpenStreetMap exports on
+HDX
+.
+See the
+Humanitarian OpenStreetMap Team
+website for more
+information.
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Points of Interest
+Data and Resources [8]
+HDX Data Use Survey
+Please take 30 seconds to help HDX and Humanitarian OpenStreetMap Team (HOT) understand your interest in this data.
+61bf5808-dcc2-4716-adc2-6122d10666d3
+https://data.humdata.org/dataset/hotosm_pak_points_of_interest
+hot
+Take the survey
+SHP
+hotosm_pak_points_of_interest_points_shp.zip
+Modified:
+9 July 2025
+ESRI Shapefile
+Download
+hotosm_pak_points_of_interest_points_shp.zip
+7e01b952-0e43-4d09-acaf-540a1f845b9d
+SHP
+hotosm_pak_points_of_interest_polygons_shp.zip
+Modified:
+9 July 2025
+ESRI Shapefile
+Download
+hotosm_pak_points_of_interest_polygons_shp.zip
+25b8b615-983e-4aee-ae47-c7f3ee8a70cd
+KML
+hotosm_pak_points_of_interest_points_kml.zip
+Modified:
+9 July 2025
+KML
+Download
+hotosm_pak_points_of_interest_points_kml.zip
+ea80742a-f1c2-4c93-b890-7e4b90970914
+KML
+hotosm_pak_points_of_interest_polygons_kml.zip
+Modified:
+9 July 2025
+KML
+Download
+hotosm_pak_points_of_interest_polygons_kml.zip
+8500a410-dc6c-4c70-a6da-21333f818faf
+GeoJSON
+hotosm_pak_points_of_interest_points_geojson.zip
+Modified:
+9 July 2025
+GeoJSON
+Download
+hotosm_pak_points_of_interest_points_geojson.zip
+52ffe7f6-9b7d-419b-accd-8078fa3783ae
+GeoJSON
+hotosm_pak_points_of_interest_polygons_geojson.zip
+Modified:
+9 July 2025
+GeoJSON
+Download
+hotosm_pak_points_of_interest_polygons_geojson.zip
+cd23851e-53ce-4721-9914-8507a48c5882
+Geopackage
+hotosm_pak_points_of_interest_points_gpkg.zip
+Modified:
+9 July 2025
+GPKG
+Download
+hotosm_pak_points_of_interest_points_gpkg.zip
+2ea9b323-0db7-4c7a-8493-17235ea07c14
+Geopackage
+hotosm_pak_points_of_interest_polygons_gpkg.zip
+Modified:
+9 July 2025
+GPKG
+Download
+hotosm_pak_points_of_interest_polygons_gpkg.zip
+8b7a2d20-5841-4f98-abbb-e66cb0433b32
+Additional information
+Time Period of the Dataset [?]
+July 09, 2025-July 09, 2025
+... More
+Modified [?]
+9 July 2025
+Dataset Added on HDX [?]
+27 July 2017
+Less
+Expected Update Frequency
+Every month
+Location
+Pakistan
+Source
+OpenStreetMap contributors
+... More
+Contributor
+Humanitarian OpenStreetMap Team (HOT)
+Methodology
+Volunteered geographic information
+Caveats / Comments
+OpenStreetMap data is crowd sourced and cannot be considered to be exhaustive
+License
+Open Database License (ODC-ODbL)
+Tags
+facilities-infrastructure
+geodata
+points of interest-poi
+File Format
+SHP
+KML
+GeoJSON
+Geopackage
+Visibility
+Public
+Less
+Export metadata for this dataset:
+JSON
+|
+CSV
+By using this site you consent to the use of cookies. Cookies can be managed in your browser or device settings.
+Continue

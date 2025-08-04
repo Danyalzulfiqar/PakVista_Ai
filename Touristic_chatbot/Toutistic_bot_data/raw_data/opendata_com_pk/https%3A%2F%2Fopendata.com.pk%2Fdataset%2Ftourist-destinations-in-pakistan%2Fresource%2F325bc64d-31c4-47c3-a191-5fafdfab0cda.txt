@@ -1,0 +1,63 @@
+Tourist Destinations in Pakistan - Tourist Destinations in Pakistan.csv - Open Data Pakistan
+Skip to content
+Home
+Organizations
+Friends of Open Data ...
+Tourist Destinations in ...
+Tourist Destinations in ...
+Download
+Tourist Destinations in Pakistan.csv
+From the dataset abstract
+Tourist Destinations in Pakistan
+Source:
+Tourist Destinations in Pakistan
+Data Explorer
+Fullscreen
+Embed
+This resource view is not available at the moment.
+Click here for more information.
+Download resource
+Your browser does not support iframes.
+×
+Embed resource view
+You can copy and paste the embed code into a CMS or blog software that supports raw HTML
+Width
+Height
+Code
+Additional Information
+Field
+Value
+Data last updated
+May 1, 2023
+Metadata last updated
+May 1, 2023
+Created
+May 1, 2023
+Format
+text/csv
+License
+No License Provided
+created
+over 2 years ago
+format
+CSV
+has views
+True
+id
+325bc64d-31c4-47c3-a191-5fafdfab0cda
+last modified
+over 2 years ago
+mimetype
+text/csv
+on same domain
+True
+package id
+6e031bea-1e6a-4a91-b2ee-14437f16446e
+revision id
+0679a865-5585-4d5a-bd3d-d6d294a8a422
+size
+26.6 KiB
+state
+active
+url type
+upload

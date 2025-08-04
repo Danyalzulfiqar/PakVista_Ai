@@ -1,0 +1,577 @@
+Frequently Asked Questions | HDX
+You logged out of HDX
+Thank you for using HDX !
+Didn't see an answer?
+We are here to help !
+Please send us your question and we will get back to you as soon as we can. Your question will help us improve HDX
+Thank you
+We will get back to you as soon as we can.
+Frequently Asked Questions
+Don't see an answer you are looking for?
+Contact us
+Getting Started
+Organisations
+Sharing and Using Data
+Data Grids
+HDX Signals
+Geodata
+Search
+Metadata and Data Quality
+Resources for Developers
+HXL
+Sensitive Data
+Data Licenses
+Contact
+Don't see an answer?
+Search this page:
+No results
+Result
+/
+« Prev
+-
+Next »
+About the Humanitarian Data Exchange
+The Humanitarian Data Exchange (HDX) is an open platform for sharing data across crises and
+organisations. Launched in July 2014, the goal of HDX is to make humanitarian data easy to find and
+use for analysis. Our growing collection of datasets has been accessed by users in over 250 countries
+and territories.
+HDX is managed by OCHA's
+Centre for
+Humanitarian Data
+, which is located in The Hague, the Netherlands. OCHA is part of the United
+Nations Secretariat and is responsible for bringing together humanitarian actors to ensure a coherent
+response to emergencies. The HDX team includes OCHA staff and a number of consultants, based in North
+America, Europe, Africa, the Middle East and Asia.
+Learn more about HDX with our
+one-pager
+.
+For the latest content about HDX,
+click here
+. A selection is below:
+Google Sustainability -
+How AI Flood Forecasting Can Help Communities in Need
+DigitalDots Talks -
+Data to Save Lives in Humanitarian Crisis
+Opensource.com -
+Open Source Maps and Open Data Help Humanitarian Response
+Google Public Policy -
+Collaborating
+With The UN To Accelerate Crisis Response
+Project Syndicate -
+Investing
+In Data Saves Lives
+, by Mark Lowcock and Raj Shah
+Frog Design Mind Podcast -
+Designing
+Data For Humans In Times Of Crisis
+Thomson Reuters Foundation -
+In a World
+Awash with Data, Aid Workers Contend with Gaps
+Good Code Podcast -
+The UN
+on Humanitarian Data
+To find our logo files and other materials, please
+click here
+.
+Getting Started
+How does HDX define humanitarian data?
+We define humanitarian data as:
+data about the context in which a humanitarian crisis is occurring (e.g., baseline/development data, damage assessments, geospatial data)
+data about the people affected by the crisis and their needs
+data about the response by organisations and people seeking to help those who need assistance.
+What is open data?
+Open data is data that can be freely used, re-used and redistributed by anyone – subject only, at most, to the requirement to attribute and sharealike.
+The
+full Open Definition
+gives precise details as to what this means. To summarize the most important:
+Availability and Access:
+the data must be available as a whole and at no more than a reasonable reproduction cost, preferably by downloading over the internet. The data must also be available in a convenient and modifiable form.
+Re-use and Redistribution:
+the data must be provided under terms that permit re-use and redistribution including the intermixing with other datasets.
+Universal Participation:
+everyone must be able to use, re-use and redistribute – there should be no discrimination against fields of endeavour or against persons or groups. For example, ‘non-commercial’ restrictions that would prevent ‘commercial’ use, or restrictions of use for certain purposes (e.g. only in education), are not allowed.
+Is HDX open source?
+Yes. HDX uses an open-source software called
+CKAN
+for our technical back-end. You can find all of our code on
+GitHub
+.
+What browsers are best to use for HDX?
+We build and test HDX using the latest versions of Chrome and Firefox. We also test on Microsoft Edge, but do not formally support it.
+What if I forget my username and password?
+Use our
+password recovery form
+to reset your account details. Enter your username or email and we will send you an email with a link to create a new password.
+What does it mean to ‘follow’ a dataset?
+HDX allows registered users to follow the dataset they are interested in. Updates to the datasets that you follow will appear as a running list in your user dashboard (accessible from your user name in the top right of every page when you are logged in). You can follow datasets, organisations and locations.
+How do I request access to a dataset where I can only see metadata?
+You’ll find a ‘Request Access’ button for datasets where only metadata is provided. The HDX Connect feature makes it possible to discover what data is available or what data collection initiatives are underway. Only registered users have the ability to contact the organisation through the request access module. The administrator for the contributing organisation can decide whether to accept or deny the request. Once the connection is made, HDX is not involved in the decision to share the data. Learn more about HDX Connect here:
+How do I contact a data contributor?
+You’ll find a ‘contact the contributor’ link below the title of the data on all the dataset pages. Please find more details
+here
+.
+How do I register an account with HDX?
+Anyone can view and download data on HDX, however registered users have access to more features. You can register from any page on HDX  by clicking on
+‘Sign Up’
+. Read the question under “
+What are the benefits of being a registered user?
+” for why you should sign up.
+What are the benefits of being a registered user?
+Anyone can view and download data on HDX, however registered users have access to
+more features
+. After signing up you can:
+Ask questions about datasets
+You can send messages to organisations through the ‘Contact the Contributor’ form.
+Request access to sensitive datasets
+Some datasets on HDX are only made available after sending a request to the organisation through the ‘HDX Connect’ form.
+Get updates on data
+When you ‘follow’ a dataset, organisation or location, you will be notified about updates in the newsfeed of your user dashboard.
+Share data
+If you want to share data on HDX, you will need to associate your account with an approved organisation or request to create a new organisation. To do this, click on the ‘Add Data’ button on HDX after signing up and follow the prompts.
+Organisations
+What is an organisation?
+Organisations in HDX can be legal entities, such as WFP, or informal groups, such as the Shelter Cluster or Information Management Working Group for a specific country. Data can only be shared on HDX through an organisation. The HDX team verifies all organisations to ensure they are trusted and have relevant data to share with the HDX user community.
+How do I create an organisation?
+You only need to create an organisation if you plan to share humanitarian data on HDX. Once you
+register
+on HDX, follow the prompt or
+request an organisation through the ‘Add Data’ button. We ask you to submit the following information: an organisation name, description and link to an organisation-related website (optional). We review this information and then either accept the request or ask for more information, such as a sample dataset. Approved organisations will remain inactive and not displayed under ‘Organisations’ page until at least one dataset has been shared through HDX.
+How do I request organisation membership?
+You only need to request organisation membership if you plan to share humanitarian data on behalf of your organisation. Once you
+register
+on HDX, follow the prompt to request organisation membership.
+You can also request membership through the organisation’s page while logged in. Please keep in mind that you need to work for the organisation in order to send a request to the organisation’s administrator(s). The requestor can not specify the role (i.e., admin, editor or member). Instead, the person receiving the request assigns the role. If you do not see this option displayed on organisation page, the organisation is a closed group and is not accepting new members.
+How does organisation membership work?
+Organisation membership includes three roles:
+Administrators can add, edit and delete datasets belonging to the organisation and accept or refuse new member requests.
+Editors can add, edit and delete datasets belonging to the organisation but cannot manage membership.
+Members can view the organisation’s private datasets, but cannot add new datasets or manage membership.
+The user who requests the creation of an organisation is assigned an administrator role. That person can invite other HDX users into their organisation and assign them one of the three roles above, or registered users on HDX can request membership from the organisation’s administrator(s).
+I’m an organisation admin. How do I add/remove members?
+Organisation admins can invite new members, remove existing members or change their roles from the ‘Members’ tab on the organisation page.
+Registered users can also initiate a request to join your organisation during the signup process or later on from your organisation page (if you want to disable this option, read the question below
+‘I am an organisation admin. I don’t want anyone to request membership and want to manually add/remove members.’
+).
+Membership requests are sent to your email and also added as a notification on HDX. If you can confirm that the user works for your organisation (ie. by using a company directory) or is in your trusted network, then you may approve the request. If you cannot verify who the user is, you should decline the request. Please do not approve membership requests for people outside your organisation or working group. For full details on managing members, please read
+this document
+. Please be aware that anyone added to your organisation on HDX can view the organisation’s private datasets.
+I am an organisation admin. I don’t want anyone to request membership and want to manually add/remove members.
+Organisation admins have the option to make the organisation an open or closed group. By default, all organisations are an open group to allow new users to request membership. If you don’t want to allow any member to join your organisation, you can turn off the ‘Allow members’ checkbox under ‘Edit organisation page’. This will make your organization a closed group with existing members. No new member will be able to send a request to join your organization on HDX. The admin(s) of your organization can still manually invite new members, remove existing members or change their roles from the ‘Members’ tab.
+Can I be part of more than one organisation?
+Yes. Registered users can be part of several organisations.
+I don’t see my organisation. What should I do?
+If your organisation is not listed, you can request to create one or you may want to join an existing organisation via your
+dashboard
+. For instance, there may be a WFP organisation that was created by its staff at headquarters in Rome. You may prefer to join that one rather than creating a separate organisation for a specific location, e.g., WFP Liberia. You can see the full list of organisations by clicking
+Organisations
+in the main navigation.
+If you have previously created an organisation and no longer see it on the site, this is because you have not yet shared a public dataset. Once you share a dataset, your organisation will become active and visible on the site. For details on how to upload a dataset, see
+“How do I add a dataset?”
+.
+Can an organisation have more than one administrator?
+Yes. Each administrator is able to manage datasets and membership. If a user requests membership, the request will be sent to all organisation administrators. The decision to accept or deny a membership request will be taken by whichever administrator acts first. The other administrators are not alerted to this action. We are planning to make this process more clear in future versions of the platform, so please bear with us!
+How do I create a branded organisation page on HDX?
+HDX offers custom organisation pages to all organisations on the site. The page includes the organisation’s logo and colour palette, topline figures, space for a data visualization and the list of datasets. If you would like a custom page, send a request to
+hdx@un.org
+.
+How do I use the Group Message feature?
+‘Group message’ lets members of an organisation send messages to all other members of their organisation. Please find more details
+here
+.
+I changed my job – what happens to my account?
+You can keep your account. On the organisation page that you’re a part of, click the link to ‘Leave this organisation’. If you want to change the email address associated with your account, click on your username on the upper-right corner of any HDX page and then select ‘User Settings’. From there, you can update your profile.
+Where can I see how popular an organisation’s datasets are?
+On an organisation’s page, click on the ‘Stats’ tab to see how many visitors an organisation has received and which datasets are most popular in terms of downloads. Here’s an
+example
+. The number of unique visitors is approximate and is based on the browser someone uses when visiting HDX. A user visiting from different browsers or from different devices will be counted separately.
+You can also see a timeline of how often an individual dataset has been downloaded on each dataset page. The download timeline is located on the left side of a dataset page, just beside the dataset description. Downloads for a dataset are counted as the total number of downloads of any resource in a dataset, with repeated downloads of the same resource by the same user being counted a maximum of once per day.
+There is a delay, usually less than one day, between when a user views a page or downloads a resource on HDX and when the activity is visible in these graphs and figures.
+Sharing and Using Data
+How do I share data on HDX?
+Data on HDX is shared through organisations. You need to be a member of an organisation (with appropriate privileges) before you can contribute data. If you have data to share, you can either request to create a new organisation or ask to join an existing one. (See the
+Organisations section
+above.)
+There are three ways to share data on HDX:
+Public
+– Data shared publicly is accessible to all users of the HDX platform, whether or not they are registered. All public data must be shared under an appropriate license. Select the ‘public’ setting in the metadata field when uploading data.
+Private
+– Organisations can share data privately with their members. The administrator of each organisation controls who can become a member. The default visibility is set to ‘private’ when uploading new data. Once shared, private datasets are only listed on your organisation page (make sure you are logged in to see them). They will not be included in search results or the
+data list
+page.To make data accessible to HDX users, the contributing organisation needs to change the visibility to public.
+By Request
+– Organisations can share the metadata of a dataset and grant access to the underlying data when requested by a registered user. See how to share and request metadata only datasets through
+these slides.
+Sensitive data should always be shared via a secure channel, such as encrypted email or an encrypted file transfer service. Share the password to decrypt data separately via a different secure channel. You may want to establish a data sharing agreement before sharing sensitive data.
+For more on responsible approaches to data sharing read this
+guidance note
+.
+Learn more about how HDX handles
+sensitive data below
+.
+Learn more about HDX Connect here:
+What is the difference between a dataset and a resource?
+A dataset is a collection of related data resources. A resource is an individual file within a dataset. When sharing data, you first create a dataset and then you can add one or more resources to it. A resource can either be a file uploaded to HDX (such as a CSV or XLS file) or a link to another website with a downloadable file. A resource, such as a readme file, could also contain documentation that helps users to understand the dataset.
+Can I just share metadata?
+Let others know your data is available by publishing your metadata without uploading any file(s) via HDX Connect. Once users request access, you decide what to share.
+This is a good option if:
+You are in the process of collecting data but you are not finished.
+Your data contains personally identifiable information.
+You need to restrict access to your data.
+Sensitive data should always be shared via a secure channel, such as encrypted email or an encrypted file transfer service. Share the password to decrypt data separately via a different secure channel. You may want to establish a data sharing agreement before sharing sensitive data.
+For more on responsible approaches to data sharing read this
+guidance note
+.
+Learn more about HDX Connect through the walkthrough slides below.
+Read this blog
+to understand the research and rationale behind HDX Connect.
+How can I add links and formatting to my dataset page?
+There are 4 metadata fields that accept
+markdown
+which provides some simple formatting commands.
+The “description”, “methodology:other”, and “caveats/comments” fields, as well as the description field for each resource attached to the dataset, all accept markdown formatting. The most useful markdown commands are outlined here:
+Links can be entered like this:
+[the linked text](https://data.humdata.org)
+and will be rendered like this:
+the linked text
+Italics
+can be indicated by surrounding text with single asterisks, like this:
+*A bit of italics text*
+Bold
+can be indicated by surrounding text with double asterisks, like this:
+**A bit of bold text**
+Bulleted lists must start with and be followed by a blank line. Each item in the list starts with an asterisk and a space:
+* item 1
+* item 2
+* etc.
+Numbered lists must also start with and be followed by a blank line. Each item starts with the number 1, a period, and a space:
+1. First item
+1. Second item. Note that the lines always start with a one followed by a period and space.
+1. 3rd item
+1. etc.
+How do I edit a dataset?
+You can only edit a dataset if you are an administrator or editor of your organisation. If you have the appropriate role, on the dataset page you will find an ‘Edit’ button just below the dataset title on the right. This will allow you to edit the dataset metadata and the resources. These slides provide a walk-through of how to edit a dataset:
+How can I add data visualizations to my dataset?
+Organization admins and editors can add data visualizations to dataset pages to let users explore your data. The data visuals can be made using Tableau, Power BI or whatever software you prefer. The visuals will appear in the “Interactive Data” section at the top of the page.
+Learn how to do this by taking a quick look at these slides:
+What are the recommended data formats?
+We define data as information that common software can read and analyse. We encourage contributions in any common data format. HDX has built-in preview support for tabular data in CSV and Microsoft Excel (xls only) formats, and for geographic data in zipped shapefile, kml and geojson formats. If multiple formats are available, each can be added as a resource to the dataset, or if you only wish to add one format, then for tabular data, csv is preferable and for geographic data, zipped shapefile is preferred.
+A PDF file is not data. If you have a data visualization in PDF format, you can add it as a showcase item on the dataset page. If you wish to share documents, graphics, or other types of humanitarian information that are not related to the data you are sharing, please visit our companion sites
+ReliefWeb
+and
+HumanitarianResponse
+. A resource, such as a readme file, could also contain documentation that helps users to understand the dataset.
+What are the best practices for managing resources in a dataset?
+Resources can be either different formats of the same data (such as XLSX and CSV) or different releases of the same data (such as March, April, and May needs assessments). Always put the resource with the most-recent or most-important information first, because the HDX system will by default use the first resource to create visualisations such as Quick Charts or geographic preview (this default can be overridden in the dataset edit page).
+If you have data that is substantially different, like a different type of assessment or data about a different province, we recommend creating a separate dataset.
+What are the recommended best practices for naming datasets and resources?
+For datasets: the keywords in your dataset title are matched to the search terms users enter when looking for data in HDX. Avoid using abbreviations in the title that users may not be familiar with. Also avoid using words such as current, latest or previous when referring to the time period (e.g., latest 3W), as these terms become misleading as the dataset ages. The following is a good example of a dataset title: ‘Who is Doing What Where in Afghanistan in Dec 2016’.
+For resources: by default, the resource name is the name of the uploaded file. However, you can change this if needed to make it more clear to users.
+For zipped shapefiles: we recommend the filename be name_of_the_file.shp.zip. However, the system does not require this construction.
+Is there a limit on file size for the data that I upload?
+If your resource is simply a link to a file hosted elsewhere, there is no size limit. If you are uploading a file onto HDX, the file size is limited to 300MB. If you have larger files that you want to share, email us at
+hdx@un.org
+.
+Can I share data hosted elsewhere?
+Yes. HDX can host the data for you, but it works equally well with a link to data hosted somewhere else on the web. For example, if your organisation already has a system or API that produces data for download, you can simply include a link to that data as a resource in your dataset, and the version on HDX will automatically stay up to date.
+Can I drag&drop files from my computer?
+Yes. HDX allows you to drag and drop files from your computer. First, you need to click on the ‘Add Data’ link and then select files from your computer. Drop the files in the designated area. A new dataset form will appear with some fields already pre-filled.
+How can I share data from my Google Drive?
+First you need to be sure that the Google Drive file or files are publicly visible or accessible to anyone who has the link. For instructions on how to change, follow the walkthrough slides below.
+You can click on ‘Add Data’ and choose the option to import files from ‘Google Drive’. A ‘Google Drive’ pop-up will show and help you choose the file/files from your account. The files will not be copied into HDX. Instead, the HDX ‘Download’ button will always direct users to the live version of the Google document.
+The HDX Resource Picker for Google Drive will only have access to your list of Google Drive files when you are choosing Google Drive resources through the HDX interface. You can revoke this permission at any time in
+Google Drive’s App Manager
+. However, this will not change the visibility of the Google Drive resources already created on HDX.
+How do I share a live Google Sheet?
+To include a link to a Google Sheet, you must first set the sheet’s sharing permissions so that it is either publicly visible or at least accessible to anyone who has the link. We recommend creating at least two separate resources for each Google Sheet: 1) a link to the sheet itself in the regular Google Drive interface; and 2) a direct-download link to an Excel or CSV version of the sheet, so that users can preview it in HDX. The version in HDX will update automatically as you make changes to the original Google Sheet.
+To obtain the direct download link, select “Publish to the web…” from the “File” menu in Google Sheets, then in the dialog box that opens, under the ‘Link’ tab select your preferred file format (such as Excel or CSV), confirm, and Google Sheets will provide you the link. (Note that this process is not necessary simply for working with HXL-aware tools like Quick Charts, because they can open data directly from the regular Google Sheets link.)
+How do I share a live spreadsheet from Dropbox?
+HDX can live-link to and preview files stored in any Dropbox folder and even preview them if they are in CSV or XLS format. You must login to Dropbox via the web application and navigate to the folder containing the spreadsheet (or other file) that you want to share. Select the file and choose ‘Share link’, following the
+instructions in the Dropbox help centre
+. You will then receive a special link that allows anyone to download the file.
+Add that link as a resource to your HDX dataset. When you receive a Dropbox link, it normally looks something like this:
+https://www.dropbox.com/etc/etc/your_file_name.csv?dl=0
+For HDX to be able to process and preview your file, you’ll need to change the last ‘0’ to a ‘1’ so that it looks like this:
+https://www.dropbox.com/etc/etc/your_file_name.csv?dl=1
+The HDX resource will automatically track any changes you save to the Dropbox file on your own computer. Be careful not to move or rename the file after you share it.
+If the dataset date on HDX did not change automatically after updating my remote resource, how do I change it to the correct date?
+The data that users download from HDX will always reflect updates made to the remote resource (such as a file on Dropbox or Google Drive). However, the metadata and activity stream will not automatically indicate the updated date of the data. This has to be done manually in HDX by the dataset owner. We are working to improve this functionality, so please bear with us!
+What is Data Series?
+A data series is a collection of data that has a shared theme usually provided by a single organisation. Datasets that belong to a data series have a link to view the other datasets within the series.
+If you see a mistake with a data series please contact
+hdx@un.org
+.
+How can I add graphs and key figures to my dataset?
+If your data uses the
+HXL standard
+, then HDX can automatically create customizable graphs and key figures to help you highlight the most important aspects of your dataset. We call these ‘Quick Charts’. For a Quick Chart to be generated, your dataset needs to be public and contain a CSV or XLSX resource with HXL tags. HXL is easy! Check out the
+30-second tutorial
+.
+The resource can be stored on HDX or as a remote resource at another URL. Quick Charts will be generated from the first resource with HXL tags in the list of a dataset’s resources. The system will try to generate up to three charts based on the HXL tags, and these can be changed to best tell the story in your data. You can edit each Quick Chart’s title, axis labels, and description. Don’t forget to save the changes so they become the default view that users see when viewing your dataset. Here’s a good
+example
+to get you started.
+Learn more about HXL and HDX Tools in the section below.
+How do I add a dataset?
+Click on the ‘Add Data’ button from any page on HDX. You will be required to login and associate yourself with an organisation. The slides below provide a walkthrough of how to add a dataset. General information about all the metadata options in HDX is available in our
+Guide to Metadata
+.
+Watch our step-by-step video guide to
+Adding Data on HDX
+.
+Data Grids
+What are the HDX Data Grids?
+In 2019, HDX added a new feature called the Data Grids to help our users find the most critical and useful data. The Data Grids are a collection of core datasets in countries with a Humanitarian Response Plan (HRP). They provide a comparable way to assess data availability across locations and categories. Here is a link to the
+Data Grid overview
+.
+What core data is found in the Data Grids?
+Based on extensive user research, the Data Grids place the most important crisis data into six categories: affected people; coordination and context; food security, nutrition and poverty; geography and infrastructure; health and education; and climate. Within each category, there are various sub-categories. For example, within the affected people category, there are sub-categories for internally displaced people, refugees, and returnees, among others.
+What countries are covered in the Data Grids?
+We established a Data Grid for countries with a HRP. The number of countries on the Data Grid vary from year to year and the latest coverage can be found on the
+Data Grid overview
+page.
+What is Data Grid availability?
+Data Grid availability refers to the proportion of sub-categories marked as available. At the end of 2024, the availability of all Data Grids combined was 91 percent. That is, 91 percent of relevant, comprehensive data was available across 22 locations. Out of this 91 percent, 17 were still relevant but not up-to-date.  This leaves 9 percent of sub-categories for which data is unavailable.
+What is the data criteria for the Data Grids?
+A dataset that satisfies the sub-category definition is considered as relevant for that sub-category. There are three main criteria for whether relevant data is included in the Data Grids: 1) disaggregated beyond the national level; 2) commonly-used formats; and 3) be up-to-date.
+When a dataset meets all the criteria, it is marked as “available”. If the dataset meets most criteria, but is not up-to-date, then it will be marked as “not up-to-date”.  If no dataset meeting the criteria for a subcategory is available on HDX, the sub-category is marked as “unavailable”.
+The small square to the left of the dataset name indicates if the dataset is available (dark blue) or not-up-to-date (light blue), depending on how it meets the criteria for the Data Grids. In the latter case, hovering on a dataset name displays some comments about the limitations of the dataset. Learn more in our
+blog post
+about it.
+A sub-category can be considered “not applicable” if the sub-category relates to data that is not relevant  in the country .
+What are the Data Grid category definitions?
+Affected People
+: Data about the people affected by a crisis.
+Coordination & Context
+: Core data relating to the coordination of humanitarian activities in a country or crisis and an understanding of the context in which humanitarian activities are taking place.
+Food Security, Nutrition & Poverty:
+Data about a population’s access to food, key nutrition indicators and poverty rates.
+Geography & Infrastructure:
+Data describing the administrative divisions as well as populated places and key physical geography and infrastructure.
+Health & Education:
+Data describing health and education facilities.
+Climate
+:
+Current and historical data about climate hazards and impact.
+HDX Signals
+What is HDX Signals?
+HDX Signals monitors key datasets and generates automated emails when significant, negative changes are detected.
+Use HDX Signals to stay up-to-date on critical changes in your datasets and regions of interest. Emails include automated data visualizations, AI summarizations and source links to help you understand the current situation.
+Learn more and sign up
+here
+. For more information, please contact us at
+hdx-signals@un.org
+.
+Geodata
+How can I generate a map with my geographic data?
+The HDX system will attempt to create a map, or geographic preview, from geodata formats that it recognizes. For a geographic preview to be generated, your data needs to be in either a zipped shapefile, kml or geojson format. Ensure that the ‘File type’ field for the resource also has one of the above formats. Pro tip: HDX will automatically add the correct format if the file extension is ‘.shp’, ‘.zip’, ‘.kml’, or ‘.geojson’. Here are examples of geodata
+points
+,
+lines
+, and
+polygons
+showing the preview feature.
+The preview feature will continue to work when there are multiple geodata resources in a single dataset (i.e., one HDX dataset with many resources attached). The layers icon in the top-right corner of the map enables users to switch between geodata layers. Here is an
+example
+.
+Why is the geodata preview only working for one layer in my resource?
+To generate a map preview, a dataset can have multiple resources but each resource can only include one layer within it. Resources with multiple layers (e.g., multiple shapefiles in a single zip file) are not supported. In this case, the system will only create a preview of the first layer in the resource, however all the layers will still be available in the downloaded file. If you would like all of the layers to display, you need to create a separate resource for each layer.
+Search
+How does search work on HDX?
+Searching for datasets on HDX is done in two ways: by searching for terms that you type into the search bar found at the top of almost every page on HDX, and by filtering a list of search results.
+Entering a search term causes HDX to look for matching terms in the titles, descriptions, locations and tags of a dataset. The resulting list of items can be further refined using the filter options on the left side of the search result. You can filter by location, tag, organisation, license and format as well as filtering for some special classes of datasets (like
+datasets with HXL tags
+or
+datasets with Quick Charts
+) in the ‘featured’ filters.
+Watch our step-by-step video guide on how to
+Search and Find Data on HDX
+.
+How do I find the Common Operational Datasets in HDX?
+In 2015, HDX migrated the Common Operational Datasets (CODs) from the COD Registry on HumanitarianResponse.info to HDX. Each of these datasets has a ‘cod’ tag. To limit search results to only CODs, use the ‘CODs’ filter in the filter panel on the left side of the dataset list. You can also find all CODs datasets
+here
+.
+How do I find a set of high quality datasets for a specific country? (How do I use the Data Grid?)
+HDX includes data for over 250 countries and territories. You can search by location at the top of almost every page on HDX. For core datasets on countries with a humanitarian response plan, learn more in our
+Data Grids section.
+I shared a private dataset but cannot find it.
+Private datasets are only listed on your organisation page and will not be included in search results or the
+data list
+page. Please make sure you are logged in to see them.
+Metadata and Data Quality
+What metadata do I need to include when sharing data?
+All data on HDX must include a minimum set of metadata fields. You can read our
+Guide to Metadata
+to learn more. We encourage data contributors to include as much metadata as possible to make their data easier to understand and use for analysis.
+What should I put for update frequency?
+This metadata field indicates how often you expect to be able to update your data on HDX. The frequency of update should take into consideration the time needed not only to collect but also to transform, clean, aggregate, and finally upload the data onto HDX.
+It includes options such as Every day and Every year as well as the following:
+Live – for datasets where updates are continuous and ongoing
+As needed – for datasets with an unpredictable, widely varying update frequency
+Never – for datasets with data that will never be changed
+We recommend you choose the nearest greatest frequent regular value instead of As needed or Never.
+When your dataset is updated as per its frequency, the system will automatically display a symbol (a green leaf) showing it is up to date. The designated maintainer of a dataset will receive an email reminding them to update the data based on that set frequency.
+What does the up-to-date or green leaf symbol 🌱 mean?
+The up-to-date (or green leaf 🌱) symbol indicates that a dataset is up-to-date – that there has been an update to the data contained in the dataset (not the dataset metadata) within the update frequency stated.
+The calculation to determine if a dataset is up-to-date has been updated as of April 2025. It is as follows: End date + Frequency = cut-off date when data becomes out-of-date.
+Example: a dataset contains data from 01 January 2025 until 31 March 2025 and has an update frequency of every 3 months, it will appear as up-to-date (green leaf 🌱) until the 30 June 2025.
+Does HDX make any changes to my dataset?
+No. HDX will never make changes to the data that has been shared. We do add tags (see the full list of
+approved tags
+), or make changes to dataset titles to help make your data more discoverable by HDX users. We may also add a data visualization for the data in the dataset showcase. A list of changes appears in the activity stream on the left-hand column of the dataset page.
+What tags can I use when sharing data?
+We encourage data contributors to choose appropriate tags in metadata to help HDX users discover your data. See a full list of
+approved tags
+. If you don’t see a tag you are looking for, send us a request at
+hdx@un.org
+What does it mean for a dataset to be ‘under review’?
+The HDX team manually reviews every dataset uploaded to the platform as part of a standard quality assurance (QA) process. This process exists to ensure compliance with the
+HDX Terms of Service
+, which prohibit the sharing of personal data. It also serves as a means to check different quality criteria, including the completeness of metadata, the relevance of the data to humanitarian action, and the integrity of the data file(s).
+If an issue is found, the resource(s) requiring additional review will be temporarily unavailable for download and marked as ‘under review’ in the dataset page on the public HDX interface.
+How does HDX ensure data quality?
+Data quality is important to us, so we manually review every new dataset for relevance, timeliness, interpretability and comparability. We contact data contributors if we have any concerns or suggestions for improvement. You can learn more about our definition of the dimensions of data quality and our quality-assurance processes
+here
+.
+What is the P-Code detector? What does “P-Coded: Yes” mean?
+The P-Code detector is a script that automatically identifies whether a dataset contains
+P-Codes
+. Once you upload a dataset, HDX will automatically analyze the files it contains and indicate the presence of P-Codes.
+If a resource is labeled
+“P-Coded: Yes”
+, it means our system has detected P-Codes in the file. With this feature, HDX now lets you search and filter datasets based on whether they contain P-Codes.
+If your dataset does not yet include P-Codes or you want to ensure interoperability, you can access the global P-Code list here:
+Global P-Codes Dataset
+.
+As of April 2025, the P-Code detector is compatible with all data formats that can be interpreted as tabular (such as geojson, shapefile, geopackage, json) It is not compatible with non-tabular formats like PDF or GeoTIFF.
+If you have uploaded P-Coded data but the label doesn’t appear or believe there is an issue with the P-Code detector, please reach out to us:
+hdx@un.org
+.
+Resources for Developers
+HDX HAPI
+The HDX Humanitarian API (HAPI) is a way to access standardised indicators from multiple sources to automate workflows and visualisations. Our initial coverage aligns with the data included in the
+HDX Data Grids
+. HDX HAPI is designed for developers, researchers and anyone interested in accessing a centralised source of humanitarian data for analysis and decision-making. Please see our
+HDX HAPI
+page for more information.
+How do I access the HDX CKAN API and HDX HAPI?
+HDX offers two kinds of APIs to make the humanitarian data easy to access programmatically and use for analysis.
+Please see our
+Resources for Developers
+page for more information.
+Where can I read about coding with HDX?
+Please see our
+Resources for Developers
+page for more information.
+How do I download a dataset from HDX using the HDX Python API library?
+Please see the
+link
+for more information.
+How do I create a dataset with a file resource on HDX using the HDX Python API library?
+Please see the
+link
+for more information.
+HXL
+What is the Humanitarian Exchange Language?
+The Humanitarian Exchange Language (HXL) is a simple standard for messy data. It is based on spreadsheet formats such as CSV or Excel. The standard works by adding hashtags with semantic information in the row between the column header and data allow software to validate, clean, merge and analyse data more easily. To learn more about HXL and who’s currently using it, visit the
+HXL standard site
+.
+Why isn’t Quick Charts recognizing the HXL hashtags in my dataset?
+At this stage, Quick Charts are working with a limited number of HXL hashtags, but we are constantly expanding the list. The current set of JSON-encoded Quick Charts recipes is available on
+GitHub
+.
+What tools are available for HXLated data?
+A number of HXL-enabled support processes are available to help you do more with your data, more quickly. These include:
+Quick Charts
+– Automatically generate embeddable, live data charts, graphs and key figures from your spreadsheet.
+Example datasets with Quick Charts on HDX:
+Ukraine – Requirements and Funding Data  |
+Syrian Arab Republic – Data on Conflict Events
+HXL Tag Assist
+– See HXL hashtags in action and add them to your own spreadsheet.
+Validation
+–
+The
+HXL Proxy
+supports simple, spreadsheet-based
+validation schemas
+that you can use to automatically check for invalid data. You can access the validation service via the website or an API service, and you can bookmark validation results for your HDX dataset so that you can come back and check them whenever you update your data.
+Transformation
+– The
+HXL Proxy
+also provides a full set of tools for creating reusable, live data-transformation pipelines, which you can use to modify, extract, sort, filter, or add calculated fields.
+How can I add Quick Charts to my dataset?
+If your data uses HXL hashtags, then the Quick Charts tool can automatically create customizable graphs and key figures to help you highlight the most important aspects of your dataset. Quick Charts require the following:
+At least one resource in your dataset (stored on HDX or remotely) must have HXL hashtags.
+That dataset must have the HDX category tag ‘HXL’ (not to be confused with the actual HXL hashtags).
+Each resource can have its own Quick Charts, but only one set will appear on the dataset page. By default, it will be the first resource that has Quick Charts attached, but you can change that to select any HXLated resource when editing the dataset.
+For more details you can view these walkthrough slides:
+How can I add Quick Charts to my own web sites or blogs?
+Every Quick Chart on HDX includes a small link icon at the bottom, that will give you HTML markup to copy into a web page or blog to add the chart. The chart will be live, and will update whenever the source data updates.
+How can I choose the correct HXL hashtags?
+The
+HXL Postcard
+provides a quick summary of the most common HXL hashtags and attributes. You can find more in the full HXL standard, and can also create your own.
+The
+HXL Hashtag Chooser
+helps you choose hashtags and attributes interactively by answering questions about your data.
+The
+HXL Tag Assist tool
+will show you different HXL hashtags in datasets that organisations have already uploaded to HDX.
+The detailed list of HXL hashtags and attributes is available in the
+HXL hashtag dictionary
+. Finally, an up-to-date machine-readable version of the hashtag dictionary is
+available on HDX.
+How can I validate my HXLated data?
+The
+HXL Proxy
+supports simple, spreadsheet-based
+validation schemas
+that you can use to automatically check for invalid data. You can access the validation service via the website or an API service, and you can bookmark validation results for your HDX dataset so that you can come back and check them whenever you update your data.
+Sensitive Data
+How does HDX define sensitive data?
+For the purpose of sharing data through HDX, we have
+developed the following categories
+to communicate data sensitivity:
+Non-Sensitive – This includes datasets containing country statistics, roadmaps, weather data and other data with no foreseeable risk associated with sharing.
+Uncertain Sensitivity – For this data, sensitivity depends on a number of factors, including other datasets collected in the same context, what technology is or could be used to extract insights, and the local context from which the data is collected or which will be impacted by use of the data.
+Sensitive – This includes any dataset containing personal data of affected populations or aid workers. Datasets containing demographically identifiable information (DII) or community identifiable information (CII) that can put affected populations or aid workers at risk, are also considered sensitive data. Depending on context, satellite imagery can also fall into this third category of sensitivity.
+Can I share personal data through HDX?
+HDX does not allow personal data or personally identifiable information (PII) to be shared in public or private datasets. All data shared through the platform must be sufficiently aggregated or anonymized so as to prevent identification of people or harm to affected people and the humanitarian community. We do allow private datasets to include contact information of aid workers if they have provided consent to the sharing of their data within the organisation. Read more in our
+Terms of Service
+.
+How can I assess and manage the sensitivity of data before sharing on HDX?
+The
+OCHA Data Responsibility Guidelines
+(‘the Guidelines’) helps staff better assess and manage the sensitivity of the data they handle in different crisis contexts. We recommend that HDX users familiarize themselves with the Guidelines.
+Different data can have different levels of sensitivity depending on the context. For example, locations of medical facilities in conflict settings can expose patients and staff to risk of attacks, whereas the same facility location data would likely not be considered sensitive in a natural disaster setting.
+Recognizing this complexity, the Guidelines include an
+Information and Data Sensitivity Classification model
+to help colleagues assess and manage sensitivity in a standardized way.
+For microdata (survey and needs-assessment data), you can manage the sensitivity level by applying a Statistical Disclosure Control (SDC) process. There are several tools available online to do SDC – we use
+sdcMicro
+.
+The Centre has developed a
+Guidance Note on Statistical Disclosure Control
+that outlines the steps involved in the SDC process, potential applications for its use, case studies and key actions for humanitarian data practitioners to take when managing sensitive microdata.
+How does HDX assess the sensitivity of data?
+HDX endeavors not to allow publicly shared data that includes community identifiable information (CII) or demographically identifiable information (DII) that may put affected people at risk. However, this type of data is more challenging to identify within datasets during our quality assurance process without deeper analysis. In cases where we suspect that survey data may have a high risk of re-identification of affected people, we run an internal statistical disclosure control process using sdcMicro. Data is made private while we run this process. If the risk level is found to be too high for public sharing on HDX given the particular context to which the data relates, HDX will notify the data contributor to determine a course of action.
+Data Licenses
+What data licences does HDX offer?
+HDX promotes the use of licenses developed by the
+Creative Commons Foundation
+and the
+Open Data Foundation
+. The main difference between the two classes of licences is that the Creative Commons licences were developed for sharing creative works in general, while the Open Data Commons licences were developed more specifically for sharing databases. See the full list of licences
+here
+.
+Contact
+How do I contact the HDX team?
+For general enquiries or issues with the site, email
+hdx@un.org
+. You can also reach us on X at
+@humdata
+or on LinkedIn at
+bit.ly/humdatalinkedin
+. Sign up to receive our newsletter:
+bit.ly/humdatamailing
+By using this site you consent to the use of cookies. Cookies can be managed in your browser or device settings.
+Continue

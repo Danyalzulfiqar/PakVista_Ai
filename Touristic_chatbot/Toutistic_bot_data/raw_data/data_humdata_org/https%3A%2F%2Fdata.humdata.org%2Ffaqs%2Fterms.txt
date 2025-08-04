@@ -1,0 +1,127 @@
+Terms of Service | HDX
+You logged out of HDX
+Thank you for using HDX !
+HDX Terms of Service
+Search this page:
+No results
+Result
+/
+« Prev
+-
+Next »
+HDX Terms of Service
+The
+Humanitarian Data Exchange
+(HDX) is an open data platform managed by the
+United Nations Office for the Coordination of Humanitarian Affairs
+(OCHA) through its
+Centre for Humanitarian Data
+(the Centre).
+These Terms of Service (hereafter ‘Terms’ or ‘these Terms’) describe how HDX is managed and how the
+platform should be used. OCHA will update these Terms as needed, and will post notice of significant
+updates on HDX and through the HDX mailing list.
+HDX organizations and users are bound by these Terms. If you do not agree with the Terms, you should
+discontinue use of HDX. If you have any questions or comments about these Terms or HDX, please visit
+our
+Frequently Asked Questions
+or send an email to
+hdx@un.org
+Account Management
+1. User account. HDX is an open platform and anyone can use it without creating a user account. Signing up with HDX gives users access to additional features such as the ability to receive notifications about data; joining an organization as a member, editor or admin; and requesting access to data shared via HDX Connect, among other benefits.
+2. Organization account. Data can only be shared on HDX by approved organizations. Organizations can represent a formal legal entity such as a non-governmental organization, or an informal collective such as an information management working group. OCHA reviews requests to create an organization account to: (1) verify the identity of the requester and (2) determine whether the data that will be shared meets the requirements set out in the DATA SCOPE AND CRITERIA section below.
+3. You may ask OCHA to delete your user or organization account at any time. OCHA will delete all datasets shared by an organization before deleting the organization account. When a user or organization account is deleted, OCHA will delete any personal data we collected in order to create the account.
+4. OCHA routinely reviews organization accounts to verify that they are still active. Accounts that have been inactive for over a year will be marked as closed but not deleted. Closed accounts will not appear in the list of organizations on HDX. Closed accounts can be reactivated if the organization contacts OCHA with a request to contribute data. OCHA will always contact organization administrators to verify inactivity prior to closure.
+5. When an organization account with datasets on HDX is marked as closed, OCHA adds a bot as the organization administrator, demotes all administrators and editors to members and archives the data. The closed organization’s archived datasets can still be found through the search function and downloaded. OCHA will not delete the closed organization unless a member of the closed organization requests OCHA to do so following clause 3.
+Data Scope and Criteria
+6.
+There are three categories of humanitarian data which may be shared on HDX:
+a. Data about the context in which a humanitarian crisis is occurring (e.g., administrative boundaries, locations of schools, health facilities and other physical infrastructure, and baseline socio-economic indicators).
+b. Data about the people affected by the crisis and their needs (e.g., needs assessment data, movement data and locations of affected people).
+c. Data about the response by organizations seeking to help those who need assistance (e.g., who-is-doing-what-where, community perception surveys, and funding levels).
+7. All data shared publicly or privately on HDX must meet the following criteria:
+a. Datasets may not contain any personal data. Personal data is information, in any form, that relates to an identified or identifiable natural person. An exception is made for aid worker contact details, which may be shared within a private dataset if those aid workers have provided consent.
+b. Datasets may not contain any sensitive non-personal data. Sensitive non-personal data is data that, while not relating to an identified or identifiable natural person, may, by reason of its sensitive context, put certain individuals or groups of individuals at risk of harm.
+c. Data must have been collected in a fair and legitimate manner with a defined purpose and in line with principles of necessity and proportionality.
+d. Data must be shared in a supported data format. HDX supports
+all common data formats
+and offers built-in preview support for CSV, TXT, XLS, and JSON formats. Map previews are possible from geographic data in zipped shapefile, KML and GeoJSON formats.
+8. Organizations should keep their data on HDX up-to-date in order to present the latest available information.
+Sharing Data
+9.
+There are three ways to share data on HDX:
+a. Public
+: Data is accessible to anyone who visits HDX, whether or not they are a registered user.
+b. Private
+: Data is accessible only to registered users who are members of the organization that uploaded the data on HDX.
+c. HDX Connect:
+The metadata of a dataset is available and the contributing organization can decide whether or not to share the dataset when requested by a registered user.
+10. Organizations must specify an appropriate license for all data they share publicly.
+Organizations are free to choose the license for their data. We have suggested some options
+here
+.
+11. Organizations may use HDX to share data from other sources if the applicable license allows for onward sharing.
+12. After downloading a public dataset, users must follow the applicable license when using and sharing the data.
+13. Organizations may use the HDX Connect feature to direct users to data hosted outside of HDX. In such cases, organizations should link directly to the specific dataset described on HDX and not to a more general landing page of an external platform.
+14. When an organization grants access to data requested via HDX Connect, the data does not pass through the HDX infrastructure.
+Data Review
+15.
+In order to ensure data quality and to prevent any sensitive data from being exposed through HDX, OCHA reviews all datasets that are shared publicly on the platform. This manual review is based on a
+quality assurance checklist
+, which includes the completeness of metadata, the relevance of the data to humanitarian action, the integrity of the data resources, and the absence of any sensitive data, among other criteria.
+OCHA reserves the right to conduct a manual review of datasets shared privately on HDX to verify the private datasets comply with these Terms.
+16. If the review under 15 shows that a resource contains microdata, personal data, or non-personal sensitive data, the resource is placed ‘under review’. While a resource is  ‘under review’, users are only able to view the dataset page including metadata provided by the contributor, and are not able to download the resource. If a resource has been ‘under review’ for more than one month with no response from the contributor, OCHA will make the resource private. After another month with no response, OCHA will delete the resource.
+17. For microdata such as household survey results, OCHA runs a disclosure risk assessment to assess the risk of reidentification of individuals. All resources labeled as ‘microdata’ by the contributing organization at the point of upload are automatically placed ‘under review’. The resource will remain ‘under review’ until OCHA determines that the resource can be shared responsibly, either publicly, privately with users that are members of the contributing organization, or on request via HDX Connect. More information about this process is available
+here
+.
+18. If a user notices personal or sensitive data shared through the HDX platform they should contact
+hdx@un.org
+immediately.
+Data Management
+19. HDX is built using
+CKAN
+, an open-source data management system.
+20. Data that is uploaded to HDX is stored by OCHA on servers provided by Amazon Web Services. Data is encrypted in transit and at rest. The servers are located in Virginia, the United States of America.
+21. All data uploaded to HDX in csv, xls or xlsx format is sent via Google’s DLP API for automated scanning for sensitive data using the DLP algorithm. Data is encrypted in transit and scanned through DLP’s
+content method
+. Data is not retained by Google in this process.
+22. OCHA will never alter the values within resources shared through HDX without prior permission from the contributing organization. OCHA may make minor edits to correct errors in dataset descriptions and metadata. The activity stream of the dataset will show a notification if OCHA makes such edits.
+23. Data shared privately through the HDX platform will never be shared further by OCHA without prior permission from the contributing organization.
+24. OCHA will notify the contributing organization if we become aware of unauthorized access to private data. After notification OCHA will manage the incident in line with internal data incident management procedure.
+25. OCHA will place data ‘under review’ if it is found to violate these Terms and will contact the contributing organization to discuss next steps.
+26. OCHA may archive data that is more than five years old and is not updated or downloaded regularly. Contributors are notified if any of their data is archived. OCHA can restore archived data in the dataset list at the request of the contributing organization. Archived data is retained on OCHA’s infrastructure indefinitely.
+27. Deleted data cannot be retrieved by users or organizations. Metadata continues to exist in backups of the HDX database indefinitely. Deleted data is purged from backups after 60 days. Deleted data marked as sensitive is purged immediately upon deletion.
+Generic Disclaimer of Liability
+28. Organizations are responsible for the data they share on HDX. OCHA assumes no liability whatsoever for data shared on HDX. While OCHA upholds a high standard for the quality and timeliness of the data shared on HDX, we cannot verify data accuracy. Sharing data through HDX does not imply the transfer of any rights over this data to OCHA. OCHA disclaims all warranties, whether express or implied.
+29. Data and information on HDX do not imply the expression or endorsement of any opinion on the part of OCHA or the United Nations. This includes opinions concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries.
+Privacy Notice
+30. User contact details are only shared with the administrator of an HDX organization if the user requests access to data via HDX Connect.
+31. OCHA upholds the highest standard of data protection for the personal data of HDX users and organization administrators. In case such personal data is exposed, OCHA will notify all affected individuals and manage the incident in line with internal data incident management procedures.
+32. OCHA uses JIRA, a third-party service managed by Atlassian, to help automate workflows related to the administration of HDX, including organization management and quality assurance of datasets. OCHA transfers system-generated CKAN userID’s of HDX users who maintain a dataset on HDX to JIRA as part of our quality assurance process. The CKAN userID’s are retained on JIRA for five years to allow OCHA to follow up with dataset maintainers. After five years OCHA deletes the CKAN userID’s from JIRA. The data stored on JIRA is governed by the
+Atlassian Privacy Policy
+.
+33. OCHA uses MailChimp, a third-party marketing automation and email marketing platform managed by Intuit Inc., for outreach to registered HDX users and organization administrators. OCHA shares the email addresses and full names of registered HDX users with MailChimp in order to personalize messages. Review the
+Intuit Inc. Global Privacy Statement
+for information on the processing of personal data by Intuit Inc.
+34. OCHA continually seeks to understand the behavior of users on the HDX platform in order to make improvements. To do so, OCHA uses third-party analytics services, including Google Analytics, Mixpanel and Hotjar. These services use cookies stored on users’ devices to send encrypted information to Google Analytics, Mixpanel and Hotjar about how users arrived at HDX, what pages they visited on HDX, and their actions within those pages. Similar tracking is performed when users access HDX via our API or when directly downloading files from a shared link. OCHA does not send identifying information (including names, usernames, or email addresses) to Google Analytics, Mixpanel or Hotjar. Use and retention of the data collected from the HDX platform is governed by these services’ respective Terms of Use.
+35. If you would like to disable the tracking described above under clause 34,
+you can install the
+Google Analytics Opt-out Browser Add-on
+to disable Google Analytics tracking. Mixpanel and Hotjar respect
+“Do Not Track”
+settings in web browsers. Follow the instructions in
+this guide
+to prevent your browser from sending data to Mixpanel and Hotjar.
+36. Emails sent by OCHA to registered HDX users may contain
+web beacons
+, which allow OCHA to track information about how many people have viewed its email campaigns. OCHA will never share personal data from this tracking with third parties other than with MailChimp, our mailing list provider, which has access by default. The data collected by this tracking system will be retained indefinitely in order to understand how readership of the emails is changing over time.
+Applicable Guidance and Policy
+37.
+OCHA is mandated by
+United Nations General Assembly Resolution 46/182
+and guided by the
+Humanitarian Principles
+. OCHA is governed by the applicable guidance and policies established by the United Nations General Assembly and the United Nations Secretariat. Notably, personal data is processed according to the
+Data Protection and Privacy Policy for the Secretariat of the United Nations
+.
+By using this site you consent to the use of cookies. Cookies can be managed in your browser or device settings.
+Continue

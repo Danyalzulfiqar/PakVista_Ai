@@ -1,0 +1,613 @@
+Pakistan Humanitarian Data | Crisis Response Datasets | HDX
+You logged out of HDX
+Thank you for using HDX !
+{"geometry": {"type": "MultiPolygon", "coordinates": [[[[75.32261, 32.32444], [74.48873, 31.72159], [74.6328, 31.46211], [74.30748, 30.84888], [73.87041, 30.38741], [73.9334, 30.136], [73.39749, 29.94277], [72.95026, 29.04], [72.38971, 28.785], [71.89694, 27.96194], [70.74248, 27.72805], [70.48067, 28.04555], [69.58353, 27.17798], [69.51131, 26.74875], [70.18727, 26.52388], [70.12289, 25.91069], [70.65991, 25.70326], [70.67769, 25.40312], [71.07742, 24.68046], [70.02026, 24.17069], [68.7447, 24.29528], [68.74721, 23.96999], [68.1978, 23.76669], [67.50228, 23.89191], [67.1511, 24.61305], [66.65138, 24.82854], [66.73929, 25.16666], [66.27793, 25.44197], [64.60123, 25.25208], [63.74513, 25.38541], [63.42916, 25.215], [62.47916, 25.24652], [61.84485, 25.03736], [61.61103, 25.19765], [61.87097, 26.24402], [62.77027, 26.64875], [63.18513, 26.63916], [63.20193, 27.26764], [62.83971, 27.47444], [62.75916, 27.99527], [62.39985, 28.41944], [61.65138, 28.78527], [61.31444, 29.39583], [60.8663, 29.86366], [62.48444, 29.40611], [64.3797, 29.55361], [65.03415, 29.54111], [66.25665, 29.85194], [66.40026, 30.94347], [66.88081, 31.2925], [67.38472, 31.21527], [68.16363, 31.82934], [68.82777, 31.60583], [69.32825, 31.94036], [69.2479, 32.4411], [69.55998, 33.07964], [70.2279, 33.2511], [69.99992, 34.05195], [70.48179, 33.9436], [71.08117, 34.05617], [71.09193, 34.66853], [71.4938, 34.9577], [71.64832, 35.42818], [71.18971, 36.05211], [72.5786, 36.82543], [73.82478, 36.89698], [73.37488, 36.74886], [72.55276, 36.23132], [72.51389, 35.91054], [73.10637, 35.85333], [73.78026, 35.52246], [74.08954, 35.02407], [73.40082, 34.40471], [73.5836, 33.89441], [73.62831, 33.09471], [74.53166, 32.75027], [74.73832, 32.46652], [75.32261, 32.32444]]]]}, "type": "Feature", "properties": {"url": "/group/pak", "name": "Pakistan"}, "id": "PAK"}
+Pakistan
+226 Datasets
+143 Followers
+52 Organisations
+AI and Data for Good at Meta
+ALHASAN Systems Private Limited
+Armed Conflict Location & Event Data Project (ACLED)
+CLEAR Global (previously Translators without Borders)
+Centre for Research on the Epidemiology of Disasters
+Copernicus
+Crosscut
+EWIPA Community (inactive)
+Food and Agriculture Organization (FAO) of the United Nations
+Global Education Cluster
+Global Healthsites Mapping Project
+HDX
+HDX Humanitarian API Data
+Health Cluster
+HeiGIT (Heidelberg Institute for Geoinformation Technology)
+Humanitarian OpenStreetMap Team (HOT)
+Insecurity Insight
+Integrated Food Security Phase Classification (IPC)
+InterAction (inactive)
+Internal Displacement Monitoring Centre (IDMC)
+International Aid Transparency Initiative
+International Federation of Red Cross and Red Crescent Societies (IFRC)
+International Organization for Migration (IOM)
+Johns Hopkins University Center for Systems Science and Engineering
+Joint Research Centre of the European Commission
+Kontur
+OCHA Field Information Services Section (FISS)
+OCHA Financial Tracking System (FTS)
+OCHA HQ
+OCHA Humanitarian Programme Cycle Tools (HPC Tools)
+OCHA Pakistan
+OurAirports
+Oxford Poverty & Human Development Initiative
+ReliefWeb
+The DHS Program
+U.S. Census Bureau
+UNDP Human Development Reports Office (HDRO)
+UNESCO
+UNHCR - The UN Refugee Agency
+UNICEF Data and Analytics (HQ)
+United Nations Development Coordination Office (inactive)
+United Nations Human Settlements Programmes, Data and Analytics Section
+United Nations Office for Disaster Risk Reduction (UNDRR)
+United Nations Satellite Centre (UNOSAT)
+Violence & Impacts Early-Warning System
+WFP - World Food Programme
+Who's On First
+World Bank Group
+World Health Organization
+WorldPop
+geoBoundaries
+what3words (inactive)
+Key Figures
+Population, total
+247.5
+mln
+World Bank
+Data
+-
+Jan 01, 2023
+Population density
+316.1
+World Bank
+Data
+-
+Jan 01, 2022
+GDP per capita, PPP (current international $)
+6
+k
+World Bank
+Data
+-
+Jan 01, 2023
+Land area
+770.9
+k
+World Bank
+Data
+-
+Jan 01, 2022
+Population, total
+247.5
+mln
+World Bank
+Data
+-
+Jan 01, 2023
+Population density
+316.1
+World Bank
+Data
+-
+Jan 01, 2022
+GDP per capita, PPP (current international $)
+6
+k
+World Bank
+Data
+-
+Jan 01, 2023
+Land area
+770.9
+k
+World Bank
+Data
+-
+Jan 01, 2022
+158
+Pakistan: Response Plan projects
+OCHA Humanitarian Programme Cycle Tools (HPC Tools)
+100+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2021-December 31, 2025
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+28 April 2020
+Less
+This dataset updates: Every week
+This dataset is part of the data series
+[?]
+:
+OCHA FTS - Humanitarian Response Plan Projects
+Projects proposed, in progress, or completed as part of the annual Pakistan Humanitarian Response Plans (HRPs) or other Humanitarian Programme Cycle plans. The original data is available on
+https://hpc.tools
+Important: some projects in Pakistan might be missing, and others might not apply specifically to Pakistan. See Caveats under the Additional information tab.
+CSV
+JSON
+EM-DAT - Country Profiles, Pakistan
+Centre for Research on the Epidemiology of Disasters
+10+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2000-July 21, 2025
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+17 June 2025
+Less
+This dataset updates: As needed
+This dataset is part of the data series
+[?]
+:
+EM-DAT - Natural Hazard-related Events - Country Profiles
+Aggregated figures for natural hazard related events in EM-DAT: Pakistan
+Documentation on the Country Profiles available here
+How to cite the EM-DAT Project here
+Main dataset on HDX: EM-DAT - Country Profiles
+More on the EM-DAT database :  website / data portal
+Each line corresponds to a given combination of year, country, disaster subtype and reports figures for :
+number of disasters
+total number of people affected
+total number of deaths
+economic losses (original value and adjusted)
+XLSX
+Pakistan: NDVI at Subnational Level
+WFP - World Food Programme
+300+ Downloads
+Time Period of the Dataset [?]:
+July 01, 2002-June 30, 2025
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+13 July 2023
+Less
+This dataset updates: Every two weeks
+This dataset is part of the data series
+[?]
+:
+WFP - NDVI at Subnational Level
+This dataset contains dekadal NDVI indicators computed from NASA's Moderate Resolution Imaging Spectroradiometer (MODIS) collection 6.1 from the Aqua and Terra satellite aggregated by sub-national administrative units.
+Included indicators are (for each dekad):
+10 day NDVI (vim)
+NDVI long term average (vim_lta)
+10 day NDVI anomaly [%] (viq)
+The administrative units used for aggregation are based on WFP data and contain a Pcode reference attributed to each unit. The number of input pixels used to create the aggregates, is provided in the n_pixelscolumn.
+CSV
+HDX HAPI - Geography & Infrastructure: Baseline Population
+HDX Humanitarian API Data
+1100+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2001-December 31, 2025
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+24 October 2024
+Less
+This dataset updates: Every year
+This dataset contains data obtained from the
+HDX Humanitarian API (HDX HAPI),
+which provides standardized humanitarian indicators designed
+for seamless interoperability from multiple sources.
+The data facilitates automated workflows and visualizations
+to support humanitarian decision making.
+For more information, please see the HDX HAPI
+landing page
+and
+documentation.
+Warnings typically indicate corrections have been made to
+the data or show things to look out for. Rows with only warnings
+are considered complete, and are made available via the API.
+Errors usually mean that the data is incomplete or unusable.
+Rows with any errors are not present in the API but are included
+here for transparency.
+CSV
+OCHA Global Subnational Population Statistics
+HDX
+COD
+2500+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2001-December 31, 2025
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+7 November 2024
+Less
+This dataset updates: Every year
+This dataset is part of the data series
+[?]
+:
+COD - Subnational Population Statistics
+Latest COD population statistics compiled at the admin level. The CSV files contain subnational p-codes, their corresponding administrative names, source organization, and reference dates where available. These are constructed from individual country level population files, which can be found using this search on HDX.
+CSV
+Pakistan: Rainfall Indicators at Subnational Level
+WFP - World Food Programme
+500+ Downloads
+Time Period of the Dataset [?]:
+January 01, 1981-July 20, 2025
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+13 July 2023
+Less
+This dataset updates: Every two weeks
+This dataset is part of the data series
+[?]
+:
+WFP - Rainfall Indicators at Subnational Level
+This dataset contains dekadal rainfall indicators, computed from Climate Hazards Group InfraRed Precipitation satellite imagery with insitu Station data (CHIRPS) version 2 and the CHIRPS-GEFS short term rainfall forecasts, aggregated by subnational administrative units.
+Included indicators are (for each dekad):
+10 day rainfall [mm] (rfh)
+rainfall 1-month rolling aggregation [mm] (r1h)
+rainfall 3-month rolling aggregation [mm] (r3h)
+rainfall long term average [mm] (rfh_avg)
+rainfall 1-month rolling aggregation long term average [mm] (r1h_avg)
+rainfall 3-month rolling aggregation long term average [mm] (r3h_avg)
+rainfall anomaly [%] (rfq)
+rainfall 1-month anomaly [%] (r1q)
+rainfall 3-month anomaly [%] (r3q)
+The administrative units used for aggregation are based on WFP data and contain a Pcode reference attributed to each unit. The number of input pixels used to create the aggregates, is provided in the n_pixels column. Finally, the type column indicates if the value is based on a forecast, a preliminary or a final product.
+Forecasts are issued on the 6th, 16th, and 26th of each month for the upcoming 10-day period (dekad), then updated with improved versions on the 1st, 11th, and 21st.
+Preliminary observations replace the previous dekad’s forecast on the 3rd, 13th, and 23rd, and are later replaced by final observations—published mid-month (13th or 23rd)—covering all three dekads of the prior month. Please find a summary below:
+Publication Day: Forecast type, Covers (Dekad)
+1st: Updated forecast, 1–10 of the same month
+6th: Initial forecast, 11–20 of the same month
+11th: Updated forecast, 1–10 of the same month
+16th: Initial forecast, 21–end of the same month
+21st: Updated forecast, 11–20 of the same month
+26th: Initial forecast, 1–10 of the following month
+For more on CHIRPS-GEFS forecasts, see:
+https://www.chc.ucsb.edu/data/chirps-gefs
+For further details, please see the methodology section.
+CSV
+Pakistan - Internal Displacements Updates (IDU) (event data)
+Internal Displacement Monitoring Centre (IDMC)
+100+ Downloads
+Time Period of the Dataset [?]:
+January 22, 2025-July 21, 2025
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+14 December 2023
+Less
+This dataset updates: Every day
+This dataset is part of the data series
+[?]
+:
+IDMC - Internal Displacement Updates
+Conflict and disaster population movement (flows) data for Pakistan.
+The IDU (Internal Displacement Updates) dataset, provided by the Internal Displacement Monitoring Centre (IDMC), offers timely event data and provisional information on new internal displacements caused by conflicts and disasters. Representing the most recent available information over a 180-day time period, the IDU is updated daily and focuses on "flows" (new displacements).
+Internally displaced persons (IDPs) are defined according to the 1998 Guiding Principles as people or groups of people who have been forced or obliged to flee or to leave their homes or places of habitual residence, in particular as a result of armed conflict, or to avoid the effects of armed conflict, situations of generalized violence, violations of human rights, or natural or human-made disasters and who have not crossed an international border. The IDMC's event data, sourced from the IDU, provides initial assessments of these internal displacements, reflecting continually updated provisional information from various sources.
+While the IDU offers early insights, the more thoroughly validated and curated "stock"  (Total number of people leaving on internal displacement) and "flow" (population movements) estimates are available in the annual Global Internal Displacement Database (GIDD). Both datasets are accessible via API, with specific guidance on data access, structure, and limitations, including important preprocessing considerations for the IDU to ensure accurate analysis and avoid double-counting. For further detailed information and complete API specifications, users are encouraged to consult the official documentation at
+https://www.internal-displacement.org/database/api-documentation/
+.
+The IDMC's Event data, sourced from the Internal Displacement Updates (IDU), offers initial assessments of internal displacements reported within the last 180 days. This dataset provides provisional information that is continually updated on a daily basis, reflecting the availability of data on new displacements arising from conflicts and disasters. The finalized, carefully curated, and validated estimates are then made accessible through the Global Internal Displacement Database (GIDD). The IDU dataset comprises preliminary estimates aggregated from various publishers or sources.
+CSV
+Pakistan - Internal Displacements (New Displacements) – IDPs
+Internal Displacement Monitoring Centre (IDMC)
+600+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2008-December 31, 2024
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+4 September 2017
+Less
+This dataset updates: Every year
+This dataset is part of the data series
+[?]
+:
+IDMC - Internally displaced persons
+The Global Internal Displacement Database (GIDD), maintained by the Internal Displacement Monitoring Centre (IDMC), provides comprehensive, validated annual estimates of internal displacement worldwide. It defines internally displaced persons (IDPs) in line with the 1998 Guiding Principles, as people or groups of people who have been forced or obliged to flee or to leave their homes or places of habitual residence, in particular as a result of armed conflict, or to avoid the effects of armed conflict, situations of generalized violence, violations of human rights, or natural or human-made disasters and who have not crossed an international border.
+The GIDD tracks two primary metrics: "People Displaced" or population "Stock" figures, which represent the total number of people living in displacement at year-end, and "New Displacement," which counts new displacement incidents (population Flows) rather than individual people, accounting for potential multiple displacements by the same person. This dataset serves as a crucial resource for understanding long-term trends and validated displacement figures globally. For further detailed information and complete API specifications, users are encouraged to consult the official documentation at
+https://www.internal-displacement.org/database/api-documentation/
+.
+"Internally displaced persons - IDPs" refers to the number of people living in displacement as of the end of each year.
+"Internal displacements (New Displacements)" refers to the number of new cases or incidents of displacement recorded, rather than the number of people displaced. This is done because people may have been displaced more than once.
+CSV
+Pakistan (PAK): Attacks on Aid Operations and Health Care
+Insecurity Insight
+500+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2016-July 05, 2025
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+16 April 2020
+Less
+This dataset updates: As needed
+These datasets contain information on reported incidents of violence and threats affecting aid operations and workers, and health care services in Pakistan. Also included are datasets cited in the Safeguarding Health in Conflict Coalition (SHCC)'s annual reports. Please get in touch if you are interested in curated datasets:
+info@insecurityinsight.org
+XLSX
+Multiple locations - Conflict, Hunger and Aid Security Data
+Insecurity Insight
+3800+ Downloads
+Time Period of the Dataset [?]:
+January 13, 2020-July 05, 2025
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+16 January 2023
+Less
+This dataset updates: As needed
+This page provides data on conflict events with clearly foreseeable impacts on or links to food security based on agency-and open source events.
+Please get in touch if you are interested in curated datasets:
+info@insecurityinsight.org
+XLSX
+Aid Worker KIKA (Killed, Injured, Kidnapped or Arrested) Data
+Insecurity Insight
+5500+ Downloads
+Time Period of the Dataset [?]:
+January 02, 2020-July 05, 2025
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+28 February 2018
+Less
+This dataset updates: As needed
+This dataset contains agency- and publicly-reported data for events in which an aid worker was killed, injured, kidnapped, or arrested (KIKA). Categorized by country.
+Please get in touch if you are interested in curated datasets:
+info@insecurityinsight.org
+XLSX
+Attacks on Health Care Monthly News Brief Data
+Insecurity Insight
+3000+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2016-June 26, 2025
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+17 October 2018
+Less
+This dataset updates: As needed
+This dataset contains agency- and open source events published in the Attacks on Health Care News Brief.  Categorized by country.
+Please get in touch if you are interested in curated datasets:
+info@insecurityinsight.org
+See here for data supporting the Safeguarding Health in Conflict Coalition (SHCC).
+XLSX
+Explosive Weapons Monitor Data by Insecurity Insight
+Insecurity Insight
+1400+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2020-July 05, 2025
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+15 June 2021
+Less
+This dataset updates: As needed
+This dataset contains agency- and open source events in which aid access, education and healthcare services were impacted by explosive weapons.  Categorized by country. Please get in touch if you are interested in curated datasets:
+info@insecurityinsight.org
+This data collection is funded and supported by the European Union. The opinions expressed in it do not reflect in any way the position of the EU who are not responsible for the content expressed in this document.
+Insecurity Insight collaborates with the International Network on Explosive Weapons (INEW) in producing research and analysis on the harm and use of explosive weapons for the Explosive Weapons Monitor by documenting their effects on health care, education, and aid access.
+XLSX
+Education in Danger Data
+Insecurity Insight
+7200+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2020-June 24, 2025
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+17 October 2018
+Less
+This dataset updates: As needed
+This dataset contains agency- and open source events published in the Education in Danger Monthly News Brief.  Categorized by country.
+Please get in touch if you are interested in curated datasets:
+info@insecurityinsight.org
+XLSX
+Conflict-Related Sexual Violence (CRSV) Data
+Insecurity Insight
+3000+ Downloads
+Time Period of the Dataset [?]:
+January 07, 2020-May 30, 2025
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+11 January 2022
+Less
+This dataset updates: As needed
+This dataset contains publicly-reported cases of sexual violence by conflict actors, security personnel, and sexual violence violence that targets aid workers, educators, health workers and IDPS/refugees.
+Please get in touch if you are interested in curated datasets:
+info@insecurityinsight.org
+XLSX
+Pakistan - Requirements and Funding Data
+OCHA Financial Tracking System (FTS)
+3500+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2000-July 21, 2025
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+21 July 2017
+Less
+This dataset updates: Every day
+This dataset is part of the data series
+[?]
+:
+OCHA FTS - Requirements and Funding Data
+FTS publishes data on humanitarian funding flows as reported by donors and recipient organizations. It presents all humanitarian funding to a country and funding that is specifically reported or that can be specifically mapped against funding requirements stated in humanitarian response plans. The data comes from OCHA's Financial Tracking Service, is encoded as utf-8 and the second row of the CSV contains HXL tags.
+CSV
+Pakistan - Subnational Demographic and Health Data
+The DHS Program
+2600+ Downloads
+Time Period of the Dataset [?]:
+January 01, 1991-December 31, 2017
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+27 January 2020
+Less
+This dataset updates: Every year
+This dataset is part of the data series
+[?]
+:
+The DHS Program - Subnational Health and Demographic Data
+Contains data from the DHS data portal. There is also a dataset containing Pakistan - National Demographic and Health Data on HDX.
+The DHS Program Application Programming Interface (API) provides software developers access to aggregated indicator data from The Demographic and Health Surveys (DHS) Program. The API can be used to create various applications to help analyze, visualize, explore and disseminate data on population, health, HIV, and nutrition from more than 90 countries.
+CSV
+Pakistan - National Demographic and Health Data
+The DHS Program
+3200+ Downloads
+Time Period of the Dataset [?]:
+January 01, 1991-December 31, 2017
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+8 August 2019
+Less
+This dataset updates: Every year
+This dataset is part of the data series
+[?]
+:
+The DHS Program - Subnational Health and Demographic Data
+Contains data from the DHS data portal. There is also a dataset containing Pakistan - Subnational Demographic and Health Data on HDX.
+The DHS Program Application Programming Interface (API) provides software developers access to aggregated indicator data from The Demographic and Health Surveys (DHS) Program. The API can be used to create various applications to help analyze, visualize, explore and disseminate data on population, health, HIV, and nutrition from more than 90 countries.
+CSV
+Pakistan - Food Security and Nutrition Indicators
+Food and Agriculture Organization (FAO) of the United Nations
+700+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2000-December 31, 2023
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+10 March 2019
+Less
+This dataset updates: Every year
+This dataset is part of the data series
+[?]
+:
+FAO - Food Security Indicators
+Food Security and Nutrition Indicators for Pakistan.
+Contains data from the FAOSTAT bulk data service.
+CSV
+Pakistan - Food Prices
+Food and Agriculture Organization (FAO) of the United Nations
+1100+ Downloads
+Time Period of the Dataset [?]:
+January 01, 1991-December 31, 2024
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+4 May 2020
+Less
+This dataset updates: Every year
+This dataset is part of the data series
+[?]
+:
+FAO - Food Prices
+Food Prices for Pakistan.
+Contains data from the FAOSTAT bulk data service covering the following categories: Consumer Price Indices, Deflators, Exchange rates, Producer Prices
+CSV
+WFP Global Market Monitor
+WFP - World Food Programme
+800+ Downloads
+Time Period of the Dataset [?]:
+May 19, 2021-July 01, 2025
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+5 June 2024
+Less
+This dataset updates: Every two weeks
+The WFP Global Market Monitor monitors food prices in markets across a range of countries globally. The resources are updated every other week, with country data updating based on when data is received from country offices.
+CSV
+Anomaly Hotspots of Agricultural Production
+Joint Research Centre of the European Commission
+600+ Downloads
+Time Period of the Dataset [?]:
+October 01, 2016-June 11, 2025
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+3 April 2024
+Less
+This dataset updates: Every month
+ASAP is an online decision support system for early warning about hotspots of agricultural production anomaly (crop and rangeland), developed by the JRC for food security crises prevention and response planning.
+The monthly hotspots data set is available below, but you can explore the hotspots on the ASAP Warning Explorer and access more contextual data on the downloads page. To learn more about the hotspots, refer to the warning classification methodology document.
+CSV
+Pakistan IOM Displacement Tracking Matrix (DTM) from API
+International Organization for Migration (IOM)
+40+ Downloads
+Time Period of the Dataset [?]:
+November 30, 2011-December 31, 2022
+... More
+Modified [?]:
+20 July 2025
+Dataset Added on HDX [?]:
+9 January 2025
+Less
+This dataset updates: Every week
+This dataset comes from the International Organization for Migration (IOM)'s displacement tracking matrix (DTM) publicly accessible API. This API allows the humanitarian community, academia, media, government, and non-governmental organizations to utilize the data collected by DTM. The DTM API only provides non-sensitive IDP figures, aggregated at the country, Admin 1 (states, provinces, or equivalent), and Admin 2 (smaller subnational administrative areas) levels. For more detailed information, please see the country-specific DTM datasets on HDX.
+CSV
+Pakistan - Food Prices
+WFP - World Food Programme
+2000+ Downloads
+Time Period of the Dataset [?]:
+January 15, 2004-May 15, 2025
+... More
+Modified [?]:
+20 July 2025
+Dataset Added on HDX [?]:
+26 September 2018
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+WFP - Food Prices
+This dataset contains Food Prices data for Pakistan, sourced from the World Food Programme Price Database. The World Food Programme Price Database covers foods such as maize, rice, beans, fish, and sugar for 98 countries and some 3000 markets. It is updated weekly but contains to a large extent monthly data. The data goes back as far as 1992 for a few countries, although many countries started reporting from 2003 or thereafter.
+CSV
+Global IOM Displacement Tracking Matrix (DTM) from API
+International Organization for Migration (IOM)
+400+ Downloads
+Time Period of the Dataset [?]:
+June 30, 2010-July 05, 2025
+... More
+Modified [?]:
+20 July 2025
+Dataset Added on HDX [?]:
+13 September 2024
+Less
+This dataset updates: Every week
+This dataset comes from the International Organization for Migration (IOM)'s displacement tracking matrix (DTM) publicly accessible API. This API allows the humanitarian community, academia, media, government, and non-governmental organizations to utilize the data collected by DTM. The DTM API only provides non-sensitive IDP figures, aggregated at the country, Admin 1 (states, provinces, or equivalent), and Admin 2 (smaller subnational administrative areas) levels. For more detailed information, please see the country-specific DTM datasets on HDX.
+CSV
+1
+2
+3
+...
+7
+»
+By using this site you consent to the use of cookies. Cookies can be managed in your browser or device settings.
+Continue

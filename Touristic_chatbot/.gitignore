@@ -266,7 +266,7 @@ temp/
 # Project specific
 # Tourism data files (large and frequently updated)
 
-*.txt
+
 !README.txt
 !requirements.txt
 

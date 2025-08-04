@@ -1,0 +1,1077 @@
+Hotosm   points of interest Humanitarian Datasets | Find Crisis Data | HDX
+You logged out of HDX
+Thank you for using HDX !
+236
+Zimbabwe Points of Interest (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+70+ Downloads
+Time Period of the Dataset [?]:
+July 10, 2025-July 10, 2025
+... More
+Modified [?]:
+10 July 2025
+Dataset Added on HDX [?]:
+17 November 2017
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Points of Interest
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['amenity'] IS NOT NULL OR tags['man_made'] IS NOT NULL OR tags['shop'] IS NOT NULL OR tags['tourism'] IS NOT NULL
+Features may have these attributes:
+name
+name:en
+amenity
+man_made
+shop
+tourism
+opening_hours
+beds
+rooms
+addr:full
+addr:housenumber
+addr:street
+addr:city
+source
+name:ny
+name:chj
+name:kck
+name:kho
+name:nmq
+name:nde
+name:nr
+name:shk
+name:sn
+name:st
+name:toi
+name:tna
+name:ven
+name:xh
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+Geopackage
+KML
+Garmin IMG
+GeoJSON
+Morocco Points of Interest (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+300+ Downloads
+Time Period of the Dataset [?]:
+July 10, 2025-July 10, 2025
+... More
+Modified [?]:
+10 July 2025
+Dataset Added on HDX [?]:
+19 May 2020
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Points of Interest
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['amenity'] IS NOT NULL OR tags['man_made'] IS NOT NULL OR tags['shop'] IS NOT NULL OR tags['tourism'] IS NOT NULL
+Features may have these attributes:
+name
+name:en
+amenity
+man_made
+shop
+tourism
+opening_hours
+beds
+rooms
+addr:full
+addr:housenumber
+addr:street
+addr:city
+source
+name:ar
+name:ber
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+Geopackage
+KML
+Garmin IMG
+GeoJSON
+CSV
+Afghanistan Points of Interest (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+100+ Downloads
+Time Period of the Dataset [?]:
+July 10, 2025-July 10, 2025
+... More
+Modified [?]:
+10 July 2025
+Dataset Added on HDX [?]:
+16 August 2019
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Points of Interest
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['amenity'] IS NOT NULL OR tags['man_made'] IS NOT NULL OR tags['shop'] IS NOT NULL OR tags['tourism'] IS NOT NULL
+Features may have these attributes:
+name
+name:en
+amenity
+man_made
+shop
+tourism
+opening_hours
+beds
+rooms
+addr:full
+addr:housenumber
+addr:street
+addr:city
+source
+name:fa
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+KML
+GeoJSON
+CSV
+Geopackage
+United Arab Emirates Points of Interest (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+100+ Downloads
+Time Period of the Dataset [?]:
+July 10, 2025-July 10, 2025
+... More
+Modified [?]:
+10 July 2025
+Dataset Added on HDX [?]:
+13 May 2020
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Points of Interest
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['amenity'] IS NOT NULL OR tags['man_made'] IS NOT NULL OR tags['shop'] IS NOT NULL OR tags['tourism'] IS NOT NULL
+Features may have these attributes:
+name
+name:en
+amenity
+man_made
+shop
+tourism
+opening_hours
+beds
+rooms
+addr:full
+addr:housenumber
+addr:street
+addr:city
+source
+name:ar
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+Geopackage
+KML
+Garmin IMG
+GeoJSON
+Zambia Points of Interest (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+90+ Downloads
+Time Period of the Dataset [?]:
+July 10, 2025-July 10, 2025
+... More
+Modified [?]:
+10 July 2025
+Dataset Added on HDX [?]:
+2 October 2017
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Points of Interest
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['amenity'] IS NOT NULL OR tags['man_made'] IS NOT NULL OR tags['shop'] IS NOT NULL OR tags['tourism'] IS NOT NULL
+Features may have these attributes:
+name
+name:en
+amenity
+man_made
+shop
+tourism
+opening_hours
+beds
+rooms
+addr:full
+addr:housenumber
+addr:street
+addr:city
+source
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+KML
+GeoJSON
+Geopackage
+Yemen Points of Interest (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+300+ Downloads
+Time Period of the Dataset [?]:
+July 10, 2025-July 10, 2025
+... More
+Modified [?]:
+10 July 2025
+Dataset Added on HDX [?]:
+30 June 2017
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Points of Interest
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['amenity'] IS NOT NULL OR tags['man_made'] IS NOT NULL OR tags['shop'] IS NOT NULL OR tags['tourism'] IS NOT NULL
+Features may have these attributes:
+name
+name:en
+amenity
+man_made
+shop
+tourism
+opening_hours
+beds
+rooms
+addr:full
+addr:housenumber
+addr:street
+addr:city
+source
+name:ar
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+KML
+GeoJSON
+Geopackage
+Wallis and Futuna Islands Points of Interest (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+Time Period of the Dataset [?]:
+July 10, 2025-July 10, 2025
+... More
+Modified [?]:
+10 July 2025
+Dataset Added on HDX [?]:
+15 May 2020
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Points of Interest
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['amenity'] IS NOT NULL OR tags['man_made'] IS NOT NULL OR tags['shop'] IS NOT NULL OR tags['tourism'] IS NOT NULL
+Features may have these attributes:
+name
+name:en
+amenity
+man_made
+shop
+tourism
+opening_hours
+beds
+rooms
+addr:full
+addr:housenumber
+addr:street
+addr:city
+source
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+KML
+GeoJSON
+Geopackage
+Thailand Points of Interest (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+400+ Downloads
+Time Period of the Dataset [?]:
+July 10, 2025-July 10, 2025
+... More
+Modified [?]:
+10 July 2025
+Dataset Added on HDX [?]:
+20 November 2017
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Points of Interest
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['amenity'] IS NOT NULL OR tags['man_made'] IS NOT NULL OR tags['shop'] IS NOT NULL OR tags['tourism'] IS NOT NULL
+Features may have these attributes:
+name
+name:en
+amenity
+man_made
+shop
+tourism
+opening_hours
+beds
+rooms
+addr:full
+addr:housenumber
+addr:street
+addr:city
+source
+name:th
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+KML
+GeoJSON
+Geopackage
+Viet Nam Points of Interest (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+60+ Downloads
+Time Period of the Dataset [?]:
+July 10, 2025-July 10, 2025
+... More
+Modified [?]:
+10 July 2025
+Dataset Added on HDX [?]:
+22 December 2017
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Points of Interest
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['amenity'] IS NOT NULL OR tags['man_made'] IS NOT NULL OR tags['shop'] IS NOT NULL OR tags['tourism'] IS NOT NULL
+Features may have these attributes:
+name
+name:en
+amenity
+man_made
+shop
+tourism
+opening_hours
+beds
+rooms
+addr:full
+addr:housenumber
+addr:street
+addr:city
+source
+name:vi
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+KML
+GeoJSON
+Geopackage
+Venezuela Points of Interest (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+60+ Downloads
+Time Period of the Dataset [?]:
+July 10, 2025-July 10, 2025
+... More
+Modified [?]:
+10 July 2025
+Dataset Added on HDX [?]:
+28 November 2017
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Points of Interest
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['amenity'] IS NOT NULL OR tags['man_made'] IS NOT NULL OR tags['shop'] IS NOT NULL OR tags['tourism'] IS NOT NULL
+Features may have these attributes:
+name
+name:en
+amenity
+man_made
+shop
+tourism
+opening_hours
+beds
+rooms
+addr:full
+addr:housenumber
+addr:street
+addr:city
+source
+name:es
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+KML
+GeoJSON
+Geopackage
+Vanuatu Points of Interest (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+20+ Downloads
+Time Period of the Dataset [?]:
+July 10, 2025-July 10, 2025
+... More
+Modified [?]:
+10 July 2025
+Dataset Added on HDX [?]:
+28 November 2017
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Points of Interest
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['amenity'] IS NOT NULL OR tags['man_made'] IS NOT NULL OR tags['shop'] IS NOT NULL OR tags['tourism'] IS NOT NULL
+Features may have these attributes:
+name
+name:en
+amenity
+man_made
+shop
+tourism
+opening_hours
+beds
+rooms
+addr:full
+addr:housenumber
+addr:street
+addr:city
+source
+name:fr
+name:bis
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+KML
+GeoJSON
+Geopackage
+Uzbekistan Points of Interest (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+70+ Downloads
+Time Period of the Dataset [?]:
+July 10, 2025-July 10, 2025
+... More
+Modified [?]:
+10 July 2025
+Dataset Added on HDX [?]:
+22 December 2017
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Points of Interest
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['amenity'] IS NOT NULL OR tags['man_made'] IS NOT NULL OR tags['shop'] IS NOT NULL OR tags['tourism'] IS NOT NULL
+Features may have these attributes:
+name
+name:en
+amenity
+man_made
+shop
+tourism
+opening_hours
+beds
+rooms
+addr:full
+addr:housenumber
+addr:street
+addr:city
+source
+name:uz
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+Geopackage
+KML
+Garmin IMG
+GeoJSON
+United States Virgin Islands Points of Interest (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+Time Period of the Dataset [?]:
+July 10, 2025-July 10, 2025
+... More
+Modified [?]:
+10 July 2025
+Dataset Added on HDX [?]:
+6 September 2017
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Points of Interest
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['amenity'] IS NOT NULL OR tags['man_made'] IS NOT NULL OR tags['shop'] IS NOT NULL OR tags['tourism'] IS NOT NULL
+Features may have these attributes:
+name
+name:en
+amenity
+man_made
+shop
+tourism
+opening_hours
+beds
+rooms
+addr:full
+addr:housenumber
+addr:street
+addr:city
+source
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+KML
+GeoJSON
+Geopackage
+Ukraine Points of Interest (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+300+ Downloads
+Time Period of the Dataset [?]:
+July 10, 2025-July 10, 2025
+... More
+Modified [?]:
+10 July 2025
+Dataset Added on HDX [?]:
+30 December 2021
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Points of Interest
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['amenity'] IS NOT NULL OR tags['man_made'] IS NOT NULL OR tags['shop'] IS NOT NULL OR tags['tourism'] IS NOT NULL
+Features may have these attributes:
+name
+name:en
+amenity
+man_made
+shop
+tourism
+opening_hours
+beds
+rooms
+addr:full
+addr:housenumber
+addr:street
+addr:city
+source
+name:uk
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+KML
+GeoJSON
+Geopackage
+Turkmenistan Points of Interest (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+Time Period of the Dataset [?]:
+July 09, 2025-July 09, 2025
+... More
+Modified [?]:
+9 July 2025
+Dataset Added on HDX [?]:
+22 December 2017
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Points of Interest
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['amenity'] IS NOT NULL OR tags['man_made'] IS NOT NULL OR tags['shop'] IS NOT NULL OR tags['tourism'] IS NOT NULL
+Features may have these attributes:
+name
+name:en
+amenity
+man_made
+shop
+tourism
+opening_hours
+beds
+rooms
+addr:full
+addr:housenumber
+addr:street
+addr:city
+source
+name:tk
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+KML
+GeoJSON
+Geopackage
+Uganda Points of Interest (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+100+ Downloads
+Time Period of the Dataset [?]:
+July 09, 2025-July 09, 2025
+... More
+Modified [?]:
+9 July 2025
+Dataset Added on HDX [?]:
+9 June 2017
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Points of Interest
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['amenity'] IS NOT NULL OR tags['man_made'] IS NOT NULL OR tags['shop'] IS NOT NULL OR tags['tourism'] IS NOT NULL
+Features may have these attributes:
+name
+name:en
+amenity
+man_made
+shop
+tourism
+opening_hours
+beds
+rooms
+addr:full
+addr:housenumber
+addr:street
+addr:city
+source
+name:sw
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+KML
+GeoJSON
+Geopackage
+Uruguay Points of Interest (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+10+ Downloads
+Time Period of the Dataset [?]:
+July 09, 2025-July 09, 2025
+... More
+Modified [?]:
+9 July 2025
+Dataset Added on HDX [?]:
+8 June 2017
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Points of Interest
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['amenity'] IS NOT NULL OR tags['man_made'] IS NOT NULL OR tags['shop'] IS NOT NULL OR tags['tourism'] IS NOT NULL
+Features may have these attributes:
+name
+name:en
+amenity
+man_made
+shop
+tourism
+opening_hours
+beds
+rooms
+addr:full
+addr:housenumber
+addr:street
+addr:city
+source
+name:es
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+KML
+GeoJSON
+Geopackage
+Tuvalu Points of Interest (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+Time Period of the Dataset [?]:
+July 09, 2025-July 09, 2025
+... More
+Modified [?]:
+9 July 2025
+Dataset Added on HDX [?]:
+13 May 2020
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Points of Interest
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['amenity'] IS NOT NULL OR tags['man_made'] IS NOT NULL OR tags['shop'] IS NOT NULL OR tags['tourism'] IS NOT NULL
+Features may have these attributes:
+name
+name:en
+amenity
+man_made
+shop
+tourism
+opening_hours
+beds
+rooms
+addr:full
+addr:housenumber
+addr:street
+addr:city
+source
+name:tvl
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+KML
+GeoJSON
+Geopackage
+Turks and Caicos Islands Points of Interest (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+Time Period of the Dataset [?]:
+July 09, 2025-July 09, 2025
+... More
+Modified [?]:
+9 July 2025
+Dataset Added on HDX [?]:
+25 July 2018
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Points of Interest
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['amenity'] IS NOT NULL OR tags['man_made'] IS NOT NULL OR tags['shop'] IS NOT NULL OR tags['tourism'] IS NOT NULL
+Features may have these attributes:
+name
+name:en
+amenity
+man_made
+shop
+tourism
+opening_hours
+beds
+rooms
+addr:full
+addr:housenumber
+addr:street
+addr:city
+source
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+KML
+GeoJSON
+Geopackage
+Turkey Points of Interest (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+300+ Downloads
+Time Period of the Dataset [?]:
+July 09, 2025-July 09, 2025
+... More
+Modified [?]:
+9 July 2025
+Dataset Added on HDX [?]:
+7 August 2017
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Points of Interest
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['amenity'] IS NOT NULL OR tags['man_made'] IS NOT NULL OR tags['shop'] IS NOT NULL OR tags['tourism'] IS NOT NULL
+Features may have these attributes:
+name
+name:en
+amenity
+man_made
+shop
+tourism
+opening_hours
+beds
+rooms
+addr:full
+addr:housenumber
+addr:street
+addr:city
+source
+name:tr
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+KML
+SHP
+Geopackage
+GeoJSON
+Togo Points of Interest (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+60+ Downloads
+Time Period of the Dataset [?]:
+July 09, 2025-July 09, 2025
+... More
+Modified [?]:
+9 July 2025
+Dataset Added on HDX [?]:
+22 December 2017
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Points of Interest
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['amenity'] IS NOT NULL OR tags['man_made'] IS NOT NULL OR tags['shop'] IS NOT NULL OR tags['tourism'] IS NOT NULL
+Features may have these attributes:
+name
+name:en
+amenity
+man_made
+shop
+tourism
+opening_hours
+beds
+rooms
+addr:full
+addr:housenumber
+addr:street
+addr:city
+source
+name:fr
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+KML
+GeoJSON
+Geopackage
+Timor-Leste Points of Interest (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+40+ Downloads
+Time Period of the Dataset [?]:
+July 09, 2025-July 09, 2025
+... More
+Modified [?]:
+9 July 2025
+Dataset Added on HDX [?]:
+9 January 2018
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Points of Interest
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['amenity'] IS NOT NULL OR tags['man_made'] IS NOT NULL OR tags['shop'] IS NOT NULL OR tags['tourism'] IS NOT NULL
+Features may have these attributes:
+name
+name:en
+amenity
+man_made
+shop
+tourism
+opening_hours
+beds
+rooms
+addr:full
+addr:housenumber
+addr:street
+addr:city
+source
+name:pt
+name:tet
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+Geopackage
+KML
+Garmin IMG
+GeoJSON
+Tunisia Points of Interest (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+80+ Downloads
+Time Period of the Dataset [?]:
+July 09, 2025-July 09, 2025
+... More
+Modified [?]:
+9 July 2025
+Dataset Added on HDX [?]:
+13 May 2020
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Points of Interest
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['amenity'] IS NOT NULL OR tags['man_made'] IS NOT NULL OR tags['shop'] IS NOT NULL OR tags['tourism'] IS NOT NULL
+Features may have these attributes:
+name
+name:en
+amenity
+man_made
+shop
+tourism
+opening_hours
+beds
+rooms
+addr:full
+addr:housenumber
+addr:street
+addr:city
+source
+name:ar
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+KML
+GeoJSON
+Geopackage
+Tanzania Points of Interest (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+100+ Downloads
+Time Period of the Dataset [?]:
+July 09, 2025-July 09, 2025
+... More
+Modified [?]:
+9 July 2025
+Dataset Added on HDX [?]:
+26 July 2017
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Points of Interest
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['amenity'] IS NOT NULL OR tags['man_made'] IS NOT NULL OR tags['shop'] IS NOT NULL OR tags['tourism'] IS NOT NULL
+Features may have these attributes:
+name
+name:en
+amenity
+man_made
+shop
+tourism
+opening_hours
+beds
+rooms
+addr:full
+addr:housenumber
+addr:street
+addr:city
+source
+name:sw
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+KML
+Garmin IMG
+GeoJSON
+Geopackage
+Tajikistan Points of Interest (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+30+ Downloads
+Time Period of the Dataset [?]:
+July 09, 2025-July 09, 2025
+... More
+Modified [?]:
+9 July 2025
+Dataset Added on HDX [?]:
+29 November 2017
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Points of Interest
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['amenity'] IS NOT NULL OR tags['man_made'] IS NOT NULL OR tags['shop'] IS NOT NULL OR tags['tourism'] IS NOT NULL
+Features may have these attributes:
+name
+name:en
+amenity
+man_made
+shop
+tourism
+opening_hours
+beds
+rooms
+addr:full
+addr:housenumber
+addr:street
+addr:city
+source
+name:tg
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+KML
+GeoJSON
+Geopackage
+1
+2
+3
+...
+10
+»
+By using this site you consent to the use of cookies. Cookies can be managed in your browser or device settings.
+Continue

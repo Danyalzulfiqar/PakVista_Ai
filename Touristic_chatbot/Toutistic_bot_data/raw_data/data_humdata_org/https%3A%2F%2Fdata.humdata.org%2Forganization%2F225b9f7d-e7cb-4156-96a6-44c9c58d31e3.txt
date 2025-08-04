@@ -1,0 +1,1183 @@
+Humanitarian OpenStreetMap Team (HOT) Humanitarian Data | 2604 Datasets  | HDX
+You logged out of HDX
+Thank you for using HDX !
+Humanitarian OpenStreetMap Team (HOT)
+Share
+Visit Website
+Humanitarian OpenStreetMap Team (HOT)
+47 Members
+1244
+Followers
+Visit Website
+Member since 14 November 2014
+For up-to-the-minute exports from OpenStreetMap in a variety of formats for GPS and GIS, visit
+http://export.hotosm.org
+Humanitarian OpenStreetMap Team (HOT) acts as a bridge between the traditional humanitarian responders and the OpenStreetMap Community. HOT works both remotely and physically in countries to assist the collection of geographic data, usage of that information and training others in OpenStreetMap.
+Group Message
+Use group message to communicate and collaborate with other members of your organisation.
+This feature is available for datasets shared publicly or privately by your organisation. It is not visible to anyone outside of your organisation.
+Your message was sent
+To:
+2604
+Zimbabwe Buildings (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+200+ Downloads
+Time Period of the Dataset [?]:
+July 10, 2025-July 10, 2025
+... More
+Modified [?]:
+10 July 2025
+Dataset Added on HDX [?]:
+17 November 2017
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Buildings
+OpenStreetMap contains roughly 4.1 million buildings in this region. Based on AI-mapped estimates, this is approximately 48% of the total buildings.The average age of data for this region is 6 years ( Last edited 2 days ago ) and 1% buildings were added or updated in the last 6 months.
+Read about what this summary means : indicators , metrics
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['building'] IS NOT NULL
+Features may have these attributes:
+name
+name:en
+building
+building:levels
+building:materials
+addr:full
+addr:housenumber
+addr:street
+addr:city
+office
+source
+name:ny
+name:chj
+name:kck
+name:kho
+name:nmq
+name:nde
+name:nr
+name:shk
+name:sn
+name:st
+name:toi
+name:tna
+name:ven
+name:xh
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+Geopackage
+KML
+Garmin IMG
+GeoJSON
+Zimbabwe Roads (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+700+ Downloads
+Time Period of the Dataset [?]:
+July 10, 2025-July 10, 2025
+... More
+Modified [?]:
+10 July 2025
+Dataset Added on HDX [?]:
+17 November 2017
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Roads
+OpenStreetMap contains roughly 269.7 thousand km of roads in this region. Based on AI-mapped estimates, this is approximately 27 % of the total road length in the dataset region. The average age of data for the region is 6 years  ( Last edited 2 days ago ) and 4% of roads were added or updated in the last 6 months.
+Read about what this summary means : indicators , metrics
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['highway'] IS NOT NULL
+Features may have these attributes:
+name
+name:en
+highway
+surface
+smoothness
+width
+lanes
+oneway
+bridge
+layer
+source
+name:ny
+name:chj
+name:kck
+name:kho
+name:nmq
+name:nde
+name:nr
+name:shk
+name:sn
+name:st
+name:toi
+name:tna
+name:ven
+name:xh
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+Geopackage
+KML
+Garmin IMG
+GeoJSON
+Zimbabwe Waterways (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+600+ Downloads
+Time Period of the Dataset [?]:
+July 10, 2025-July 10, 2025
+... More
+Modified [?]:
+10 July 2025
+Dataset Added on HDX [?]:
+17 November 2017
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Waterways
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['waterway'] IS NOT NULL OR tags['water'] IS NOT NULL OR tags['natural'] IN ('water','wetland','bay')
+Features may have these attributes:
+name
+name:en
+waterway
+covered
+width
+depth
+layer
+blockage
+tunnel
+natural
+water
+source
+name:ny
+name:chj
+name:kck
+name:kho
+name:nmq
+name:nde
+name:nr
+name:shk
+name:sn
+name:st
+name:toi
+name:tna
+name:ven
+name:xh
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+Geopackage
+KML
+Garmin IMG
+GeoJSON
+Zimbabwe Populated Places (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+200+ Downloads
+Time Period of the Dataset [?]:
+July 10, 2025-July 10, 2025
+... More
+Modified [?]:
+10 July 2025
+Dataset Added on HDX [?]:
+6 December 2019
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM Populated Places
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['place'] IN ('isolated_dwelling', 'town', 'village', 'hamlet', 'city') OR tags['landuse'] IN ('residential')
+Features may have these attributes:
+name
+name:en
+place
+landuse
+population
+is_in
+source
+name:ny
+name:chj
+name:kck
+name:kho
+name:nmq
+name:nde
+name:nr
+name:shk
+name:sn
+name:st
+name:toi
+name:tna
+name:ven
+name:xh
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+Geopackage
+KML
+Garmin IMG
+GeoJSON
+Zimbabwe Railways (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+200+ Downloads
+Time Period of the Dataset [?]:
+July 10, 2025-July 10, 2025
+... More
+Modified [?]:
+10 July 2025
+Dataset Added on HDX [?]:
+6 December 2019
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Railways
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['railway'] IN ('rail','station')
+Features may have these attributes:
+name
+name:en
+railway
+ele
+operator:type
+layer
+addr:full
+addr:city
+source
+name:ny
+name:chj
+name:kck
+name:kho
+name:nmq
+name:nde
+name:nr
+name:shk
+name:sn
+name:st
+name:toi
+name:tna
+name:ven
+name:xh
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+Geopackage
+KML
+Garmin IMG
+GeoJSON
+Zimbabwe Financial Services (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+20+ Downloads
+Time Period of the Dataset [?]:
+July 10, 2025-July 10, 2025
+... More
+Modified [?]:
+10 July 2025
+Dataset Added on HDX [?]:
+6 December 2019
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Financial Services
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['amenity'] IN ('mobile_money_agent','bureau_de_change','bank','microfinance','atm','sacco','money_transfer','post_office')
+Features may have these attributes:
+name
+name:en
+amenity
+operator
+network
+addr:full
+addr:city
+source
+name:ny
+name:chj
+name:kck
+name:kho
+name:nmq
+name:nde
+name:nr
+name:shk
+name:sn
+name:st
+name:toi
+name:tna
+name:ven
+name:xh
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+Geopackage
+KML
+Garmin IMG
+GeoJSON
+Zimbabwe Education Facilities (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+400+ Downloads
+Time Period of the Dataset [?]:
+July 10, 2025-July 10, 2025
+... More
+Modified [?]:
+10 July 2025
+Dataset Added on HDX [?]:
+6 December 2019
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Education Facilities
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['amenity'] IN ('kindergarten', 'school', 'college', 'university') OR tags['building'] IN ('kindergarten', 'school', 'college', 'university')
+Features may have these attributes:
+name
+name:en
+amenity
+building
+operator:type
+capacity:persons
+addr:full
+addr:city
+source
+name:ny
+name:chj
+name:kck
+name:kho
+name:nmq
+name:nde
+name:nr
+name:shk
+name:sn
+name:st
+name:toi
+name:tna
+name:ven
+name:xh
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+Geopackage
+KML
+Garmin IMG
+GeoJSON
+Zimbabwe Health Facilities (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+400+ Downloads
+Time Period of the Dataset [?]:
+July 10, 2025-July 10, 2025
+... More
+Modified [?]:
+10 July 2025
+Dataset Added on HDX [?]:
+6 December 2019
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Health Facilities
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['healthcare'] IS NOT NULL OR tags['amenity'] IN ('doctors', 'dentist', 'clinic', 'hospital', 'pharmacy')
+Features may have these attributes:
+name
+name:en
+amenity
+building
+healthcare
+healthcare:speciality
+operator:type
+capacity:persons
+addr:full
+addr:city
+source
+name:ny
+name:chj
+name:kck
+name:kho
+name:nmq
+name:nde
+name:nr
+name:shk
+name:sn
+name:st
+name:toi
+name:tna
+name:ven
+name:xh
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+Geopackage
+KML
+Garmin IMG
+GeoJSON
+Zimbabwe Sea Ports (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+20+ Downloads
+Time Period of the Dataset [?]:
+July 10, 2025-July 10, 2025
+... More
+Modified [?]:
+10 July 2025
+Dataset Added on HDX [?]:
+6 December 2019
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Sea Ports
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['amenity'] = 'ferry_terminal' OR tags['building'] = 'ferry_terminal' OR tags['port'] IS NOT NULL
+Features may have these attributes:
+name
+name:en
+amenity
+building
+port
+operator:type
+addr:full
+addr:city
+source
+name:ny
+name:chj
+name:kck
+name:kho
+name:nmq
+name:nde
+name:nr
+name:shk
+name:sn
+name:st
+name:toi
+name:tna
+name:ven
+name:xh
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+Geopackage
+KML
+Garmin IMG
+GeoJSON
+Zimbabwe Points of Interest (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+70+ Downloads
+Time Period of the Dataset [?]:
+July 10, 2025-July 10, 2025
+... More
+Modified [?]:
+10 July 2025
+Dataset Added on HDX [?]:
+17 November 2017
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Points of Interest
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['amenity'] IS NOT NULL OR tags['man_made'] IS NOT NULL OR tags['shop'] IS NOT NULL OR tags['tourism'] IS NOT NULL
+Features may have these attributes:
+name
+name:en
+amenity
+man_made
+shop
+tourism
+opening_hours
+beds
+rooms
+addr:full
+addr:housenumber
+addr:street
+addr:city
+source
+name:ny
+name:chj
+name:kck
+name:kho
+name:nmq
+name:nde
+name:nr
+name:shk
+name:sn
+name:st
+name:toi
+name:tna
+name:ven
+name:xh
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+Geopackage
+KML
+Garmin IMG
+GeoJSON
+Zimbabwe Airports (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+100+ Downloads
+Time Period of the Dataset [?]:
+July 10, 2025-July 10, 2025
+... More
+Modified [?]:
+10 July 2025
+Dataset Added on HDX [?]:
+6 December 2019
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Airports
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['aeroway'] IS NOT NULL OR tags['building'] = 'aerodrome' OR tags['emergency:helipad'] IS NOT NULL OR tags['emergency'] = 'landing_site'
+Features may have these attributes:
+name
+name:en
+aeroway
+building
+emergency
+emergency:helipad
+operator:type
+capacity:persons
+addr:full
+addr:city
+source
+name:ny
+name:chj
+name:kck
+name:kho
+name:nmq
+name:nde
+name:nr
+name:shk
+name:sn
+name:st
+name:toi
+name:tna
+name:ven
+name:xh
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+Geopackage
+KML
+Garmin IMG
+GeoJSON
+Morocco Buildings (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+500+ Downloads
+Time Period of the Dataset [?]:
+July 10, 2025-July 10, 2025
+... More
+Modified [?]:
+10 July 2025
+Dataset Added on HDX [?]:
+19 May 2020
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Buildings
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['building'] IS NOT NULL
+Features may have these attributes:
+name
+name:en
+building
+building:levels
+building:materials
+addr:full
+addr:housenumber
+addr:street
+addr:city
+office
+source
+name:ar
+name:ber
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+Geopackage
+KML
+Garmin IMG
+GeoJSON
+CSV
+Morocco Roads (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+1100+ Downloads
+Time Period of the Dataset [?]:
+July 10, 2025-July 10, 2025
+... More
+Modified [?]:
+10 July 2025
+Dataset Added on HDX [?]:
+19 May 2020
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Roads
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['highway'] IS NOT NULL
+Features may have these attributes:
+name
+name:en
+highway
+surface
+smoothness
+width
+lanes
+oneway
+bridge
+layer
+source
+name:ar
+name:ber
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+Geopackage
+KML
+Garmin IMG
+GeoJSON
+CSV
+Morocco Waterways (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+600+ Downloads
+Time Period of the Dataset [?]:
+July 10, 2025-July 10, 2025
+... More
+Modified [?]:
+10 July 2025
+Dataset Added on HDX [?]:
+19 May 2020
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Waterways
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['waterway'] IS NOT NULL OR tags['water'] IS NOT NULL OR tags['natural'] IN ('water','wetland','bay')
+Features may have these attributes:
+name
+name:en
+waterway
+covered
+width
+depth
+layer
+blockage
+tunnel
+natural
+water
+source
+name:ar
+name:ber
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+Geopackage
+KML
+Garmin IMG
+GeoJSON
+CSV
+Morocco Populated Places (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+700+ Downloads
+Time Period of the Dataset [?]:
+July 10, 2025-July 10, 2025
+... More
+Modified [?]:
+10 July 2025
+Dataset Added on HDX [?]:
+19 May 2020
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM Populated Places
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['place'] IN ('isolated_dwelling', 'town', 'village', 'hamlet', 'city') OR tags['landuse'] IN ('residential')
+Features may have these attributes:
+name
+name:en
+place
+landuse
+population
+is_in
+source
+name:ar
+name:ber
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+Geopackage
+KML
+Garmin IMG
+GeoJSON
+CSV
+Morocco Railways (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+300+ Downloads
+Time Period of the Dataset [?]:
+July 10, 2025-July 10, 2025
+... More
+Modified [?]:
+10 July 2025
+Dataset Added on HDX [?]:
+19 May 2020
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Railways
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['railway'] IN ('rail','station')
+Features may have these attributes:
+name
+name:en
+railway
+ele
+operator:type
+layer
+addr:full
+addr:city
+source
+name:ar
+name:ber
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+Geopackage
+KML
+Garmin IMG
+GeoJSON
+CSV
+Morocco Financial Services (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+100+ Downloads
+Time Period of the Dataset [?]:
+July 10, 2025-July 10, 2025
+... More
+Modified [?]:
+10 July 2025
+Dataset Added on HDX [?]:
+19 May 2020
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Financial Services
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['amenity'] IN ('mobile_money_agent','bureau_de_change','bank','microfinance','atm','sacco','money_transfer','post_office')
+Features may have these attributes:
+name
+name:en
+amenity
+operator
+network
+addr:full
+addr:city
+source
+name:ar
+name:ber
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+Geopackage
+KML
+Garmin IMG
+GeoJSON
+CSV
+Morocco Health Facilities (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+400+ Downloads
+Time Period of the Dataset [?]:
+July 10, 2025-July 10, 2025
+... More
+Modified [?]:
+10 July 2025
+Dataset Added on HDX [?]:
+19 May 2020
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Health Facilities
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['healthcare'] IS NOT NULL OR tags['amenity'] IN ('doctors', 'dentist', 'clinic', 'hospital', 'pharmacy')
+Features may have these attributes:
+name
+name:en
+amenity
+building
+healthcare
+healthcare:speciality
+operator:type
+capacity:persons
+addr:full
+addr:city
+source
+name:ar
+name:ber
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+Geopackage
+KML
+Garmin IMG
+GeoJSON
+CSV
+Morocco Education Facilities (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+200+ Downloads
+Time Period of the Dataset [?]:
+July 10, 2025-July 10, 2025
+... More
+Modified [?]:
+10 July 2025
+Dataset Added on HDX [?]:
+19 May 2020
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Education Facilities
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['amenity'] IN ('kindergarten', 'school', 'college', 'university') OR tags['building'] IN ('kindergarten', 'school', 'college', 'university')
+Features may have these attributes:
+name
+name:en
+amenity
+building
+operator:type
+capacity:persons
+addr:full
+addr:city
+source
+name:ar
+name:ber
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+Geopackage
+KML
+Garmin IMG
+GeoJSON
+CSV
+Morocco Points of Interest (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+300+ Downloads
+Time Period of the Dataset [?]:
+July 10, 2025-July 10, 2025
+... More
+Modified [?]:
+10 July 2025
+Dataset Added on HDX [?]:
+19 May 2020
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Points of Interest
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['amenity'] IS NOT NULL OR tags['man_made'] IS NOT NULL OR tags['shop'] IS NOT NULL OR tags['tourism'] IS NOT NULL
+Features may have these attributes:
+name
+name:en
+amenity
+man_made
+shop
+tourism
+opening_hours
+beds
+rooms
+addr:full
+addr:housenumber
+addr:street
+addr:city
+source
+name:ar
+name:ber
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+Geopackage
+KML
+Garmin IMG
+GeoJSON
+CSV
+Morocco Sea Ports (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+200+ Downloads
+Time Period of the Dataset [?]:
+July 10, 2025-July 10, 2025
+... More
+Modified [?]:
+10 July 2025
+Dataset Added on HDX [?]:
+19 May 2020
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Sea Ports
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['amenity'] = 'ferry_terminal' OR tags['building'] = 'ferry_terminal' OR tags['port'] IS NOT NULL
+Features may have these attributes:
+name
+name:en
+amenity
+building
+port
+operator:type
+addr:full
+addr:city
+source
+name:ar
+name:ber
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+Geopackage
+KML
+Garmin IMG
+GeoJSON
+CSV
+Morocco Airports (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+400+ Downloads
+Time Period of the Dataset [?]:
+July 10, 2025-July 10, 2025
+... More
+Modified [?]:
+10 July 2025
+Dataset Added on HDX [?]:
+19 May 2020
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Airports
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['aeroway'] IS NOT NULL OR tags['building'] = 'aerodrome' OR tags['emergency:helipad'] IS NOT NULL OR tags['emergency'] = 'landing_site'
+Features may have these attributes:
+name
+name:en
+aeroway
+building
+emergency
+emergency:helipad
+operator:type
+capacity:persons
+addr:full
+addr:city
+source
+name:ar
+name:ber
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+Geopackage
+KML
+Garmin IMG
+GeoJSON
+CSV
+Afghanistan Buildings (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+200+ Downloads
+Time Period of the Dataset [?]:
+July 10, 2025-July 10, 2025
+... More
+Modified [?]:
+10 July 2025
+Dataset Added on HDX [?]:
+16 August 2019
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Buildings
+OpenStreetMap contains roughly 1.9 million buildings in this region. Based on AI-mapped estimates, this is approximately 22% of the total buildings.The average age of data for this region is 4 years ( Last edited 2 days ago ) and 5% buildings were added or updated in the last 6 months.
+Read about what this summary means : indicators , metrics
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['building'] IS NOT NULL
+Features may have these attributes:
+name
+name:en
+building
+building:levels
+building:materials
+addr:full
+addr:housenumber
+addr:street
+addr:city
+office
+source
+name:fa
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+KML
+GeoJSON
+CSV
+Geopackage
+Zambia Buildings (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+100+ Downloads
+Time Period of the Dataset [?]:
+July 10, 2025-July 10, 2025
+... More
+Modified [?]:
+10 July 2025
+Dataset Added on HDX [?]:
+2 October 2017
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Buildings
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['building'] IS NOT NULL
+Features may have these attributes:
+name
+name:en
+building
+building:levels
+building:materials
+addr:full
+addr:housenumber
+addr:street
+addr:city
+office
+source
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+Geopackage
+KML
+Garmin IMG
+GeoJSON
+Afghanistan Roads (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+900+ Downloads
+Time Period of the Dataset [?]:
+July 10, 2025-July 10, 2025
+... More
+Modified [?]:
+10 July 2025
+Dataset Added on HDX [?]:
+16 August 2019
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Roads
+OpenStreetMap contains roughly 239.2 thousand km of roads in this region. Based on AI-mapped estimates, this is approximately 10 % of the total road length in the dataset region. The average age of data for the region is 4 years  ( Last edited 2 days ago ) and 5% of roads were added or updated in the last 6 months.
+Read about what this summary means : indicators , metrics
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['highway'] IS NOT NULL
+Features may have these attributes:
+name
+name:en
+highway
+surface
+smoothness
+width
+lanes
+oneway
+bridge
+layer
+source
+name:fa
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+KML
+GeoJSON
+CSV
+Geopackage
+1
+2
+3
+...
+105
+»
+By using this site you consent to the use of cookies. Cookies can be managed in your browser or device settings.
+Continue

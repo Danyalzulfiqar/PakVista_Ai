@@ -1,0 +1,116 @@
+HDX Signals | HDX
+You logged out of HDX
+Thank you for using HDX !
+A product that monitors key datasets and generates automated emails when significant, negative changes are detected
+We are seeking feedback. Please contact us at
+hdx-signals@un.org
+.  Read the HDX Signals impact story
+here
+.
+Jump to:
+Signup
+|
+Data Coverage
+|
+Signals map
+|
+Resources
+|
+FAQ
+Sign up
+Sign up below to receive HDX Signals emails. To receive the content you are interested in, please make sure you have selected AT LEAST ONE dataset and region or priority humanitarian location from the options below. All locations in a region include all locations covered by the datasets, not just priority humanitarian locations listed below.
+Data Coverage
+Datasets monitored by HDX Signals at the moment are as follows:
+Agricultural hotspots
+European Commission’s Joint Research Centre Anomaly Hot Spots of Agricultural Production
+Learn more
+Conflict events
+Armed Conflict Location & Event Data Project (ACLED)
+Learn more
+Food insecurity
+the Integrated Food Security Phase Classification (IPC)
+Learn more
+INFORM Severity
+ACAPS
+Learn more
+Internal displacement
+the Internal Displacement Monitoring Centre (IDMC)
+Learn more
+Market monitoring
+World Food Programme (WFP)
+Learn more
+Resources
+For more information about the datasets monitored by HDX Signals as well as information for developers see the following:
+Signals Map
+See a visualiziation of present and historic Signals
+Learn more
+Download HDX Signals dataset on HDX
+Explore the full HDX Signals dataset
+Learn more
+Methodology
+Read the HDX Signals methodology
+Learn more
+Code Respository
+Access the HDX Signals code repository
+Learn more
+For more information, please contact us at
+hdx-signals@un.org
+.
+FAQs
+How should I use HDX Signals?
+Use HDX Signals to stay up-to-date on critical changes in your datasets and regions of interest. Receive signals directly in your inbox, where automated data visualizations and AI summarizations can help you understand the current situation. Follow links to source reports, datasets, reports, and other resources to further investigate the situation. Access every piece of information in the email, from the plots to the source links to the text summaries, directly in the
+HDX dataset
+. Use the HDX API to programmatically integrate HDX Signals into your own analysis and insights platforms. Learn more in
+these slides
+.
+Why was HDX Signals developed?
+HDX has grown significantly since 2014, attracting a growing number of users and wealth of data. However, deriving useful insights from the data requires time consuming, technical, and often duplicative data cleaning and analysis processes. For key HDX datasets, HDX Signals automates this process, monitoring for significant changes in the data and generating insights when significant deteriorations are detected. Signals are disseminated automatically via email, increasing accessibility to all users regardless of accessibility. All email content, from AI generated summaries to automatic plots and maps, are made public in the HDX dataset and programmatically through the
+HDX API
+, ensuring signals can be integrated into the workflows of any analyst or organization.
+What is in the HDX Signals dataset?
+The system has been designed so that every piece of information in a signal is stored and publicized in the dataset. All text and numeric values used in the signals are stored directly in the dataset. Plots, maps, and other visuals are available directly as links, allowing easy embedding or usage in other platforms. The email campaigns themselves are similarly available as links, allowing you to easily share signals with anyone.
+When are HDX Signals triggered?
+Signals are generated when concerning changes are detected in monitored datasets and locations that are higher than in the recent past, such as spikes in internal displacement or a projected rise in food insecurity. You can find the full details in the
+methodology
+.
+What locations are covered in HDX Signals?
+Over 200 locations (typically countries and territories) are in the datasets monitored by HDX Signals. For full coverage details of specific datasets, refer to the
+methodology
+or download the locations metadata on
+HDX
+.
+What are priority humanitarian locations?
+Priority humanitarian locations are those locations with Humanitarian Response Plans. Read more about these locations on
+Humanitarian Action
+and programmatically access the list in the locations metadata on
+HDX
+.
+Can I see an example of HDX Signals email?
+You can see an example email
+here
+. All HDX Signals emails and content are available in the
+HDX dataset
+, where you can find the most recent signals.
+Is HDX Signals the same as a notification for dataset update?
+No, dataset update notifications cover a wider range of datasets and changes, such as when the structure of a dataset changes or new observations are added. Signals are only generated when analysis on monitored, updated datasets shows concerning changes in locations.
+How frequently would I receive an email?
+You will only receive emails for the datasets and geographical regions that you subscribe to, so frequency of emailing will vary. Dataset timings are set so that users should not expect more than one email a week at most. Based on historical data, for each dataset we expect to generate signals in no more than thirty to forty locations each year. We have also set a limit to only signal for a location-dataset once per 6 months, unless the situation has significantly changed. For more detailed information on how signals are generated for the datasets you are interested in, please refer to our
+methodology
+.
+How do I edit my HDX Signals subscription preferences?
+You can find a “Manage your preferences” link at the bottom of every HDX Signals email. Alternatively, if you submit your e-mail into the
+registration form
+, a link will be generated for you to edit your subscription preferences.
+How is AI used in HDX Signals?
+OpenAI’s
+GPT-4o large language model
+is used to generate summary content for signals, to provide additional context to the quantitative data and visualizations generated by the system. Publicly available text data from primary datasets and linked secondary sources is aggregated and passed to GPT-4o to produce key headlines and situation summaries for each signal.
+Why do I see HDX Signals data from earlier than 2024?
+Historical signals are generated for all indicators, to give a sense of when we would have signaled in previous years and better contextualize recent signals.
+How do I give feedback for HDX Signals?
+You can find a simple feedback poll at the end of every HDX Signals email. Alternatively, send your feedback directly to
+hdx-signals@un.org
+.
+Partners
+By using this site you consent to the use of cookies. Cookies can be managed in your browser or device settings.
+Continue

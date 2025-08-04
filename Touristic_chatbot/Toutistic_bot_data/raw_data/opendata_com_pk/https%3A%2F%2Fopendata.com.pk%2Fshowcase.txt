@@ -1,0 +1,57 @@
+Showcases - Open Data Pakistan
+Skip to content
+Home
+Showcases
+Mukhbir: Real-Time Anonymous Crime Reporting
+Law and order is a crucial characteristic of progressive, civilized societies. It is a fundamental responsibility of the government to provide a safe and orderly environment...
+1 Dataset
+View Mukhbir: Real-Time Anonymous Crime Reporting
+Brain Drain Sankey
+This sankey chart shows the intensity of people who emigrated from Pakistan to the following countries from 1970 to 2019.
+Over the last two to three decades, the number of...
+1 Dataset
+View Brain Drain Sankey
+Pakistan Market Prices 2017-2019
+Prices (June 2017 – July 2019) extracted from the Sensitive Price Index (SPI) computed to assess the price movement of 53 essential commodities in 73 markets of 17 cities of...
+1 Dataset
+View Pakistan Market Prices 2017-2019
+PSL's Top 25 Batsmen and Bowlers
+Pakistan Super League (PSL) is one of the biggest cricket leagues on Earth. They invite international players from around the world to come and compete in the local league. Open...
+1 Dataset
+View PSL's Top 25 Batsmen and Bowlers
+Punjab Hospital Beds Availability Guide
+I have designed a user-friendly dashboard addressing the recent health care challenges raised by COVID-19. Punjab is currently the most affected province in Pakistan, with an...
+1 Dataset
+View Punjab Hospital Beds Availability Guide
+Gender Inequality in Pakistan
+According to the Global Gender Gap Index, Pakistan ranks the second-lowest in the world for gender equality. The UN Sustainable Development Goal for Gender Equality by 2030...
+2 Datasets
+View Gender Inequality in Pakistan
+Climate Action
+Climate change is likely to hurt developing nations the hardest. It impacts temperatures, rainfalls, sea levels and, more often, climate-related disasters. At an alarming stake...
+2 Datasets
+View Climate Action
+Suicide Bombings in Pakistan
+In order to devise strategies to prevent and mitigate suicide bombings, it is imperative to understand the impact of previous bombings. After careful analysis, we can identify...
+1 Dataset
+View Suicide Bombings in Pakistan
+Investigating Climate Change
+February 2021 was recorded as one of the hottest and driest months in the last 60 years of Pakistan. Most of the country experienced no rain except Gilgit, where glacier and...
+3 Datasets
+View Investigating Climate Change
+Visualizing Air Quality Index
+This dashboard represents the air quality index of four major cities of Pakistan over a year. The data contains a measure of PM 2.5 which is a major indicator for the air...
+1 Dataset
+View Visualizing Air Quality Index
+PRECON Pakistan Residential Electricity Consumption Dataset
+This vizualization shows a distribution of house applications in a representative sample of 42 houses from the PRECON metadata. The median number of ACs across Lahore in the...
+1 Dataset
+View PRECON Pakistan Residential Electricity Consumption Dataset
+Impact of COVID-19 on Trade in Pakistan
+Economies worldwide have been greatly affected by the COVID-19 outbreak. A study demonstrated that trade shrunk by 3.5% globally. The above-presented dashboard aims to explore...
+1 Dataset
+View Impact of COVID-19 on Trade in Pakistan
+Pakistan Suicide Bombings Vs Drone Attacks
+This showcase has no description
+1 Dataset
+View Pakistan Suicide Bombings Vs Drone Attacks

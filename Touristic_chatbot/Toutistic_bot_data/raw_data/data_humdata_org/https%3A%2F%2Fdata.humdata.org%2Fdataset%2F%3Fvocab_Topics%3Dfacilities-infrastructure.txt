@@ -1,0 +1,618 @@
+Facilities infrastructure Humanitarian Datasets | Find Crisis Data | HDX
+You logged out of HDX
+Thank you for using HDX !
+2394
+Syria (SYR): Attacks on Aid Operations, Education, Health Care and...
+Insecurity Insight
+1600+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2016-July 05, 2025
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+4 May 2020
+Less
+This dataset updates: As needed
+These datasets contain information on reported incidents of violence and threats affecting aid operations and workers, education, food security, health care services and refugee and IDP camps in Syria. Also included are datasets cited in the Safeguarding Health in Conflict Coalition (SHCC)'s annual reports. Please get in touch if you are interested in curated datasets:
+info@insecurityinsight.org
+XLSX
+Lebanon (LBN): Attacks on Aid Operations, Health Care and IDP/Refugee Camps
+Insecurity Insight
+1500+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2016-July 05, 2025
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+28 October 2020
+Less
+This dataset updates: As needed
+These datasets contain information on reported incidents of violence and threats affecting aid operations and workers, food security, health care services and refugee and IDP camps in Lebanon. They also provide information on incidents of explosive weapons use affecting aid access, education and health care services. Please get in touch if you are interested in curated datasets:
+info@insecurityinsight.org
+XLSX
+Pakistan (PAK): Attacks on Aid Operations and Health Care
+Insecurity Insight
+500+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2016-July 05, 2025
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+16 April 2020
+Less
+This dataset updates: As needed
+These datasets contain information on reported incidents of violence and threats affecting aid operations and workers, and health care services in Pakistan. Also included are datasets cited in the Safeguarding Health in Conflict Coalition (SHCC)'s annual reports. Please get in touch if you are interested in curated datasets:
+info@insecurityinsight.org
+XLSX
+Central African Republic (CAF): Attacks on Aid Operations and Health Care
+Insecurity Insight
+1000+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2016-July 05, 2025
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+16 April 2020
+Less
+This dataset updates: Every week
+These datasets contain information on reported incidents of violence and threats affecting aid operations and workers, and health care services in the CAR. Also included are datasets cited in the Safeguarding Health in Conflict Coalition (SHCC)'s annual reports. Please get in touch if you are interested in curated datasets:
+info@insecurityinsight.org
+Please get in touch if you are interested in curated datasets:
+info@insecurityinsight.org
+XLSX
+Somalia (SOM): Attacks on Aid Operations and Health Care
+Insecurity Insight
+900+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2016-July 05, 2025
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+16 April 2020
+Less
+This dataset updates: Every week
+These datasets contain information on reported incidents of violence and threats affecting aid operations and workers, food security and health care services in Somalia. Also included are datasets cited in the Safeguarding Health in Conflict Coalition (SHCC)'s annual reports. Please get in touch if you are interested in curated datasets:
+info@insecurityinsight.org
+XLSX
+Libya (LBY): Attacks on Aid Operations and Health Care, and Explosive...
+Insecurity Insight
+500+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2016-July 05, 2025
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+20 April 2020
+Less
+This dataset updates: Every week
+These datasets contain information on reported incidents of violence and threats affecting aid operations and workers, and health care services in Libya. They also provide information on incidents of explosive weapons use affecting aid access, education and health care services.  Also included are datasets cited in the Safeguarding Health in Conflict Coalition (SHCC)'s annual reports. Please get in touch if you are interested in curated datasets:
+info@insecurityinsight.org
+XLSX
+Iraq (IRQ): Attacks on Aid Operations and Health Care
+Insecurity Insight
+300+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2016-July 05, 2025
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+16 April 2020
+Less
+This dataset updates: Every week
+These datasets contain information on reported incidents of violence and threats affecting aid operations and workers, and health care services in Iraq. Also included are datasets cited in the Safeguarding Health in Conflict Coalition (SHCC)'s annual reports. Please get in touch if you are interested in curated datasets:
+info@insecurityinsight.org
+XLSX
+Niger (NER): Attacks on Aid Operations and Health Care
+Insecurity Insight
+700+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2016-July 05, 2025
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+13 April 2020
+Less
+This dataset updates: Every week
+These datasets contain information on reported incidents of violence and threats affecting aid operations and workers, food security and health care services in Niger. Please get in touch if you are interested in curated datasets:
+info@insecurityinsight.org
+Please get in touch if you are interested in curated datasets:
+info@insecurityinsight.org
+XLSX
+Mali (MLI): Attacks on Aid Operations and Health Care
+Insecurity Insight
+1200+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2016-July 05, 2025
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+16 April 2020
+Less
+This dataset updates: Every week
+These datasets contain information on reported incidents of violence and threats affecting aid operations and workers, health care services and food security in Mali. Also included are datasets cited in the Safeguarding Health in Conflict Coalition (SHCC)'s annual reports. Please get in touch if you are interested in curated datasets:
+info@insecurityinsight.org
+XLSX
+Yemen (YEM): Attacks on Aid Operations, Education, Health Care and...
+Insecurity Insight
+1600+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2016-July 05, 2025
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+16 April 2020
+Less
+This dataset updates: As needed
+These datasets contain information on reported incidents of violence and threats affecting aid operations and workers, education,  food security, health care services and refugee and IDP camps in Yemen. They also provide information on incidents of explosive weapons use affecting aid access, education and health care services. Also included are datasets cited in the Safeguarding Health in Conflict Coalition (SHCC)'s annual reports. Please get in touch if you are interested in curated datasets:
+info@insecurityinsight.org
+XLSX
+Nigeria (NGA): Attacks on Aid Operations, Education, Health Care and...
+Insecurity Insight
+1700+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2016-July 05, 2025
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+16 April 2020
+Less
+This dataset updates: Every week
+These datasets contain information on reported incidents of violence and threats affecting aid operations and workers, education, health care services and refugee and IDP camps in Nigeria. They also provide information on incidents of conflict related (CRSV) or political sexual violence. Also included are datasets cited in the Safeguarding Health in Conflict Coalition (SHCC)'s annual reports. Please get in touch if you are interested in curated datasets:
+info@insecurityinsight.org
+XLSX
+Ethiopia (ETH): Attacks on Aid Operations, Education, Health Care and...
+Insecurity Insight
+2000+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2016-July 05, 2025
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+25 March 2021
+Less
+This dataset updates: Every week
+These datasets contain information on reported incidents of violence and threats affecting aid operations and workers, education, health care services and refugee and IDP camps in Ethiopia. They also p2020-2024 ETH Aid Worker KIKA Incident Data. This dataset provide information on incidents of conflict related (CRSV)or political sexual violence and explosive weapons use affecting aid access, education and health care services. Also included are datasets cited in the Safeguarding Health in Conflict Coalition (SHCC)'s annual reports. Please get in touch if you are interested in curated datasets:
+info@insecurityinsight.org
+Please get in touch if you are interested in curated datasets:
+info@insecurityinsight.org
+XLSX
+Democratic Republic of the Congo (COD): Attacks on Aid Operations,...
+Insecurity Insight
+2300+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2016-July 05, 2025
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+4 September 2019
+Less
+This dataset updates: Every week
+These datasets contain information on reported incidents of violence and threats affecting aid operations and workers, education, food security, health care services and refugee and IDP camps in the DRC. They also provide information on incidents of conflict related or political sexual violence (CRSV) and explosive weapons incident data. Also included are datasets cited in the Safeguarding Health in Conflict Coalition (SHCC)'s annual reports. Please get in touch if you are interested in curated datasets:
+info@insecurityinsight.org
+Please get in touch if you are interested in curated datasets:
+info@insecurityinsight.org
+XLSX
+Cameroon (CMR): Attacks on Aid Operations, Education and Health Care
+Insecurity Insight
+1300+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2016-July 05, 2025
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+16 April 2020
+Less
+This dataset updates: Every week
+These datasets contain information on reported incidents of violence and threats affecting aid operations and workers, education, health care services and conflict-incidents affecting food systems in Cameroon. Also included are datasets cited in the Safeguarding Health in Conflict Coalition (SHCC)'s annual reports. Please get in touch if you are interested in curated datasets:
+info@insecurityinsight.org
+Please get in touch if you are interested in curated datasets:
+info@insecurityinsight.org
+XLSX
+Burkina Faso (BFA): Attacks on Aid Operations, Education and Health Care
+Insecurity Insight
+1700+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2016-July 05, 2025
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+26 March 2020
+Less
+This dataset updates: Every week
+These datasets contain information on reported incidents of violence and threats affecting aid operations and workers, education and health care services in Burkina Faso. Also included are datasets cited in the Safeguarding Health in Conflict Coalition (SHCC)'s annual reports. Please get in touch if you are interested in curated datasets:
+info@insecurityinsight.org
+Please get in touch if you are interested in curated datasets:
+info@insecurityinsight.org
+XLSX
+Afghanistan (AFG): Attacks on Aid Operations, Education and Health Care, and...
+Insecurity Insight
+1500+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2016-July 05, 2025
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+20 April 2020
+Less
+This dataset updates: Every week
+These datasets contain information on reported incidents of violence and threats affecting aid operations and workers, education and health care services in Afghanistan. They also provide information on incidents of political sexual violence and explosive weapons use affecting aid access, education and health care services. Also included are datasets cited in the Safeguarding Health in Conflict Coalition (SHCC)'s annual reports. Please get in touch if you are interested in curated datasets:
+info@insecurityinsight.org
+Please get in touch if you are interested in curated datasets:
+info@insecurityinsight.org
+XLSX
+Sudan (SDN): Attacks on Aid Operations, Education, Health Care and...
+Insecurity Insight
+3400+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2016-July 05, 2025
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+21 April 2020
+Less
+This dataset updates: Every week
+These datasets contain information on reported incidents of violence and threats affecting aid operations and workers, education,  food security, health care services and refugee and IDP camps in Sudan.They also provide information on incidents of conflict related (CRSV) or political sexual violence and explosive weapons use affecting aid access, education and health care services. Also included are datasets cited in the Safeguarding Health in Conflict Coalition (SHCC)'s annual reports. Please get in touch if you are interested in curated datasets:
+info@insecurityinsight.org
+XLSX
+State of Palestine (PSE): Attacks on Aid Operations, Education, Health Care...
+Insecurity Insight
+3800+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2016-July 05, 2025
+... More
+Modified [?]:
+21 July 2025
+Dataset Added on HDX [?]:
+19 May 2020
+Less
+This dataset updates: Every week
+These datasets contain information on reported incidents of violence and threats affecting aid operations and workers, education, food security, health care services and refugee and IDP camps in the oPt. They also provide information on incidents of conflict related (CRSV) or political sexual violence and explosive weapons use affecting aid access, education and health care services. Also included are datasets cited in the Safeguarding Health in Conflict Coalition (SHCC)'s annual reports. Please get in touch if you are interested in curated datasets:
+info@insecurityinsight.org
+XLSX
+South Sudan - Health Facilities
+OCHA South Sudan
+100+ Downloads
+Time Period of the Dataset [?]:
+January 01, 2023-April 30, 2025
+... More
+Modified [?]:
+18 July 2025
+Dataset Added on HDX [?]:
+8 October 2024
+Less
+This dataset updates: Every year
+The health facilities dataset outlines the types of health facilities present at the Payam level.
+XLSX
+Zimbabwe Buildings (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+200+ Downloads
+Time Period of the Dataset [?]:
+July 10, 2025-July 10, 2025
+... More
+Modified [?]:
+10 July 2025
+Dataset Added on HDX [?]:
+17 November 2017
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Buildings
+OpenStreetMap contains roughly 4.1 million buildings in this region. Based on AI-mapped estimates, this is approximately 48% of the total buildings.The average age of data for this region is 6 years ( Last edited 2 days ago ) and 1% buildings were added or updated in the last 6 months.
+Read about what this summary means : indicators , metrics
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['building'] IS NOT NULL
+Features may have these attributes:
+name
+name:en
+building
+building:levels
+building:materials
+addr:full
+addr:housenumber
+addr:street
+addr:city
+office
+source
+name:ny
+name:chj
+name:kck
+name:kho
+name:nmq
+name:nde
+name:nr
+name:shk
+name:sn
+name:st
+name:toi
+name:tna
+name:ven
+name:xh
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+Geopackage
+KML
+Garmin IMG
+GeoJSON
+Zimbabwe Railways (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+200+ Downloads
+Time Period of the Dataset [?]:
+July 10, 2025-July 10, 2025
+... More
+Modified [?]:
+10 July 2025
+Dataset Added on HDX [?]:
+6 December 2019
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Railways
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['railway'] IN ('rail','station')
+Features may have these attributes:
+name
+name:en
+railway
+ele
+operator:type
+layer
+addr:full
+addr:city
+source
+name:ny
+name:chj
+name:kck
+name:kho
+name:nmq
+name:nde
+name:nr
+name:shk
+name:sn
+name:st
+name:toi
+name:tna
+name:ven
+name:xh
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+Geopackage
+KML
+Garmin IMG
+GeoJSON
+Zimbabwe Sea Ports (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+20+ Downloads
+Time Period of the Dataset [?]:
+July 10, 2025-July 10, 2025
+... More
+Modified [?]:
+10 July 2025
+Dataset Added on HDX [?]:
+6 December 2019
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Sea Ports
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['amenity'] = 'ferry_terminal' OR tags['building'] = 'ferry_terminal' OR tags['port'] IS NOT NULL
+Features may have these attributes:
+name
+name:en
+amenity
+building
+port
+operator:type
+addr:full
+addr:city
+source
+name:ny
+name:chj
+name:kck
+name:kho
+name:nmq
+name:nde
+name:nr
+name:shk
+name:sn
+name:st
+name:toi
+name:tna
+name:ven
+name:xh
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+Geopackage
+KML
+Garmin IMG
+GeoJSON
+Zimbabwe Points of Interest (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+70+ Downloads
+Time Period of the Dataset [?]:
+July 10, 2025-July 10, 2025
+... More
+Modified [?]:
+10 July 2025
+Dataset Added on HDX [?]:
+17 November 2017
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Points of Interest
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['amenity'] IS NOT NULL OR tags['man_made'] IS NOT NULL OR tags['shop'] IS NOT NULL OR tags['tourism'] IS NOT NULL
+Features may have these attributes:
+name
+name:en
+amenity
+man_made
+shop
+tourism
+opening_hours
+beds
+rooms
+addr:full
+addr:housenumber
+addr:street
+addr:city
+source
+name:ny
+name:chj
+name:kck
+name:kho
+name:nmq
+name:nde
+name:nr
+name:shk
+name:sn
+name:st
+name:toi
+name:tna
+name:ven
+name:xh
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+Geopackage
+KML
+Garmin IMG
+GeoJSON
+Zimbabwe Airports (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+100+ Downloads
+Time Period of the Dataset [?]:
+July 10, 2025-July 10, 2025
+... More
+Modified [?]:
+10 July 2025
+Dataset Added on HDX [?]:
+6 December 2019
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Airports
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['aeroway'] IS NOT NULL OR tags['building'] = 'aerodrome' OR tags['emergency:helipad'] IS NOT NULL OR tags['emergency'] = 'landing_site'
+Features may have these attributes:
+name
+name:en
+aeroway
+building
+emergency
+emergency:helipad
+operator:type
+capacity:persons
+addr:full
+addr:city
+source
+name:ny
+name:chj
+name:kck
+name:kho
+name:nmq
+name:nde
+name:nr
+name:shk
+name:sn
+name:st
+name:toi
+name:tna
+name:ven
+name:xh
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+Geopackage
+KML
+Garmin IMG
+GeoJSON
+Morocco Buildings (OpenStreetMap Export)
+Humanitarian OpenStreetMap Team (HOT)
+500+ Downloads
+Time Period of the Dataset [?]:
+July 10, 2025-July 10, 2025
+... More
+Modified [?]:
+10 July 2025
+Dataset Added on HDX [?]:
+19 May 2020
+Less
+This dataset updates: Every month
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Buildings
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means here ) :
+tags['building'] IS NOT NULL
+Features may have these attributes:
+name
+name:en
+building
+building:levels
+building:materials
+addr:full
+addr:housenumber
+addr:street
+addr:city
+office
+source
+name:ar
+name:ber
+This dataset is one of many OpenStreetMap exports on
+HDX.
+See the Humanitarian OpenStreetMap Team website for more
+information.
+SHP
+Geopackage
+KML
+Garmin IMG
+GeoJSON
+CSV
+1
+2
+3
+...
+96
+»
+By using this site you consent to the use of cookies. Cookies can be managed in your browser or device settings.
+Continue

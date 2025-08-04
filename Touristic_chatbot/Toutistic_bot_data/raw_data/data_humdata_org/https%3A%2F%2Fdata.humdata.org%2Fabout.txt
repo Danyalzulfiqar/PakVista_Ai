@@ -1,0 +1,49 @@
+About | HDX
+You logged out of HDX
+Thank you for using HDX !
+What is
+HDX?
+The goal of the Humanitarian Data Exchange (HDX) is to make humanitarian data easy to find and use for analysis. We are working on three elements that will eventually combine into an integrated data platform.
+Repository
+Analytics
+Standards
+The HDX repository, where data providers can upload their raw data spreadsheets for others to find and use.
+HDX analytics, a database of high-value data that can be compared across countries and crises, with tools for analysis and visualisation.
+Standards to help share humanitarian data through the use of a consensus
+Humanitarian Exchange Language.
+System principles
+We are designing the HDX system with the following principles in mind:
+Aggregation, not creation
+HDX will aggregate data that already exists. We are not working on primary data collection or the creation of new indicators.
+Open data
+HDX will provide technical support for (a) sharing any data, and (b) allowing data providers to decide not to share some data for privacy, security or ethical reasons. Read our
+Terms of Service
+.
+Progressive data enhancement
+As selected high-value data moves from the dataset repository into the curated analytic database, we will take it through a quality-review process to ensure that it is sourced, trusted, and can be combined and compared with data from other sources.
+Open technologies
+HDX will use open-source, open content, and open data as often as possible to reduce costs and in the spirit of transparency. We are using an open-source software called
+CKAN
+for the dataset repository. We partner with
+ScraperWiki
+for data transformation and operations support. You can find all of our code on
+GitHub
+.
+The Plan
+The plan for 2014 is to create a place where users can easily find humanitarian data and understand the data's source, collection methodology, and license for reuse. We will be working with three countries -
+Colombia
+,
+Kenya
+(for Eastern Africa) and
+Yemen
+- to introduce the platform to partners and to integrate local systems.
+Our initial public beta will allow users to find and share data through the HDX repository. We will continue to build on this foundation into 2015, eventually adding functionality for data visualization and custom analytics.
+The HDX project is ambitious, but it presents an excellent opportunity to change the way humanitarians share, access and use data, with positive implications for those who need assistance. We want to ensure that users are at the centre of our design process, so please join the conversation on our
+blog
+, follow us on
+twitter
+and send us
+feedback
+.
+By using this site you consent to the use of cookies. Cookies can be managed in your browser or device settings.
+Continue

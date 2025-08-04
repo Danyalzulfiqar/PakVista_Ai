@@ -1,0 +1,72 @@
+HDX HAPI Beta | HDX
+You logged out of HDX
+Thank you for using HDX !
+The HDX Humanitarian API (HAPI) is a way to access standardised indicators from multiple sources to automate workflows and visualisations
+HDX HAPI is in beta phase, and we are seeking feedback. To share your thoughts or join our slack channel, send an email to
+hdx@un.org
+.
+Jump to:
+Data Availability
+|
+Be Inspired
+|
+FAQ
+|
+Read the documentation
+Be Inspired
+Take a look at visualisations and code examples
+Power BI workflow
+A tutorial to demonstrate how easy it is to bring in data.
+Learn more
+Power Query workflow
+A tutorial to demonstrate how to integrate HDX HAPI into Excel.
+Learn more
+API Sandbox
+A sandbox environment to help construct queries and get a data response.
+Learn more
+Visualisation
+A dashboard with a selection of key figures, charts and a map for all countries in HDX HAPI.
+Learn more
+FAQs
+What is an API?
+An
+Application Programming Interface
+(API) enables software access to machine-readable data, in the same way that a web server enables access to human-readable websites. Like most web-based APIs, HDX HAPI follows the principles of
+Representational State Transfer
+(REST), so that HDX HAPI is accessible using any standard web tools or programming libraries.
+Why did we create HDX HAPI?
+We created HDX HAPI following requests from users to be able to access key indicators through one API. Although HDX has an existing API for the data catalogue (through CKAN), it only supports interaction with metadata. HDX HAPI enables direct access to the data itself, allowing users to make queries within datasets and build visualisations and analysis from this data.
+Who is HDX HAPI for?
+HDX HAPI is designed for developers, researchers and anyone interested in accessing a centralised source of humanitarian data for analysis and decision-making.
+How do I access HDX HAPI?
+You can access HDX HAPI through the
+API endpoints.
+Head to the HDX HAPI
+documentation
+to get started. You do not need an account to access HDX HAPI, but you do need an app identifier which you can
+generate via the API
+.
+What data is included in HDX HAPI?
+The initial scope of HDX HAPI mirrored that of the HDX Data Grids, which include the foundational data needed to understand a humanitarian context. However we have since expanded beyond the Data Grids, and a live dashboard of data availability by country can be found at
+https://ocha-dap.github.io/viz-hapi-availability/
+.
+What time period does the data in HDX HAPI cover?
+The time period covered by the data in the beta version of HDX HAPI varies depending on the resource. For example, data on conflict events go as far back as 1997 while data on operational presence only contains the latest data for this year. See the
+documentation
+for resource-specific information.
+How up-to-date is the data in HDX HAPI?
+HDX HAPI is updated daily from the source data. The update frequency of each source dataset varies from daily, weekly, yearly and as needed. Check the source dataset for further detail.
+Is the data in HDX HAPI different from the data I can download from HDX?
+The data in HDX HAPI is from selected datasets from HDX. No numerical values have been changed from the source data. Some supporting data has been standardised, such as aligning sector names to increase interoperability between datasets.
+In the coming months, the standardised datasets that HDX HAPI produces will be added to the source datasets on HDX as downloadable CSV files for use in spreadsheet applications.
+How is HDX HAPI different from the HDX CKAN API?
+The HDX CKAN API provides programmatic access to metadata from datasets on HDX. HDX HAPI provides access to the data values within datasets on HDX.
+Why would I use HDX HAPI instead of APIs from a single data source?
+If you are looking for multiple sources of data about a humanitarian crisis, using HDX HAPI will save you from learning the different APIs that each source provides. The work that has been put into standardisation allows for greater interoperability of data from multiple categories.
+How do I provide feedback?
+You can send an email to
+hdx@un.org
+.
+Partners
+By using this site you consent to the use of cookies. Cookies can be managed in your browser or device settings.
+Continue

@@ -1,0 +1,209 @@
+Pakistan Points of Interest (OpenStreetMap Export) | Humanitarian Dataset | HDX
+You logged out of HDX
+Thank you for using HDX !
+Pakistan Points of Interest (OpenStreetMap Export)
+This theme includes all OpenStreetMap features in this area matching ( Learn what tags means
+here
+) :
+tags['amenity'] IS NOT NULL OR tags['man_made'] IS NOT NULL OR tags['shop'] IS NOT NULL OR tags['tourism'] IS NOT NULL
+Features may have these attributes:
+name
+name:en
+amenity
+man_made
+shop
+tourism
+opening_hours
+beds
+rooms
+addr:full
+addr:housenumber
+addr:street
+addr:city
+source
+name:ur
+This dataset is one of many
+OpenStreetMap exports on
+HDX
+.
+See the
+Humanitarian OpenStreetMap Team
+website for more
+information.
+300+ Downloads
+This dataset updates: Every month
+Group Message
+Use group message to communicate and collaborate with other members of your organisation.
+This feature is available for datasets shared publicly or privately by your organisation. It is not visible to anyone outside of your organisation.
+Your message was sent
+To:
+Contact the contributor
+This dataset is part of the data series
+[?]
+:
+HOTOSM - Points of Interest
+{"baseMapUrl": "https://data.humdata.org/mapbox", "token": "cacheToken"}
+[{"resource_name": "hotosm_pak_points_of_interest_points_shp.zip", "resource_format": "SHP", "url": "//data.humdata.org/gis/pre_7e01b952_0e43_4d09_acaf_540a1f845b9d/{z}/{x}/{y}.pbf", "bounding_box": "BOX(60.9208124 24.090255,77.0360696 36.8763239)", "layer_fields": [{"field_name": "ogc_fid", "data_type": "integer"}, {"field_name": "name", "data_type": "character varying"}, {"field_name": "name_en", "data_type": "character varying"}, {"field_name": "amenity", "data_type": "character varying"}, {"field_name": "man_made", "data_type": "character varying"}, {"field_name": "shop", "data_type": "character varying"}, {"field_name": "tourism", "data_type": "character varying"}, {"field_name": "opening_ho", "data_type": "character varying"}, {"field_name": "beds", "data_type": "character varying"}, {"field_name": "rooms", "data_type": "character varying"}, {"field_name": "addr_full", "data_type": "character varying"}, {"field_name": "addr_house", "data_type": "character varying"}, {"field_name": "addr_stree", "data_type": "character varying"}, {"field_name": "addr_city", "data_type": "character varying"}, {"field_name": "source", "data_type": "character varying"}, {"field_name": "name_ur", "data_type": "character varying"}, {"field_name": "osm_id", "data_type": "numeric"}, {"field_name": "osm_type", "data_type": "character varying"}, {"field_name": "wkb_geometry", "data_type": "USER-DEFINED"}], "layer_id": "pre_7e01b952_0e43_4d09_acaf_540a1f845b9d"}, {"resource_name": "hotosm_pak_points_of_interest_polygons_shp.zip", "resource_format": "SHP", "url": "//data.humdata.org/gis/pre_25b8b615_983e_4aee_ae47_c7f3ee8a70cd/{z}/{x}/{y}.pbf", "bounding_box": "BOX(60.885042 24.0791466,76.9421772 36.8488328)", "layer_fields": [{"field_name": "ogc_fid", "data_type": "integer"}, {"field_name": "name", "data_type": "character varying"}, {"field_name": "name_en", "data_type": "character varying"}, {"field_name": "amenity", "data_type": "character varying"}, {"field_name": "man_made", "data_type": "character varying"}, {"field_name": "shop", "data_type": "character varying"}, {"field_name": "tourism", "data_type": "character varying"}, {"field_name": "opening_ho", "data_type": "character varying"}, {"field_name": "beds", "data_type": "character varying"}, {"field_name": "rooms", "data_type": "character varying"}, {"field_name": "addr_full", "data_type": "character varying"}, {"field_name": "addr_house", "data_type": "character varying"}, {"field_name": "addr_stree", "data_type": "character varying"}, {"field_name": "addr_city", "data_type": "character varying"}, {"field_name": "source", "data_type": "character varying"}, {"field_name": "name_ur", "data_type": "character varying"}, {"field_name": "osm_id", "data_type": "numeric"}, {"field_name": "osm_type", "data_type": "character varying"}, {"field_name": "wkb_geometry", "data_type": "USER-DEFINED"}], "layer_id": "pre_25b8b615_983e_4aee_ae47_c7f3ee8a70cd"}, {"resource_name": "hotosm_pak_points_of_interest_points_geojson.zip", "resource_format": "GeoJSON", "url": "//data.humdata.org/gis/pre_52ffe7f6_9b7d_419b_accd_8078fa3783ae/{z}/{x}/{y}.pbf", "bounding_box": "BOX(60.9208124 24.090255,77.0360696 36.8763239)", "layer_fields": [{"field_name": "ogc_fid", "data_type": "integer"}, {"field_name": "name", "data_type": "character varying"}, {"field_name": "name:en", "data_type": "character varying"}, {"field_name": "amenity", "data_type": "character varying"}, {"field_name": "man_made", "data_type": "character varying"}, {"field_name": "shop", "data_type": "character varying"}, {"field_name": "tourism", "data_type": "character varying"}, {"field_name": "opening_hours", "data_type": "character varying"}, {"field_name": "beds", "data_type": "character varying"}, {"field_name": "rooms", "data_type": "character varying"}, {"field_name": "addr:full", "data_type": "character varying"}, {"field_name": "addr:housenumber", "data_type": "character varying"}, {"field_name": "addr:street", "data_type": "character varying"}, {"field_name": "addr:city", "data_type": "character varying"}, {"field_name": "source", "data_type": "character varying"}, {"field_name": "name:ur", "data_type": "character varying"}, {"field_name": "osm_id", "data_type": "bigint"}, {"field_name": "osm_type", "data_type": "character varying"}, {"field_name": "wkb_geometry", "data_type": "USER-DEFINED"}], "layer_id": "pre_52ffe7f6_9b7d_419b_accd_8078fa3783ae"}, {"resource_name": "hotosm_pak_points_of_interest_polygons_geojson.zip", "resource_format": "GeoJSON", "url": "//data.humdata.org/gis/pre_cd23851e_53ce_4721_9914_8507a48c5882/{z}/{x}/{y}.pbf", "bounding_box": "BOX(60.885042 24.0791466,76.9421772 36.8488328)", "layer_fields": [{"field_name": "ogc_fid", "data_type": "integer"}, {"field_name": "name", "data_type": "character varying"}, {"field_name": "name:en", "data_type": "character varying"}, {"field_name": "amenity", "data_type": "character varying"}, {"field_name": "man_made", "data_type": "character varying"}, {"field_name": "shop", "data_type": "character varying"}, {"field_name": "tourism", "data_type": "character varying"}, {"field_name": "opening_hours", "data_type": "character varying"}, {"field_name": "beds", "data_type": "character varying"}, {"field_name": "rooms", "data_type": "character varying"}, {"field_name": "addr:full", "data_type": "character varying"}, {"field_name": "addr:housenumber", "data_type": "character varying"}, {"field_name": "addr:street", "data_type": "character varying"}, {"field_name": "addr:city", "data_type": "character varying"}, {"field_name": "source", "data_type": "character varying"}, {"field_name": "name:ur", "data_type": "character varying"}, {"field_name": "osm_id", "data_type": "integer"}, {"field_name": "osm_type", "data_type": "character varying"}, {"field_name": "wkb_geometry", "data_type": "USER-DEFINED"}], "layer_id": "pre_cd23851e_53ce_4721_9914_8507a48c5882"}]
+Interactive Data
+Open fullscreen
+Additional information
+Time Period of the Dataset [?]
+July 09, 2025-July 09, 2025
+... More
+Modified [?]
+9 July 2025
+Dataset Added on HDX [?]
+27 July 2017
+Less
+Expected Update Frequency
+Every month
+Location
+Pakistan
+Source
+OpenStreetMap contributors
+... More
+Contributor
+Humanitarian OpenStreetMap Team (HOT)
+Methodology
+Volunteered geographic information
+Caveats / Comments
+OpenStreetMap data is crowd sourced and cannot be considered to be exhaustive
+License
+Open Database License (ODC-ODbL)
+Tags
+facilities-infrastructure
+geodata
+points of interest-poi
+File Format
+SHP
+KML
+GeoJSON
+Geopackage
+Visibility
+Public
+Less
+Export metadata for this dataset:
+JSON
+|
+CSV
+[{"value": 4, "date": "2025-02-03"}, {"date": "2025-02-10", "value": 0}, {"value": 5, "date": "2025-02-17"}, {"value": 1, "date": "2025-02-24"}, {"value": 3, "date": "2025-03-03"}, {"value": 7, "date": "2025-03-10"}, {"date": "2025-03-17", "value": 0}, {"value": 1, "date": "2025-03-24"}, {"value": 8, "date": "2025-03-31"}, {"value": 3, "date": "2025-04-07"}, {"value": 2, "date": "2025-04-14"}, {"value": 1, "date": "2025-04-21"}, {"date": "2025-04-28", "value": 0}, {"value": 1, "date": "2025-05-05"}, {"value": 3, "date": "2025-05-12"}, {"value": 1, "date": "2025-05-19"}, {"value": 5, "date": "2025-05-26"}, {"value": 1, "date": "2025-06-02"}, {"date": "2025-06-09", "value": 0}, {"value": 6, "date": "2025-06-16"}, {"value": 1, "date": "2025-06-23"}, {"value": 2, "date": "2025-06-30"}, {"value": 3, "date": "2025-07-07"}, {"date": "2025-07-14", "value": 0}, {"value": 1, "date": "2025-07-21"}]
+Downloads
+NO DATA
+Related Showcases
+There are no showcases for this dataset.
+Activity
+Data and Resources [8]
+HDX Data Use Survey
+Please take 30 seconds to help HDX and Humanitarian OpenStreetMap Team (HOT) understand your interest in this data.
+61bf5808-dcc2-4716-adc2-6122d10666d3
+https://data.humdata.org/dataset/hotosm_pak_points_of_interest
+hot
+Take the survey
+hotosm_pak_points_of_interest_points_shp.zip
+SHP
+(3.8M)
+Modified:
+9 July 2025
+ESRI Shapefile
+Download
+hotosm_pak_points_of_interest_points_shp.zip
+7e01b952-0e43-4d09-acaf-540a1f845b9d
+More
+Export Metadata
+JSON
+CSV
+hotosm_pak_points_of_interest_polygons_shp.zip
+SHP
+(2.3M)
+Modified:
+9 July 2025
+ESRI Shapefile
+Download
+hotosm_pak_points_of_interest_polygons_shp.zip
+25b8b615-983e-4aee-ae47-c7f3ee8a70cd
+More
+Export Metadata
+JSON
+CSV
+hotosm_pak_points_of_interest_points_kml.zip
+KML
+(2.7M)
+Modified:
+9 July 2025
+KML
+Download
+hotosm_pak_points_of_interest_points_kml.zip
+ea80742a-f1c2-4c93-b890-7e4b90970914
+More
+Export Metadata
+JSON
+CSV
+hotosm_pak_points_of_interest_polygons_kml.zip
+KML
+(1.5M)
+Modified:
+9 July 2025
+KML
+Download
+hotosm_pak_points_of_interest_polygons_kml.zip
+8500a410-dc6c-4c70-a6da-21333f818faf
+More
+Export Metadata
+JSON
+CSV
+hotosm_pak_points_of_interest_points_geojson.zip
+GeoJSON
+(2.7M)
+Modified:
+9 July 2025
+GeoJSON
+Download
+hotosm_pak_points_of_interest_points_geojson.zip
+52ffe7f6-9b7d-419b-accd-8078fa3783ae
+More
+Export Metadata
+JSON
+CSV
+hotosm_pak_points_of_interest_polygons_geojson.zip
+GeoJSON
+(1.5M)
+Modified:
+9 July 2025
+GeoJSON
+Download
+hotosm_pak_points_of_interest_polygons_geojson.zip
+cd23851e-53ce-4721-9914-8507a48c5882
+More
+Export Metadata
+JSON
+CSV
+hotosm_pak_points_of_interest_points_gpkg.zip
+Geopackage
+(3.1M)
+Modified:
+9 July 2025
+GPKG
+Download
+hotosm_pak_points_of_interest_points_gpkg.zip
+2ea9b323-0db7-4c7a-8493-17235ea07c14
+More
+Export Metadata
+JSON
+CSV
+hotosm_pak_points_of_interest_polygons_gpkg.zip
+Geopackage
+(2.2M)
+Modified:
+9 July 2025
+GPKG
+Download
+hotosm_pak_points_of_interest_polygons_gpkg.zip
+8b7a2d20-5841-4f98-abbb-e66cb0433b32
+More
+Export Metadata
+JSON
+CSV
+Data Check
+- Use data with HXL hashtags to automatically detect errors and validate against common vocabularies.
+By using this site you consent to the use of cookies. Cookies can be managed in your browser or device settings.
+Continue

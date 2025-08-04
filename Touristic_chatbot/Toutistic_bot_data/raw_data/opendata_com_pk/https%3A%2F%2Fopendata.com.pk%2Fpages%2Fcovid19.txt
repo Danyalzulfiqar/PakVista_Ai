@@ -1,0 +1,123 @@
+Hackathon - Fighting COVID-19 in Pakistan - Open Data Pakistan
+Skip to content
+Hackathon - Fighting COVID-19 in Pakistan
+The COVID-19
+Pakistan Hackathon is an opportunity for coders, civic designers, project managers, educators, analysts and other professionals for building tech solutions to drive social impact and to fight global pandemics such as the novel coronavirus (COVID-19) outbreak.
+With spatial distancing at play, let’s create an online space where we can ideate, design, experiment and build tech solutions to help address this crisis. Mitigation strategies need to be proposed for long term impact in addition to adaptation strategies – the response should provide preventive measures that strongly prepare us for the future than just reactionary measures to the current situation.
+You must join the slack group for relevant discussions and making teams. Here is a
+list
+of participants already registered looking to team up.
+We are also looking for MENTORS to guide our participants. If anyone thinks they are up for the challenge, please
+sign up
+!​
+Partners
+Thematic Areas
+Detailed Problem Statements
+Awards
+Important Dates
+Deliverables
+Submission Requirements
+Judging Criteria
+Partners
+LUMS (Lahore University of Management Sciences)
+National Center in Big Data and Cloud Computing (NCBC)
+National Incubation Center (NIC) Lahore
+Higher Education Commission (HEC) Pakistan
+Computer Human Interaction and Social Experience Lab (CHISEL)
+UX Pakistan
+Thematic Areas
+Health:
+Address and expand solutions to health issues, such as preventative care, hygiene, support for frontline healthcare workers, telemedicine, tracing contacts with COVID-19 positive patients, containment strategies, treatment and diagnosis
+Education:
+Substitute unconventional learning methods and tools for teachers, students, and entire school systems.
+Emergency response:
+Emergency support and response systems for sudden health, social or economic crisis such as large scale unemployment
+Vulnerable persons:
+Support for the needy and those at high threat who are inequitably affected by the virus, because of uncertain daily wages, unemployment threat or preexisting health conditions for example.
+Other:
+The above are only suggestions. If you have an idea that can create major impact in the scheme of the COVID-19 outbreak, please be creative
+Back to top
+Awards
+Prize Money
+First prize PKR 100,000
+Runner up prize PKR 50,000
+Winner teams also get a wild card entry in next NIC Lahore cohort for mentorship and project incubation (optional).
+Wild Card Entry into NIC Lahore Cohort
+Two other best teams with potential will be fast tracked into next cohort of NIC Lahore.
+Back to top
+Important Dates (Updated)
+Wednesday, April 1st
+Registration begins (preferably teams to register)
+Saturday, April 4th
+Ice-breaking and Q&A session
+Sunday, April 19th
+Competition announced at
+UX Pakistan
+Interactive session with leaders from the industry –
+“
+Role of Design, Technology and Entrepreneurship for Fighting Pandemics and Large Scale Disruptions”
+Sunday, April 26th
+Online registration deadline (11:59 PM)
+TBD
+Virtual workshops on
+ideation
+,
+design
+and
+prototyping
+(if LUMS space opens, the participants can access the NIC Lahore space and Makers’ lab)
+Mentorship sessions
+Saturday,
+May 30th
+Final pitch presentations (online)
+3 minutes to present pitch, 2 minutes Q&A
+Feedbacks
+Sunday,
+May 31st
+Online submission deadline (11:59 PM)
+Saturday,
+June 6th
+Winners announced
+Awards distributed
+Post
+June 7th
+Process begins for fast track placement of startups into next NIC Lahore Cohort
+Back to top
+Deliverables
+The
+submission deliverable
+we are looking for is a technology assisted:
+Full-fledged conceptual idea, OR
+Early design of solution or prototype, OR
+Minimum Viable Product (MVP), OR
+Complete functional solution ready for production
+Back to top
+Submission Requirements
+Fill submission form and submit any attachments
+Create and share a two minute video (Vimeo or YouTube link) – with a walkthrough of the your work
+GitHub or other code repo link (optional – please ensure that this link is publicly accessible)
+Please provide due credit and do not use someone else’s work.
+Back to top
+Judging Criteria
+Creativity (20%)
+Clarity (10%)
+Functionality (30%)
+Impact (40%)
+Download Judging Criteria
+Back to top
+Detailed Problem Statements
+Option 1. [Health]
+Where precautionary measures are important, it is also essential to provide adequate services to help cure this disease. It is vital to initiate a national plan to identify the affected people, test as many people as possible and provide protective equipment in all hospitals and medical centers. How can you help provide low cost protective gear for the public, healthcare and other professionals for limiting the spread? How can you help access low cost equipment for easing breathing difficulties? What tools can be created to facilitate fast contact tracing of effected coronavirus patients? How can you help deal with heavy patient load at hospitals?
+Option 2. [Mental Health]
+The recent COVID-19 outbreak has completely disrupted the normal pace of life. Authorities have imposed country wide lockdown which has restricted all sorts of commercial, educational and social activities. People have been forced to stay at homes and completely isolate themselves to cope with this difficult situation. Under these circumstances, loneliness and constant threat of the spread of the virus may be very stressful for people, especially frontline workers, patients tested positive and children. Moreover, speculation and rumors through media can further fuel anxiety and affect your mental health. Hence, it is very important as a community to address the mental health and psychosocial aspects of the Coronavirus outbreak. Find ways through which can you help people manage stress and anxiety under this crisis, especially for frontline workers and patients tested positive.
+Option 3. [Education]
+The COVID-19 containment measures have forced authorities to close all educational institutes in Pakistan. As a result of this closure, Pakistan’s Higher Education Commission (HEC) instructed all universities and accredited institutions to “engage faculty and quickly develop online courses and disseminate those to the students in view of the coronavirus situation in the country”. This sudden shift of institutions to virtual learning has posed some challenges to our education system. There is an urgent need to adopt methods and tools to support online resources and ensure smooth communication. How can you make virtual education accessible and effective for all?
+Option 4. [Emergency response]
+The World Health Organization has characterized COVID-19 as a pandemic because of the disease’s geographical spread. According to UNICEF, the virus is transmitted through direct contact with respiratory droplets of an infected person (generated through coughing and sneezing), and touching surfaces contaminated with the virus. The COVID-19 virus may survive on surfaces for several hours, but simple disinfectants can kill it. Therefore, it is essential to provide everyone access to disinfectant products such as soaps, hand sanitizer and disinfectant sprays to prevent the rapid spread of the virus. Moreover, initiatives should be taken towards creating hygienic conditions in cities and homes. What steps can be taken to encourage low cost and local mass production of hygiene products? What low cost methods can be established for disinfecting roads, homes, hospitals, workplaces etc.?
+Option 5. [Emergency Response and Infodemic]
+A widespread outbreak of COVID-19 calls for a community response to limit and reduce the spread of the disease. It is essential to create public awareness of the directives shared by WHO to stop virus transmission and disease spread. Moreover, actions need to be taken to deal with a host of conspiracy theories about the virus on social media. The spread of such fabricated reports can cause panic and confusion among the public. Government agencies have started extensive awareness campaigns to fight the crisis. What tools can be created to support these campaigns and ensure provision of accurate information to everyone (including rural areas as well as urban areas) through smart use of data and social media?
+Option 6. [Vulnerable Population]
+The COVID-19 lockdown has hindered all commercial and employment activities. This has made lives difficult of the poor and local wage earners who were completely dependent on their daily earnings for a living. They are facing serious food shortages and are unable to provide for their families. Shireen Khan, a daily wage worker sits by the side of the road in the Pakistani capital Islamabad, in the drizzling rain, hoping someone will drive by and offer him work. He says, "I'm only out here out of hunger, I have no other reason”. Therefore, it is very important as a community to help these workers and poor people by ensuring adequate food supplies to them.  Moreover, some supply efforts pay too much attention to one location over another. How can you ensure support to the vulnerable in this crisis in an equitable manner?
+Option 7. [Vulnerable Population]
+Another group of vulnerable population is those hit by waves of job layoffs during and after COVID-19 outbreak, because of a downturn in the economy. As we foresee extremely high unemployment rates, initiatives that will create large scale employment and mirco-entrepreneurship are need of the hour. How can you support the creation of mass scale employment and micro-level entrepreneurship in Pakistan?
+Back to top

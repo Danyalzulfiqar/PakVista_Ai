@@ -1,0 +1,98 @@
+Gallup Pakistan - Organizations - Open Data Pakistan
+Skip to content
+Home
+Organizations
+Gallup Pakistan
+Import And Export Pakistan
+This dataset provides detailed information on Pakistan’s international trade, sourced from the official website of the Pakistan Bureau of Statistics (PBS). It includes monthly...
+XLSX
+Last Updated: 2025-06-30
+Pakistan - Education
+Contains data from the World Bank's data portal. There is also a consolidated country dataset on HDX. Education is one of the most powerful instruments for reducing poverty and...
+CSV
+Last Updated: 2021-04-04
+Pakistan - Climate Change
+Contains data from the World Bank's data portal. There is also a consolidated country dataset on HDX. Climate change is expected to hit developing countries the hardest. Its...
+CSV
+Last Updated: 2021-04-04
+Pakistan Federal Budget 2025-26
+This dataset contains the Federal Budget 2025-26 data extracted from the official Demand for Grants documents published by Ministry of Finance. It has been cleaned, structured,...
+CSV
+Last Updated: 2025-06-28
+Sindh Bureau of Statistics
+Publications and other information about Bureau of Statuistics Sindh
+PDF
+ZIP
+Last Updated: 2021-04-04
+Pakistan Aviation Statistics
+This dataset provides detailed statistics on passenger, cargo, and aircraft traffic flows across airports and airlines in Pakistan. It includes annual volumes, domestic and...
+XLSX
+Last Updated: 2025-06-30
+Turkey Healthsites
+This dataset shows the list of operating health facilities. Attributes included: Name,Nature of Facility, Activities, Lat, Long
+CSV
+ZIP
+Last Updated: 2021-04-04
+TAX DIRECTORY OF PAKISTAN 2018
+The dataset includes 2.743 million tax filers of Pakistan who paid their income tax returns for the year 2018. Granular data includes name of the taxpayer, Tax registration...
+PDF
+PPT
+ZIP
+Last Updated: 2021-04-04
+Consumer Price Index
+This dataset contains monthly Consumer Price Index (CPI) statistics reflecting changes in the prices of commodities in Pakistan. It includes national and regional price trends...
+XLSX
+Last Updated: 2025-06-30
+Pakistan General Elections 1970-2024
+A comprehensive digital compilation of election results based on Election Commission Data covering the General Elections of Pakistan from 1970 to 2024. This elections database...
+CSV
+Last Updated: 2025-06-28
+UK Global Visa Issuance
+he dashboard displays data from the UK Immigration System Statistics – Entry Clearance Visas for March 2024, sourced from the UK Home Office. The data has been compiled,...
+XLSX
+Last Updated: 2025-06-30
+The Bureau of Statistics, Planning and Development Department, AJK
+The Bureau of Statistics, Planning and Development Department, Government of the Azad Jammu and Kashmir (AJ&K)
+PDF
+ZIP
+Last Updated: 2021-04-04
+PAMA
+This dataset contains monthly and annual data on vehicle production and sales in Pakistan, sourced from the Pakistan Automotive Manufacturers Association (PAMA). Covering the...
+XLSX
+Last Updated: 2025-06-30
+Election Database 1970-2018
+The election results released by Election Commission Pakistan from year 1970 to 2018.
+sav
+Last Updated: 2021-04-04
+Bureau of Statistics - Government of Balochistan
+Bureau of Statistics - Government of Balochistan
+ZIP
+PDF
+Last Updated: 2021-04-04
+Big Data for Justice
+The 7000 odd courts that make up India’s lower judiciary processed more than 80 million cases between 2010–2018. That huge backlog and scarce resources plague Indian courts is...
+ZIP
+PDF
+Last Updated: 2021-04-04
+Gallup Pakistan Poll on How many children should a Married couple have - Janu...
+ccording to a Gilani Research Foundation Survey carried out by Gallup & Gilani Pakistan, most preferred number of children a married couple should have is four.
+A...
+Last Updated: 2021-04-04
+Bureau of Statistics (BOS), Government of the Punjab
+Publications about different projects
+PDF
+ZIP
+Last Updated: 2021-04-04
+UNDP Gender Inequality Index
+United Nations Development Programme - Human Development Reports on Gender Inequality
+XLSX
+Last Updated: 2021-04-04
+US Immigrants And Non-Immigrants
+This dashboard presents official monthly visa issuance data sourced from the U.S. Department of State, covering both immigrant and non-immigrant visas. It offers categorized...
+XLSX
+Last Updated: 2025-06-30
+1
+2
+3
+4
+»
