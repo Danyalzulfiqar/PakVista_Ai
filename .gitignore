@@ -306,7 +306,7 @@ temp/
 
 # Project specific
 # Tourism data files (large and frequently updated)
-Toutistic_bot_data/raw_data/
+
 *.txt
 !README.txt
 !requirements.txt
